@@ -236,14 +236,14 @@ app.get("/test2", async (req, res) => {
   let finalOutput = "";
 
   for (let i = 0; i < prompts.length; i++) {
-    console.log(JSON.stringify(prompts[i]));
+    // console.log(JSON.stringify(prompts[i]));
     finalOutput += JSON.stringify(prompts[i]) + " \n";
   }
 
   saveTextX({
     message: finalOutput,
-    name:'prompts'
-  })
+    name: "prompts",
+  });
 
   res.json({
     message: "Hello World",

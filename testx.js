@@ -1727,9 +1727,13 @@ const reviews = [
 ];
 
 const finalResult = ai.map((i, index) => {
+  // console.log(i);
   return {
     prompt: reviews[index],
-    completion: i,
+    completion: `${Object.entries(i).reduce((acc,[key, value]) => {
+      const first_line = acc === "" ? "" : acc+',';
+      return first_line+` ${key}: ${value}`;
+    }, "")}`,
   };
 });
 console.log(finalResult[0]);
