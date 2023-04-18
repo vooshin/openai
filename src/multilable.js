@@ -5,19 +5,44 @@ const configuration = new Configuration({
   apiKey: KEY,
 });
 const path = require("path");
-const { REVIEWS } = require("../data/data");
+const { REVIEWS } = require("../data/orderDetailsData");
 const openai = new OpenAIApi(configuration);
 const fs = require("fs");
 
-const PROMPT = `Consider your expert in multi label classification.Consider the following labels for aspect classification: Quality Issue, Quantity Issue, Taste Issue, Packaging Issue, Delivery & Timing Issue, Price Issue, Cooking Issue, Freshness Issue, Staleness Issue, Hardness Issue, Spice Issue, Temperature Issue, Wrong Food Issue, Hygiene Issue,Missing Food Issue, Oiliness Issue, Out of Stock Issue, Foreign Object Issue. response should be in the form of json with each label as a key and the percentage matching as the value. Example:
+const PROMPT = `Consider your expert in multi label classification.Consider the following labels for aspect classification: Quality Issue, Quantity Issue, Taste Issue, Packaging Issue, Delivery & Timing Issue, Price Issue, Cooking Issue, Freshness Issue, Staleness Issue, Hardness Issue, Spice Issue, Temperature Issue, Wrong Food Issue, Hygiene Issue,Missing Food Issue, Oiliness Issue, Out of Stock Issue, Foreign Object Issue. response should be in the form of json with each label as a key and the percentage matching as the value.
+if the review/ feedback is not related to any of the above labels then the value should be 0. for ex: review: "the food was good" then all the labels should have value 0.
+example 2, if the review: "the food was not good, not worth my money" then the labels should be as follows,
+response:
 {
-  "quality_issue": 100,
+    "quality_issue": 100,
+    "quantity_issue": 0,
+    "taste_issue": 0,
+    "packaging_issue": 0,
+    "delivery_timing_issue": 0,
+    "price_issue": 100,
+    "cooking_issue": 0,
+    "freshness_issue": 0,
+    "staleness_issue": 0,
+    "hardness_issue": 0,
+    "spice_issue": 0,
+    "temperature_issue": 0,
+    "wrong_food_issue": 0,
+    "hygiene_issue": 0,
+    "missing_food_issue": 0,
+    "oiliness_issue": 0,
+    "out_of_stock_issue": 0,
+    "foreign_object_issue": 0
+};
+example 3, if the review: "don't pay for anything extra like extra cheese or toppings cause they won't add it to your food." then the labels should be as follows,
+response :
+{
+  "quality_issue": 0,
   "quantity_issue": 0,
-  "taste_issue": 100,
+  "taste_issue": 0,
   "packaging_issue": 0,
-  "delivery_issue": 0,
+  "delivery_timing_issue": 0,
   "price_issue": 0,
-  "cooking_issue": 100,
+  "cooking_issue": 0,
   "freshness_issue": 0,
   "staleness_issue": 0,
   "hardness_issue": 0,
@@ -25,11 +50,12 @@ const PROMPT = `Consider your expert in multi label classification.Consider the 
   "temperature_issue": 0,
   "wrong_food_issue": 0,
   "hygiene_issue": 0,
-  "missing_food_issue": 0,
+  "missing_food_issue": 100,
   "oiliness_issue": 0,
   "out_of_stock_issue": 0,
   "foreign_object_issue": 0
-}
+};
+
 review:
 
 
@@ -51,7 +77,7 @@ module.exports = {
       saveText({
         x: order_feedback,
         y: response,
-        name: "sentiment",
+        name: "multi_label",
       });
       final_response.push({
         delivery_uuid: final_reviews[i].delivery_uuid,
@@ -65,6 +91,16 @@ module.exports = {
     }
 
     return final_response;
+  },
+
+  getMultiLabel: async (review) => {
+    try {
+      const response = await helper(review);
+      return response;
+    } catch (error) {
+      console.log("error", error);
+      return '{}'
+    }
   },
 };
 
