@@ -8,8 +8,12 @@ const { getMultiLabelReview } = require("../src/multilable");
 const {
   mapOrdersItems,
   mapOrdersItemsOutletWise,
-  mapOrdersItemsOutletWiseWithItemDetails
+  mapOrdersItemsOutletWiseWithItemDetails,
+  outletWiseItemDetails,
+  itemWiseDetails,
 } = require("../src/mapOrdersItems");
+const { getTrendInsights } = require("../src/trendsInsights");
+const {getFeedbackInsights} = require("../src/feedbackInsights");
 
 router.get("/", (req, res) => {
   res.send("Hello World!");
@@ -45,28 +49,37 @@ router.get("/multilabel", async (req, res) => {
   });
 });
 
-router.get("/item", (req, res) => {
-  const response = mapOrdersItems();
+router.get("/item-wise", (req, res) => {
+  const response = itemWiseDetails();
   res.json({
     message: "item",
     data: response,
   });
 });
-router.get("/outlet-wise", (req, res) => {
-  const response = mapOrdersItemsOutletWise();
+router.get("/outlet-wise-item", (req, res) => {
+  const response = outletWiseItemDetails();
   console.log("response", response);
   res.json({
-    message: "item",
+    message: "outlet",
     data: response,
   });
 });
-router.get("/outlet-wise-items", (req, res) => {
-  const response = mapOrdersItemsOutletWiseWithItemDetails();
-  console.log("response", response);
-  res.json({
-    message: "item",
+
+router.get("/trends-insights", async (req, res) => {
+  const response = await getTrendInsights();
+  return res.json({
+    message: "insights",
     data: response,
   });
 });
+router.get("/feedback-insights", async (req, res) => {
+  const response = await getFeedbackInsights();
+  return res.json({
+    message: "insights",
+    data: response,
+  });
+});
+
+
 
 module.exports = router;

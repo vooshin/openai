@@ -1,0 +1,90 @@
+message:give me statistic insights of the orders data(this data is for selected date range, consider this as present date range), like The response should be in 30 words or less, consider this array of objects contains the orders data day wise, make the response like im explaining the data to a restaurant owner/manager/business owner.
+
+ ai:Orders for the selected date range show a fluctuating trend with an increase in orders towards the end of March. The highest orders received were on April 8th with 64 orders. Comparing with the previous trend, orders in March have been lower than those in February.
+
+
+message:give me statistic insights of the sales data(this data is for selected date range,consider this as present date range), like The response should be in 30 words or less, consider this array of objects contains the sales data day wise, make the response like im explaining the data to a restaurant owner/manager/business owner.
+
+ ai:Sales trends for the selected date range show an average daily sales of around $798 with a peak value of $1375. The previous sales trends indicate a higher average daily sales of around $996 with a peak value of $1720.
+
+
+message:give me statistic insights of the orders data(this data is for selected date range,consider orders_trends object as present date range and other one for past period), like The response should be in 30 words or less, consider this array of objects contains the orders data day wise, make the response like im explaining the data to a restaurant owner/manager/business owner.
+
+ ai:Over the past period, there were 32-94 orders per day with an average of 60 orders. In the current period, the number of orders decreased with an average of 47 orders per day. It could be helpful to analyze the reasons for this drop in orders.
+
+
+message:give me statistic insights of the sales data(this data is for selected date range,consider orders_trends object as present date range and other one for past period), like The response should be in 30 words or less, consider this array of objects contains the sales data day wise, make the response like im explaining the data to a restaurant owner/manager/business owner.
+
+ ai:Sales for the present period (sales_trends) show uneven trends with ups and downs, with highest sales of $1375.03 on 19th March. There is a significant increase in sales from previous period (prev_sales_trends), with highest sales of $1720.26 on 25th Feb.
+
+
+message:give me statistic insights of the orders data(this data is for selected date range,consider orders_trends object as present date range as current period and other one for past period), like The response should be in 30 words or less, consider this array of objects contains the orders data day wise, make the response like im explaining the data to a restaurant owner/manager/business owner.
+
+ ai:Over the selected date range, in the current period (orders_trends), there were 48-78 daily orders with a total of 1116 orders. In the past period (prev_orders_trends), there were 32-94 daily orders with a total of 1755 orders.
+
+
+message:give me statistic insights of the sales data(this data is for selected date range,consider orders_trends object as present date range as current period and other one for past period), like The response should be in 30 words or less, consider this array of objects contains the sales data day wise, make the response like im explaining the data to a restaurant owner/manager/business owner.
+
+ ai:Sales have increased in the current period compared to the previous period. However, there are some fluctuations in sales day-to-day, so it would be important to identify the cause of these fluctuations and take corrective action to ensure consistent sales growth.
+
+
+message:give me statistic insights of the orders data(this data is for selected date range,consider orders_trends object as present date range as current period and other one for past period), like The response should be in 30 words or less, consider this array of objects contains the orders data day wise, make the response like im explaining the data to a restaurant owner/manager/business owner. don't call it orders_trends, call it current period orders and past period orders. if possible mention the percentage of increase/decrease in orders and date
+
+ ai:Compared to the past period, current period orders have increased by 6.2% on average. The highest increase was on April 8 with 28.1% increase while the lowest was on April 4 with a 6.2% decrease.
+
+
+message:give me statistic insights of the sales data(this data is for selected date range,consider orders_trends object as present date range as current period and other one for past period), like The response should be in 30 words or less, consider this array of objects contains the sales data day wise, make the response like im explaining the data to a restaurant owner/manager/business owner.  don't call it orders_trends, call it current period orders and past period orders. if possible mention the percentage of increase/decrease in orders and date
+
+ ai:There was a 54% increase in sales between 18th Mar and 17th Apr (current period orders) compared to the previous month (past period orders), with highest sales on 25th Mar and 16th Apr. On the other hand, sales were low on 21st Mar and 4th Apr.
+
+
+message:give me statistic insights of the orders data(this data is for selected date range,consider orders_trends object as present date range as current period and other one for past period), like The response should be in 30 words or less, consider this array of objects contains the orders data day wise, make the response like im explaining the data to a restaurant owner/manager/business owner. don't call it orders_trends, call it current period orders and past period orders. if possible mention the percentage of increase/decrease in orders and date
+
+ ai:Current period orders had a higher average of 48 orders/day (up 16%) compared to past period orders which had an average of 59 orders/day. The greatest increase was on April 9th, where current period orders had 24 more orders than past period orders.
+
+
+message:give me statistic insights of the sales data(this data is for selected date range,consider orders_trends object as present date range as current period and other one for past period), like The response should be in 30 words or less, consider this array of objects contains the sales data day wise, make the response like im explaining the data to a restaurant owner/manager/business owner.  don't call it orders_trends, call it current period orders and past period orders. if possible mention the percentage of increase/decrease in orders and date
+
+ ai:In the selected date range, there was a decrease of about 3.5% in sales compared to the past period. The number of orders ranged from $436.81 to $1720.26. The trend is fluctuating with no particular pattern.
+
+
+message:give me statistic insights of the orders data(consider orders_trends object as present selected date range data, call it as current period orders and other one as past period orders), like The response should be in 30 words or less, consider this array of objects contains the orders data day wise, make the response like im explaining the data to a restaurant owner/manager/business owner. don't call it orders_trends, call it current period orders and past period orders. if possible mention the percentage of increase/decrease in orders and date
+
+ ai:Compared to the previous period, current period orders have seen an increase of 10.6% (from 620 to 685 orders). The highest order day is 23rd March with 60 orders.
+
+
+message:give me statistic insights of the sales data(consider orders_trends object as present selected date range data, call it as current period sales and other one as past period sales), like The response should be in 30 words or less, consider this array of objects contains the sales data day wise, make the response like im explaining the data to a restaurant owner/manager/business owner.  don't call it orders_trends, call it current period orders and past period orders. if possible mention the percentage of increase/decrease in orders and date
+
+ ai:In the current period, sales have averaged around $800 per day, with an increase in sales on weekends. However, sales have decreased by about 20% compared to the previous period, which averaged around $1000 per day.
+
+
+message:give me statistic insights of the orders data(consider orders_trends object as present selected date range data, call it as current period orders and other one as past period orders), like The response should be in 30 words or less, consider this array of objects contains the orders data day wise, make the response like im explaining the data to a restaurant owner/manager/business owner. don't call it orders_trends, call it current period orders and past period orders. if possible mention the percentage of increase/decrease in orders and date
+
+ ai:The current period orders show an overall increase of 11% compared to the past period orders. There was a significant increase in orders between March 18th and March 19th, with a total of 78 orders placed on March 19th. On the other hand, orders decreased by 5% between March 28th and April 2nd.
+
+
+message:give me statistic insights of the sales data(consider orders_trends object as present selected date range data, call it as current period sales and other one as past period sales), like The response should be in 30 words or less, consider this array of objects contains the sales data day wise, make the response like im explaining the data to a restaurant owner/manager/business owner.  don't call it orders_trends, call it current period orders and past period orders. if possible mention the percentage of increase/decrease in orders and date
+
+ ai:Current period orders show a decrease of about 15% in sales compared to the past period orders. This is based on day-wise data from March 18 to April 17, with the highest sales on April 16.
+
+
+message:give me statistic insights of the orders data(consider orders_trends object as present selected date range data, call it as current period orders and other one as past period orders), like The response should be in 30 words or less, consider this array of objects contains the orders data day wise, make the response like im explaining the data to a restaurant owner/manager/business owner. don't call it orders_trends, call it current period orders and past period orders. if possible mention the percentage of increase/decrease in orders and date
+
+ ai:Compared to the previous period, current period orders have increased by 17%. On average, we are getting 48 orders per day in the current period. In the past period, we had received 57 orders per day.
+
+
+message:give me statistic insights of the sales data(consider orders_trends object as present selected date range data, call it as current period sales and other one as past period sales), like The response should be in 30 words or less, consider this array of objects contains the sales data day wise, make the response like im explaining the data to a restaurant owner/manager/business owner.  don't call it orders_trends, call it current period orders and past period orders. if possible mention the percentage of increase/decrease in orders and date
+
+ ai:The current period sales data shows a total of 17,931.59 in sales between March 18th and April 17th, with a peak on April 16th at 974.70. The past period sales data shows a total of 25,800.48 in sales between February 15th and March 17th, with a peak on February 25th at 1720.26. This shows a decrease of approximately 30% in sales.
+
+
+message:give me statistic insights of the orders data(consider orders_trends object as present selected date range data, call it as current period orders and other one as past period orders), like The response should be in 30 words or less, consider this array of objects contains the orders data day wise, make the response like im explaining the data to a restaurant owner/manager/business owner. don't call it orders_trends, call it current period orders and past period orders. if possible mention the percentage of increase/decrease in orders and date
+
+ ai:The current period orders show a 16% increase in orders compared to the past period orders. The highest orders were placed on April 16th with 60 orders, while the lowest were on March 20th with 38 orders.
+
+
+message:give me statistic insights of the sales data(consider orders_trends object as present selected date range data, call it as current period sales and other one as past period sales), like The response should be in 30 words or less, consider this array of objects contains the sales data day wise, make the response like im explaining the data to a restaurant owner/manager/business owner.  don't call it orders_trends, call it current period orders and past period orders. if possible mention the percentage of increase/decrease in orders and date
+
+ ai:Overall, current period sales for March 18 to April 17 have decreased by 9.5% compared to the previous month. There was a significant drop in sales during March 20-23, but sales have gradually picked up since then.
+
+
