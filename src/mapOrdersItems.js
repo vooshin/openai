@@ -48,7 +48,6 @@ module.exports = {
 
     return seenOutlets;
   },
-
   mapOrdersItemsOutletWiseWithItemDetails: () => {
     //  clone outlet
     const finalData = { ...outlet };
@@ -172,6 +171,65 @@ module.exports = {
 
       outletWiseItem[listing_id] = {
         issues,
+        top_issues: top_label.map((i) => i.label),
+      };
+    });
+    return outletWiseItem;
+  },
+  outletWiseItemDetailsX: () => {
+    // outlet wise item
+    let outletWiseItem = {};
+
+    Object.keys(outlet).forEach((listing_id) => {
+      const curr_listing_data = outlet[listing_id];
+      let delivery_uuids = Object.keys(curr_listing_data);
+      delivery_uuids = delivery_uuids.filter(
+        (id) =>
+          id !== "null" &&
+          id.length > 3 &&
+          id !== "66b0e062-cd7c-11ed-a063-7344742c940e" &&
+          id !== "558fe36a-69f5-442d-a5ec-84b409be6bf3" &&
+          id !== "94c12af6-219c-4886-9699-ac6a8ad87df4"
+      );
+      let issues = {};
+      let issue_items = {};
+      delivery_uuids.forEach((delivery_uuid) => {
+        const curr_delivery_uuid_data = curr_listing_data[delivery_uuid];
+        const multi_label = curr_delivery_uuid_data.multi_label;
+        const items = curr_delivery_uuid_data.items;
+
+        items.map((itemObject) => {
+          const { item_name } = itemObject;
+          if (!issue_items[item_name]) {
+            issue_items[item_name] = 0;
+          }
+          issue_items[item_name] += 1;
+        });
+
+        if (Object.keys(issues).length === 0) {
+          issues = Object.keys(multi_label).reduce((acc, curr) => {
+            acc[curr] = 0;
+            return acc;
+          }, {});
+        }
+        Object.entries(multi_label).forEach(([label, value]) => {
+          issues[label] += value;
+        });
+      });
+
+      let top_label = [];
+      Object.entries(issues).forEach(([label, value]) => {
+        if (value !== 0) {
+          top_label.push({ label, value });
+        }
+      });
+
+      // sort labels by value
+      top_label.sort((a, b) => b.value - a.value);
+
+      outletWiseItem[listing_id] = {
+        issues,
+        issue_items: Object.keys(issue_items).map((item_name, count) => item_name),
         top_issues: top_label.map((i) => i.label),
       };
     });

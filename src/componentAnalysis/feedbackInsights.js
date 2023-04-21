@@ -1,14 +1,6 @@
-const { Configuration, OpenAIApi } = require("openai");
-require("dotenv").config();
-const KEY = process.env.OPEN_AI_API_KEY;
-const configuration = new Configuration({
-  apiKey: KEY,
-});
-const openai = new OpenAIApi(configuration);
-const fs = require("fs");
-const path = require("path");
-
-const data = [
+const { getOpenAIResponse } = require("../openai/fetchResponse");
+// ----------------- prompt and sample data -----------------
+const feedback_data = [
   {
     name: "Orange Tree Cafe Restaurant-Bedhead Burritos and Bowls",
     feedback:
@@ -222,68 +214,22 @@ const data = [
 ];
 const PROMPT = `Provide a statistical analysis for the feedback data,
     for bad feedback, provide a list of reasons why the feedback is bad, and also check how many times same reason is repeated. the response should be of 30 words or less. make it like i am asking you to provide a report on the feedback data and im restaurant owner.`;
+
+// -----------------------------------------------------------
+
 module.exports = {
   getFeedbackInsights: async () => {
-    const response_one = await helper(data, PROMPT);
-    // const response_two = await helper(sales_trends, PROMPT_X_sales);
-
-    if (!response_one.status && !response_two.status) {
+    const data = await getOpenAIResponse(feedback_data, PROMPT, "feedback");
+    if (!data.status) {
       return {
         status: false,
-        error: response_one.error,
+        error: data.error,
       };
     }
     return {
       status: true,
-      response_one: response_one.response,
+      data: data.response,
       //   response_two: response_two.response,
     };
   },
 };
-
-async function helper(data, prompt) {
-  try {
-    const history = [];
-    const content = `${prompt} data:${JSON.stringify(data)}`;
-    history.push({
-      role: "user",
-      content: content,
-    });
-    const completion = await openai.createChatCompletion({
-      model: "gpt-3.5-turbo",
-      messages: history,
-    });
-    const response = completion.data.choices[0].message.content;
-
-    saveText({ x: prompt, y: response, name: "feedback" });
-
-    return {
-      status: true,
-      response: response,
-    };
-  } catch (error) {
-    console.log(error);
-    return {
-      status: false,
-      error: error,
-    };
-  }
-}
-
-function saveText({ x, y, name }) {
-  const default_name = name ?? "data";
-  try {
-    fs.appendFileSync(
-      path.join(path.resolve("./"), "/demo", `${default_name}.txt`),
-      `message:${x}\n\n ai:${y}\n\n\n`,
-      "UTF8"
-    );
-    console.log("saved");
-  } catch (error) {
-    console.log("error", error);
-    return {
-      status: false,
-      error: error,
-    };
-  }
-}

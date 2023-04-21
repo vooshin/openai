@@ -1,16 +1,131 @@
-const { Configuration, OpenAIApi } = require("openai");
-require("dotenv").config();
-const KEY = process.env.OPEN_AI_API_KEY;
-const configuration = new Configuration({
-  apiKey: KEY,
-});
-const openai = new OpenAIApi(configuration);
-const fs = require("fs");
-const path = require("path");
-const PROMPT = `Consider your expert analysis. You are given a JSON object and you need to return the insights of the object. The insights can be such that we can use it to improve the product. the data is related to the food delivery industry/restaurant industry. The response should be in 30 words or less, consider this array of objects contains the sales/orders`;
-const PROMPT_X_orders = `give me statistic insights of the orders data(consider orders_trends object as present selected date range data, call it as current period orders and other one as past period orders), like The response should be in 30 words or less, consider this array of objects contains the orders data day wise, make the response like im explaining the data to a restaurant owner/manager/business owner. don't call it orders_trends, call it current period orders and past period orders. if possible mention the percentage of increase/decrease in orders and date`;
-const PROMPT_X_sales = `give me statistic insights of the sales data(consider orders_trends object as present selected date range data, call it as current period sales and other one as past period sales), like The response should be in 30 words or less, consider this array of objects contains the sales data day wise, make the response like im explaining the data to a restaurant owner/manager/business owner.  don't call it orders_trends, call it current period orders and past period orders. if possible mention the percentage of increase/decrease in orders and date`;
+const { getOpenAIResponse } = require("../openai/fetchResponse");
 
+// ----------------- prompt and sample data -----------------
+
+const PROMPT_ORDER_TRENDS = `give me statistic insights of the orders data(consider orders_trends object as present selected date range data, call it as current period orders and other one as past period orders), like The response should be in 30 words or less, consider this array of objects contains the orders data day wise, make the response like im explaining the data to a restaurant owner/manager/business owner. don't call it orders_trends, call it current period orders and past period orders. if possible mention the percentage of increase/decrease in orders and date`;
+const PROMPT_SALES_TREND = `give me statistic insights of the sales data(consider orders_trends object as present selected date range data, call it as current period sales and other one as past period sales), like The response should be in 30 words or less, consider this array of objects contains the sales data day wise, make the response like im explaining the data to a restaurant owner/manager/business owner.  don't call it orders_trends, call it current period orders and past period orders. if possible mention the percentage of increase/decrease in orders and date`;
+const PROMPT_DEDUCTION = `Consider you are expert in sales analytics and statistics. You are provide with the following data(deduction details of a restaurant, consider deductions_donut object as present selected date range data, call it as current period deduction and other one as past period deduction) and you are asked to provide insights on the data. the response should be of 30 words or less. The data is as follows,`;
+const PROMPT_SALES = `Consider you are expert in sales analytics and statistics. You have to provide insights to the restaurant owner about the sales for all the restaurant,  the response should be of 30 words or less. You have the following data available with you. `;
+const sales_data = {
+  current_period: [{ start_date: "2023-03-18", end_date: "2023-04-17" }],
+  prev__period: [{ start_date: "2023-02-15", end_date: "2023-03-18" }],
+  rating_card: {
+    avg_rating: 3.85,
+    prev_rating: 3.82,
+    last_period_value: 3.82,
+    percentage_difference: 0.8,
+  },
+  total_online_rate: {
+    avg_rate: 94.27,
+    avg_online_rate: 94.27,
+    last_period_value: 95.77,
+    percentage_difference: -1.57,
+  },
+  net_payout: {
+    curr_net_payout: 5296.42,
+    prev_net_payout: 5684.32,
+    percentage_difference: -6.82,
+  },
+  total_orders: {
+    curr_total_count: 1433,
+    last_period_value: 1795,
+    curr_total_amount: 23880.37,
+    prev_total_amount: 30499.97,
+    percentage_difference: -25.26,
+    percentage_amount: -27.72,
+  },
+  city_wise_data: {
+    "Ann Arbor": {
+      curr_order_count: 73,
+      curr_amount: 1253.89,
+      prev_order_count: 116,
+      prev_amount: 2131.96,
+    },
+    Detroit: {
+      curr_order_count: 1081,
+      curr_amount: 16838.63,
+      prev_order_count: 1624,
+      prev_amount: 27151.67,
+    },
+    Toledo: {
+      curr_order_count: 171,
+      curr_amount: 3188.7,
+      prev_order_count: 55,
+      prev_amount: 1216.34,
+    },
+    Rossford: {
+      curr_order_count: 108,
+      curr_amount: 2599.15,
+      prev_order_count: 0,
+      prev_amount: 0,
+    },
+  },
+};
+
+const deduction_data = {
+  current_period: [{ start_date: "2023-03-18", end_date: "2023-04-17" }],
+  deductions_donut: [
+    {
+      name: "miscellaneous_payments",
+      value: -6175.9,
+    },
+    {
+      name: "merchant_commission",
+      value: -3475.16,
+    },
+    {
+      name: "promo_spend_on_food",
+      value: -1965.45,
+    },
+    {
+      name: "merchant_commission_tax",
+      value: -884.38,
+    },
+    {
+      name: "delivery_network_fee",
+      value: 365.81,
+    },
+    {
+      name: "tax_on_promotion_on_food",
+      value: -97.41,
+    },
+    {
+      name: "marketing_fees",
+      value: -82.63,
+    },
+  ],
+  prev__period: [{ start_date: "2023-02-15", end_date: "2023-03-18" }],
+  prev_deductions_donut: [
+    {
+      name: "merchant_commission",
+      value: -3475.16,
+    },
+    {
+      name: "merchant_commission_tax",
+      value: -884.38,
+    },
+    {
+      name: "marketing_fees",
+      value: -82.63,
+    },
+    {
+      name: "delivery_network_fee",
+      value: 365.81,
+    },
+    {
+      name: "promo_spend_on_food",
+      value: -1965.45,
+    },
+    {
+      name: "tax_on_promotion_on_food",
+      value: -97.41,
+    },
+    {
+      name: "miscellaneous_payments",
+      value: -6175.9,
+    },
+  ],
+};
 const orders_trends = {
   orders_trends: [
     {
@@ -265,7 +380,6 @@ const orders_trends = {
     },
   ],
 };
-
 const sales_trends = {
   sales_trends: [
     {
@@ -521,69 +635,73 @@ const sales_trends = {
   ],
 };
 
-// Todo: but we also need prev orders trends and prev sales trends
-module.exports = {
-  getTrendInsights: async () => {
-    const response_one = await helper(orders_trends, PROMPT_X_orders);
-    const response_two = await helper(sales_trends, PROMPT_X_sales);
+// -----------------------------------------------------------
 
-    if (!response_one.status && !response_two.status) {
+module.exports = {
+  // Todo: but we also need prev orders trends and prev sales trends
+  // * used in dashboard
+  getTrendInsights: async () => {
+    const order_trends_response = await getOpenAIResponse(
+      orders_trends,
+      PROMPT_ORDER_TRENDS,
+      "order_trends"
+    );
+    const sales_trend_response = await getOpenAIResponse(
+      sales_trends,
+      PROMPT_SALES_TREND,
+      "sales_trends"
+    );
+
+    if (!order_trends_response.status && !sales_trend_response.status) {
       return {
         status: false,
-        error: response_one.error,
+        error: order_trends_response.error,
       };
     }
     return {
       status: true,
-      response_one: response_one.response,
-      response_two: response_two.response,
+      data: {
+        order_trends_response: order_trends_response.response,
+        sales_trend_response: sales_trend_response.response,
+      },
+    };
+  },
+  // * used in dashboard
+  getDeductionsInsights: async () => {
+    const data = await getOpenAIResponse(
+      deduction_data,
+      PROMPT_DEDUCTION,
+      "deduction"
+    );
+
+    if (!data.status) {
+      return {
+        status: false,
+        error: data.error,
+      };
+    }
+    return {
+      status: true,
+      data: data.response,
+    };
+  },
+  // * used in dashboard
+  getSalesInsights: async () => {
+    const data = await getOpenAIResponse(
+      sales_data,
+      PROMPT_SALES,
+      "sales_information"
+    );
+
+    if (!data.status) {
+      return {
+        status: false,
+        error: data.error,
+      };
+    }
+    return {
+      status: true,
+      data: data.response,
     };
   },
 };
-
-async function helper(data, prompt) {
-  try {
-    const history = [];
-    const content = `${prompt} data:${JSON.stringify(data)}`;
-    history.push({
-      role: "user",
-      content: content,
-    });
-    const completion = await openai.createChatCompletion({
-      model: "gpt-3.5-turbo",
-      messages: history,
-    });
-    const response = completion.data.choices[0].message.content;
-
-    saveText({ x: prompt, y: response, name: "trends" });
-
-    return {
-      status: true,
-      response: response,
-    };
-  } catch (error) {
-    console.log(error);
-    return {
-      status: false,
-      error: error,
-    };
-  }
-}
-
-function saveText({ x, y, name }) {
-  const default_name = name ?? "data";
-  try {
-    fs.appendFileSync(
-      path.join(path.resolve("./"), "/demo", `${default_name}.txt`),
-      `message:${x}\n\n ai:${y}\n\n\n`,
-      "UTF8"
-    );
-    console.log("saved");
-  } catch (error) {
-    console.log("error", error);
-    return {
-      status: false,
-      error: error,
-    };
-  }
-}

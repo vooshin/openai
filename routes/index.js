@@ -1,4 +1,5 @@
 const router = require("express").Router();
+const componentAnalysis = require("./componentAnalysis");
 const {
   getSentimentOfReview,
   getSentimentOfReviewWithMultiLabel,
@@ -10,10 +11,11 @@ const {
   mapOrdersItemsOutletWise,
   mapOrdersItemsOutletWiseWithItemDetails,
   outletWiseItemDetails,
+  outletWiseItemDetailsX,
   itemWiseDetails,
 } = require("../src/mapOrdersItems");
-const { getTrendInsights } = require("../src/trendsInsights");
-const {getFeedbackInsights} = require("../src/feedbackInsights");
+
+router.use("/component-analysis", componentAnalysis);
 
 router.get("/", (req, res) => {
   res.send("Hello World!");
@@ -57,29 +59,12 @@ router.get("/item-wise", (req, res) => {
   });
 });
 router.get("/outlet-wise-item", (req, res) => {
-  const response = outletWiseItemDetails();
+  const response = outletWiseItemDetailsX();
   console.log("response", response);
   res.json({
     message: "outlet",
     data: response,
   });
 });
-
-router.get("/trends-insights", async (req, res) => {
-  const response = await getTrendInsights();
-  return res.json({
-    message: "insights",
-    data: response,
-  });
-});
-router.get("/feedback-insights", async (req, res) => {
-  const response = await getFeedbackInsights();
-  return res.json({
-    message: "insights",
-    data: response,
-  });
-});
-
-
 
 module.exports = router;
