@@ -346,9 +346,10 @@ const cancelation_data = {
   ],
 };
 module.exports = {
-  getCancelationInsights: async () => {
+  getCancelationInsights: async (payload) => {
+    const { cancelation_data: c_data } = payload || {};
     const data = await getOpenAIResponse(
-      cancelation_data,
+      c_data ? c_data : cancelation_data,
       PROMPT_CANCELATION,
       "cancelation"
     );

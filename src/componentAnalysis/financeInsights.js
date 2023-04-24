@@ -1450,32 +1450,20 @@ const PROMPT_DEDUCTION = `Consider yourself as statistical analyst expert, you h
 const PROMPT_PAYABLE = `Consider yourself as statistical analyst expert, you have been given outlet wise payable data, try to find out the insights from the data and the response should be of 50 words or less
 `;
 
-const PROMPT_FINANCE = `Consider yourself as statistical analyst expert, you have been given overall finance data, try to find out the insights from the data(comparison and some percentage difference, etc) and the response should be of 50 words or less`
+const PROMPT_FINANCE = `Consider yourself as statistical analyst expert, you have been given overall finance data, try to find out the insights from the data(comparison and some percentage difference, etc) and the response should be of 50 words or less`;
 
 // -----------------------------------------------------------
 
 module.exports = {
-  getFinanceInsights: async () => {
-    // payload is large
-    // const data_one = await getOpenAIResponse(
-    //   outlet_wise_deductions,
-    //   PROMPT_DEDUCTION,
-    //   "finance outlet wise deductions"
-    // );
-    const data_two = await getOpenAIResponse(
-      outlet_wise_payable,
+  getFinanceOutletWiseInsights: async (payload) => {
+    const { outlet_wise_payable: outlet } = payload || {};
+    const data = await getOpenAIResponse(
+      outlet ? outlet : outlet_wise_payable,
       PROMPT_PAYABLE,
       "finance outlet wise payable"
     );
-    const data_three = await getOpenAIResponse(
-      overall_finance,
-      PROMPT_FINANCE,
-      "finance overall details"
-    );
 
-
-
-    if (!data_two.status || !data_three.status) {
+    if (!data.status) {
       return {
         status: false,
         error: data.error,
@@ -1483,11 +1471,26 @@ module.exports = {
     }
     return {
       status: true,
-      data: {
-        // deductions: data_one.response,
-        payable: data_two.response,
-        overall: data_three.response,
-      },
+      data: data.response,
+    };
+  },
+  getFinanceOverallInsights: async (payload) => {
+    const { overall_finance: finance } = payload || {};
+    const data = await getOpenAIResponse(
+      finance ? finance : overall_finance,
+      PROMPT_FINANCE,
+      "finance overall details"
+    );
+
+    if (!data.status) {
+      return {
+        status: false,
+        error: data.error,
+      };
+    }
+    return {
+      status: true,
+      data: data.response,
     };
   },
 };

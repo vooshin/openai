@@ -9,11 +9,13 @@ app.use(express.urlencoded({ extended: true }));
 
 const routes = require("./routes/index");
 app.use("/", routes);
+app.set('view engine', 'ejs'); // set the view engine to ejs
 const allEndPoints = listEndpoints(app);
 const endPoints = allEndPoints.map((endPoint) => {
   return `method: ${endPoint.methods[0]} path: ${BASE_ENDPOINT}${endPoint.path}`
 })
 console.table(endPoints)
+
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });

@@ -640,14 +640,15 @@ const sales_trends = {
 module.exports = {
   // Todo: but we also need prev orders trends and prev sales trends
   // * used in dashboard
-  getTrendInsights: async () => {
+  getTrendInsights: async (payload) => {
+    const { orders, sales } = payload ?? {};
     const order_trends_response = await getOpenAIResponse(
-      orders_trends,
+      orders ? orders : orders_trends,
       PROMPT_ORDER_TRENDS,
       "order_trends"
     );
     const sales_trend_response = await getOpenAIResponse(
-      sales_trends,
+      sales ? sales : sales_trends,
       PROMPT_SALES_TREND,
       "sales_trends"
     );
@@ -667,9 +668,10 @@ module.exports = {
     };
   },
   // * used in dashboard
-  getDeductionsInsights: async () => {
+  getDeductionsInsights: async (payload) => {
+    const { deductions } = payload ??{}
     const data = await getOpenAIResponse(
-      deduction_data,
+      deductions ? deductions : deduction_data,
       PROMPT_DEDUCTION,
       "deduction"
     );
@@ -686,9 +688,10 @@ module.exports = {
     };
   },
   // * used in dashboard
-  getSalesInsights: async () => {
+  getSalesInsights: async (payload) => {
+    const { sales } = payload ??{}
     const data = await getOpenAIResponse(
-      sales_data,
+      sales?sales:sales_data,
       PROMPT_SALES,
       "sales_information"
     );

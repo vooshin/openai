@@ -1036,9 +1036,10 @@ const sales_analysis_data_3 = {
 // -----------------------------------------------------------
 
 module.exports = {
-  getSalesAnalysisInsightsOne: async () => {
+  getSalesAnalysisInsightsOne: async (payload) => {
+    const { sales } = payload ?? {};
     const data = await getOpenAIResponse(
-      sales_analysis_data_1,
+      sales ? sales : sales_analysis_data_1,
       PROMPT_SALES_ANALYSIS_1,
       "sales_analysis_one"
     );
@@ -1054,9 +1055,11 @@ module.exports = {
       data: data.response,
     };
   },
-  getSalesAnalysisInsightsTwo: async () => {
+  getSalesAnalysisInsightsTwo: async (payload) => {
+    const { sales } = payload ?? {};
+    
     const data = await getOpenAIResponse(
-      sales_analysis_data_2,
+      sales ? sales : sales_analysis_data_2,
       PROMPT_SALES_ANALYSIS_2,
       "sales_analysis_two"
     );
@@ -1072,9 +1075,10 @@ module.exports = {
       data: data.response,
     };
   },
-  getSalesAnalysisInsightsThree: async () => {
+  getSalesAnalysisInsightsThree: async (payload) => {
+    const { sales } = payload ?? {};
     const data = await getOpenAIResponse(
-      sales_analysis_data_3,
+      sales ? sales : sales_analysis_data_3,
       PROMPT_SALES_ANALYSIS_3,
       "sales_analysis_three"
     );

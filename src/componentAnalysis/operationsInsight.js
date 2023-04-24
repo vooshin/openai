@@ -1189,34 +1189,18 @@ const PROMPT_OPERATIONS_PLATFORM = `Provide a statistical analysis for the servi
 // -----------------------------------------------------------
 
 module.exports = {
-  getOperationInsights: async () => {
-    console.log(
-      "getOperationInsights 1",
-      JSON.stringify(operations_serviceability_data_1).length
-    );
-    console.log(
-      "getOperationInsights 2",
-      JSON.stringify(operations_serviceability_data_2.length)
-    );
+  getOperationStoreWiseInsights: async (payload) => {
+    const { stores_serviceability } = payload || {};
 
     const data = await getOpenAIResponse(
-      operations_serviceability_data_1,
+      stores_serviceability
+        ? stores_serviceability
+        : operations_serviceability_data_1,
       PROMPT_OPERATIONS_ONE,
-      "operation serviceability current"
-    );
-    const data_two = await getOpenAIResponse(
-      operations_serviceability_data_1,
-      PROMPT_OPERATIONS_TWO,
-      "operation serviceability previous"
+      "store wise serviceability"
     );
 
-    const platform_data = await getOpenAIResponse(
-      operations_serviceability_platform_wise,
-      PROMPT_OPERATIONS_PLATFORM,
-      "operation_platform"
-    );
-
-    if (!data.status || !data_two.status || !platform_data.status) {
+    if (!data.status) {
       return {
         status: false,
         error: data.error,
@@ -1224,11 +1208,29 @@ module.exports = {
     }
     return {
       status: true,
-      data: {
-        serviceability_one: data.response,
-        serviceability_two: data_two.response,
-        platform_serviceability: platform_data.response,
-      },
+      data: data.response,
+    };
+  },
+  getOperationPlatformWiseInsights: async (payload) => {
+    const { serviceability_platform_wise } = payload || {};
+
+    const platform_data = await getOpenAIResponse(
+      serviceability_platform_wise
+        ? serviceability_platform_wise
+        : operations_serviceability_platform_wise,
+      PROMPT_OPERATIONS_PLATFORM,
+      "serviceability platform wise"
+    );
+
+    if (!platform_data.status) {
+      return {
+        status: false,
+        error: platform_data.error,
+      };
+    }
+    return {
+      status: true,
+      data: platform_data.response,
     };
   },
 };

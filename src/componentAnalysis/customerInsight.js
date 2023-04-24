@@ -23,9 +23,10 @@ const customer_insight_data = {
   ],
 };
 module.exports = {
-  getCustomerInsights: async () => {
+  getCustomerInsights: async (payload) => {
+    const { overall_customers } = payload || {};
     const data = await getOpenAIResponse(
-      customer_insight_data,
+      overall_customers ? overall_customers : customer_insight_data,
       PROMPT_CUSTOMER_INSIGHT,
       "customer insight"
     );

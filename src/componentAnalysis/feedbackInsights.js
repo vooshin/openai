@@ -218,8 +218,13 @@ const PROMPT = `Provide a statistical analysis for the feedback data,
 // -----------------------------------------------------------
 
 module.exports = {
-  getFeedbackInsights: async () => {
-    const data = await getOpenAIResponse(feedback_data, PROMPT, "feedback");
+  getFeedbackInsights: async (payload) => {
+    const { feedback } = payload ?? {};
+    const data = await getOpenAIResponse(
+      feedback ? feedback : feedback_data,
+      PROMPT,
+      "feedback"
+    );
     if (!data.status) {
       return {
         status: false,
