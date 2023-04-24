@@ -1,19 +1,19 @@
 const router = require("express").Router();
 const componentAnalysis = require("./componentAnalysis");
-const {
-  getSentimentOfReview,
-  getSentimentOfReviewWithMultiLabel,
-  getSentimentOfReviewWithMultiLabel2,
-} = require("../src/sentiment");
-const { getMultiLabelReview } = require("../src/multilable");
-const {
-  mapOrdersItems,
-  mapOrdersItemsOutletWise,
-  mapOrdersItemsOutletWiseWithItemDetails,
-  outletWiseItemDetails,
-  outletWiseItemDetailsX,
-  itemWiseDetails,
-} = require("../src/mapOrdersItems");
+// const {
+//   getSentimentOfReview,
+//   getSentimentOfReviewWithMultiLabel,
+//   getSentimentOfReviewWithMultiLabel2,
+// } = require("../src/sentiment");
+// const { getMultiLabelReview } = require("../src/multilable");
+// const {
+//   mapOrdersItems,
+//   mapOrdersItemsOutletWise,
+//   mapOrdersItemsOutletWiseWithItemDetails,
+//   outletWiseItemDetails,
+//   outletWiseItemDetailsX,
+//   itemWiseDetails,
+// } = require("../src/mapOrdersItems");
 
 router.use("/component-analysis", componentAnalysis);
 
