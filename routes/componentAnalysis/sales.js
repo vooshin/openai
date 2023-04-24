@@ -38,6 +38,20 @@ router.get("/trends-insights", async (req, res) => {
             },
           ],
         },
+        sales: {
+          sales_trends: [
+            {
+              date: "2023-03-18",
+              value: 1120.18,
+            },
+          ],
+          prev_sales_trends: [
+            {
+              date: "2023-02-15",
+              value: 660.37,
+            },
+          ],
+        },
       },
     },
   });
@@ -179,7 +193,7 @@ router.get("/sales-insights", async (req, res) => {
           current_period: [
             { start_date: "2023-03-18", end_date: "2023-04-17" },
           ],
-          prev__period: [{ start_date: "2023-02-15", end_date: "2023-03-18" }],
+          prev_period: [{ start_date: "2023-02-15", end_date: "2023-03-18" }],
           rating_card: {
             avg_rating: 3.85,
             prev_rating: 3.82,
@@ -232,7 +246,7 @@ router.get("/sales-insights", async (req, res) => {
             },
           },
         },
-      },
+    },
     },
   });
 });
@@ -567,13 +581,15 @@ router.post("/sales-analysis-insights-2", async (req, res) => {
       sales,
     });
     return res.json({
-      message: "sales analysis insights 2, overall sales(order, amount, items, revenue)",
+      message:
+        "sales analysis insights 2, overall sales(order, amount, items, revenue)",
       data: response,
       error: null,
     });
   } catch (error) {
     return res.json({
-      message: "sales analysis insights 2, overall sales(order, amount, items, revenue) error",
+      message:
+        "sales analysis insights 2, overall sales(order, amount, items, revenue) error",
       data: null,
       error: error,
     });
@@ -1365,25 +1381,23 @@ router.get("/sales-analysis-insights-3", async (req, res) => {
   });
 });
 router.post("/sales-analysis-insights-3", async (req, res) => {
- try {
-  const sales = req?.body?.sales;
-  const response = await getSalesAnalysisInsightsThree({
-    sales,
-  });
-  return res.json({
-    message: "sales analysis insights 3, platform wise sales",
-    data: response,
-    error: null,
-  });
-  
- } catch (error) {
-  return res.json({
-    message: "sales analysis insights 3, platform wise sales",
-    data: null,
-    error: error.message,
-  });
-
- }
+  try {
+    const sales = req?.body?.sales;
+    const response = await getSalesAnalysisInsightsThree({
+      sales,
+    });
+    return res.json({
+      message: "sales analysis insights 3, platform wise sales",
+      data: response,
+      error: null,
+    });
+  } catch (error) {
+    return res.json({
+      message: "sales analysis insights 3, platform wise sales",
+      data: null,
+      error: error.message,
+    });
+  }
 });
 
 module.exports = router;

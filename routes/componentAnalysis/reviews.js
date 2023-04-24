@@ -33,13 +33,13 @@ router.post("/feedback-insights", async (req, res) => {
       feedback,
     });
     return res.json({
-      message: "feedback insights error",
+      message: "feedback insights",
       data: response,
       error: null,
     });
   } catch (error) {
     return res.json({
-      message: "error",
+      message: "feedback insights error",
       data: null,
       error: error.message,
     });
