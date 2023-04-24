@@ -16,6 +16,9 @@ const endPoints = allEndPoints.map((endPoint) => {
 })
 console.table(endPoints)
 
+
+
+//  listing all the endpoints
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
