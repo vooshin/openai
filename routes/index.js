@@ -18,7 +18,10 @@ const componentAnalysis = require("./componentAnalysis");
 router.use("/component-analysis", componentAnalysis);
 
 router.get("/", (req, res) => {
-  res.send("Hello World!");
+  res.json({
+    message: "Welcome to the API",
+    data:{}
+  });
 });
 
 // router.get("/sentiment", async (req, res) => {
