@@ -1,6 +1,6 @@
 require("dotenv").config();
 const express = require("express");
-const listEndpoints = require("express-list-endpoints"); 
+const listEndpoints = require("express-list-endpoints");
 const app = express();
 const PORT = process.env.PORT || 5051;
 const BASE_ENDPOINT = `http://localhost:${PORT}`;
