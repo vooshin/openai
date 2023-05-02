@@ -1,5 +1,6 @@
 const router = require("express").Router();
 const componentAnalysis = require("./componentAnalysis");
+const ordersItemClassification = require("./ordersItemClassification/orderItems");
 // const {
 //   getSentimentOfReview,
 //   getSentimentOfReviewWithMultiLabel,
@@ -16,6 +17,7 @@ const componentAnalysis = require("./componentAnalysis");
 // } = require("../src/mapOrdersItems");
 
 router.use("/component-analysis", componentAnalysis);
+router.use("/orders-item-classification", ordersItemClassification);
 
 router.get("/", (req, res) => {
   res.json({
