@@ -1,0 +1,703 @@
+{
+  "data": [
+    {
+      "item_names": ["The Cheesehead", "Brownie"],
+      "review": "mid",
+      "delivery_uuid": "487c4792-3e8d-47f9-a859-8b63a97fe441",
+      "item_ids": [
+        "5dcc36e0-6774-4392-8a33-c40ca6f9fb4d",
+        "1f760f3e-3d3b-4267-8622-978b01dc8420"
+      ]
+    },
+    {
+      "item_names": ["Truffle Fries", "Spaghetti Pomodoro"],
+      "review": "if i could give zero stars i would! how do you mess up truffle fries order! spaghetti sauce tasted like it had been sitting on the counter for days! spend your money elsewhere please",
+      "delivery_uuid": "d45005b4-a5a2-49ef-80ad-e98e5a9afca8",
+      "item_ids": ["6456518903", "3000005933057841"]
+    },
+    {
+      "item_names": ["Meatball sub", "Garlic bread"],
+      "review": "Meatball sub was ridiculously overpriced, 4 small meatballs that only partially filled the bun...Sandwich was delivered very quickly and yet it was somehow only slightly warm. The garlic bread was slightly soggy and the cheese was only partially melted. 15 dollars for a 4 small meatballs sub...I could have gotten 2 meatball subs from Subway for less money and gotten 3-4x the food and probably a better quality. 1 star for the food...it was decent but it wasn't anywhere near worth the cost.",
+      "item_ids": ["18343060791", "16582696417"],
+      "delivery_uuid": "28187d92-b17f-11ed-bd93-3dc2249d1a60"
+    },
+    "Sorry, as an AI language model, I am not able to write or execute code. However, based on your input and output examples, I can provide you with the steps to implement the solution:\n\n1. Extract the feedback text from the input object.\n2. Loop through the `itemNames` array and check if each item name exists in the feedback text.\n3. If an item name is found in the feedback text, add it to the `item_names` array and find its corresponding item ID from the `itemAndIdMap` array and add it to the `item_ids` array.\n4. Create a new object with `item_names`, `review`, and `delivery_uuid` properties and assign their respective values.\n5. Return the new object as output.\n\nNote: You may need to handle cases where an item name is mentioned multiple times in the feedback text or there are multiple items in the order.",
+    {
+      "item_names": ["Iced tea"],
+      "review": "i was given cold brew coffee instead of Iced tea and arnold palmer was half coffee half lemonade ",
+      "item_ids": ["ec85b8ba-eb1e-41b8-9f24-e3f75b58a0bc"]
+    },
+    {
+      "item_names": ["calamari"],
+      "review": "no calamari, all breading, just lettuce",
+      "delivery_uuid": "94c12af6-219c-4886-9699-ac6a8ad87df4",
+      "item_ids": []
+    },
+    {
+      "item_names": [
+        "Grilled Artichoke",
+        "Caesar Salad",
+        "Signature Burger",
+        "Crispy Calamari",
+        "Signature Chop Salad"
+      ],
+      "review": "never received",
+      "delivery_uuid": "c8f811bb-fffa-4aef-a049-377da86f55c0",
+      "item_ids": [
+        "98f1e64e-b603-4738-b375-b3b7acb63f8e",
+        "651cd4d3-add3-411a-bbfe-bb4863bbf3af",
+        "9a1c9e11-9f2a-4b78-a9d6-8105e81e655e",
+        "9247b4a8-547f-412b-b24c-1466952ff3c0",
+        "4848081c-5284-44e3-a459-26da55879989"
+      ]
+    },
+    {
+      "item_names": ["Shrimp"],
+      "review": "there was onionskin all over the place and the shrimp tails just made it more unpleasant . i know they could add flavor but i spent most of the time picking stuff out of my mouth. \n\ni know you guys can do better",
+      "item_ids": ["c38fae4d-3de1-4d55-a6f5-1b1a85e8bc6f"],
+      "delivery_uuid": "ef029d3d-7db4-4749-9614-d17e8337724e"
+    },
+    {
+      "item_names": ["Extra Cheese"],
+      "review": "don't pay for anything extra like extra cheese or toppings cause they won't add it to your food.",
+      "delivery_uuid": "3d66a068-ab65-425d-b2dd-57688d3f4ee4",
+      "item_ids": ["3000004038688991"]
+    },
+    {
+      "item_names": ["Only Me Combo"],
+      "review": "coulda been cheesier",
+      "delivery_uuid": "7b6c2b33-62b3-4f16-9703-83bdffbec211",
+      "item_ids": ["3000004812715299"]
+    },
+    {
+      "item_names": ["Sausage"],
+      "review": "the sausage was good. unfortunately, the pancakes were not good.",
+      "delivery_uuid": "c91e05ee-7db1-4355-8cb9-c85a6af6f03e",
+      "item_ids": ["26111244440"]
+    },
+    {
+      "item_names": ["20 Pcs All Natural Wings"],
+      "review": "i never received my angle wings in Hollywood order. I received an order from HoneyBee in mid city with my name on it instead. so disappointed",
+      "delivery_uuid": "eb103695-12ab-4da3-80a8-3ff0daa08b33",
+      "item_ids": ["0c9ff98e-9257-470f-9e8f-e90fbfd996c5"]
+    },
+    {
+      "item_names": ["Pop's Combo"],
+      "review": "food came cold and they did not even care to remake and sent hour hold??!!",
+      "delivery_uuid": "4d3cde76-e759-4844-a941-60e2f76b2f79",
+      "item_ids": ["a2d6c4f9-f93f-4fbd-b613-8fc41862520b"]
+    },
+    {
+      "item_names": [
+        "Pop's Combo",
+        "The Frenchy Meatball",
+        "Frings (half fries, half onion rings)"
+      ],
+      "review": "in my personal opinion, a complete rip off for the price",
+      "delivery_uuid": "63257372-86a3-4744-a574-1260986cfc52",
+      "item_ids": ["3000005885829660", "27210115387", "27210115405"]
+    },
+    {
+      "item_names": ["Cheeky Parm"],
+      "review": "no marinara sauce on my chicken parm. no drink either. , No marinara sauce.",
+      "item_ids": ["8c240fd6-e5bc-479a-8130-f04221e92977"],
+      "delivery_uuid": "35231e78-cc00-4877-b2fc-e65913da0dba"
+    },
+    {
+      "item_names": ["Sausage Patty"],
+      "review": "didn't go ve me my side of sausage, didn't give me utensils when i asked for them specifically.",
+      "item_ids": ["10412837596"]
+    },
+    {
+      "item_names": ["Smothered PBJ Pancakes"],
+      "review": "ordered pbj pancakes, only received regular.",
+      "item_ids": ["3000005187759642"]
+    },
+    {
+      "item_names": [
+        "Mashed Potato",
+        "Lemon Herb Aioli 3 oz",
+        "Mango Habanero",
+        "12 Pcs All Natural Wings"
+      ],
+      "review": "Bad Presentation, Bad Packing, Sloppy Food Portions, Incorrect Order, Food Taste Nasty",
+      "item_ids": ["19523291362", "19523291357", "19523291298", "19523291327"],
+      "delivery_uuid": "66f69852-cdf2-11ed-9853-c5ab48792b65"
+    },
+    {
+      "item_names": [
+        "Frings (half fries, half onion rings)",
+        "Side of Ranch",
+        "Side of Ketchup"
+      ],
+      "review": "Meat was overcooked, and dry bread was tough",
+      "item_ids": ["20763242489", "20674582205", "20674582211"],
+      "delivery_uuid": "66fa78d2-da3b-11ed-b8d3-2d1ed502f208"
+    },
+    {
+      "item_names": ["frnch tst", "Passion Fruit Iced Tea (16oz)"],
+      "review": "pretty meh. the \"blackberrypreserves\" is just a packaged snickers jam. the french toast was pretty soggy. i added a banana for extra $$ and got half a brown banana, sliced.",
+      "item_ids": ["3000005557625914", "10412835043"],
+      "delivery_uuid": "86297fea-7203-4f71-8c8c-1bbe0239bcbc"
+    },
+    {
+      "item_names": ["Only Me Combo"],
+      "review": "ordered a combo with mac and cheese wedges didn(@single_quotes@)t get them. also order took so long the bread was hard and cold. sad I was really looking forward to trying here. , was also missing a item ",
+      "item_ids": ["ca01aa69-1aeb-430f-b974-2ea286b7efb6"],
+      "delivery_uuid": "c99adfa8-f151-4a37-b107-05db0bd146c5"
+    },
+    {
+      "item_names": ["Only Me Combo"],
+      "review": "s",
+      "delivery_uuid": "51a8f423-182c-4c2b-a3db-efbbaedd0f08",
+      "item_ids": ["5f8accbb-223d-4077-a4a8-50c814e28731"]
+    },
+    {
+      "item_names": ["Pop's on Fire", "Frings (half fries, half onion rings)"],
+      "review": "terrible. tasteless. no sauce at all. dryest sandwich i(@single_quotes@)ve ever had. the picture looks so amazing but it(@single_quotes@)s nothing like that image.\nhopefully this was a bad experience and not how everything is.\nyikes.",
+      "delivery_uuid": "b713b3ea-afaf-41e9-9fc8-d75487e0571b",
+      "item_ids": ["3000005965134583", "27357141067"]
+    },
+    {
+      "item_names": [
+        "Add Chicken",
+        "Spaghetti Pomodoro",
+        "Chicken Limone with Cavatappi"
+      ],
+      "review": "actually leo(@single_quotes@)s, overcooked, appetizer sized 20$ diner bull****",
+      "item_ids": ["24947874555", "3000005802163555", "3000005802163554"],
+      "delivery_uuid": "2ce478ab-1bd0-4f27-a524-2d350e75e046"
+    },
+    {
+      "item_names": ["Spaghetti Pomodoro", "Spicy Penne alla Vodka"],
+      "review": "it was just okay. not offensive, not great",
+      "delivery_uuid": "6a93d95f-7810-43ef-b9bd-fa4840228f99",
+      "item_ids": ["3000005829160572", "3000005829160571"]
+    },
+    {
+      "item_names": [
+        "Cavatappi with Creamy Pesto",
+        "Chicken Limone with Cavatappi"
+      ],
+      "review": "great tasting food, but very small quantities for the price.",
+      "delivery_uuid": "fef63c48-9dbe-4041-afc0-e0bc38a24563",
+      "item_ids": ["3000006138213159", "3000006138213158"]
+    },
+    {
+      "item_names": ["Fettuccine Alfredo"],
+      "review": "The pasta taste like it was very undercooked and it was very chalky and pasty. And for $18. I expected a little bit more on the portion.",
+      "item_ids": ["68df54e8-5f7d-4580-ab51-4269bb9a9fd3"],
+      "delivery_uuid": "47f58419-afa1-4327-8ae0-6c990f46d3ce"
+    },
+    {
+      "item_names": ["sandwich"],
+      "review": "the sandwich i received is not what i ordered, and on top of it the sandwich they did send me the meat is over cooked and dry. for the amount of time i had to wait past the estimated delivery time they could have gotten a one sandwich order correct. first time ordering, and is most likely the last unfortunately. ",
+      "delivery_uuid": "b7e814b2-0cd9-449e-828a-307b0ef3e415",
+      "item_ids": ["3000005634809874", "3000005634809873"]
+    },
+    {
+      "item_names": ["Juicy Grilled Fish Set"],
+      "review": "The most disgusting fish I have eaten, so bitter that u cannot even taste a bit, wouldn(@single_quotes@)t recommend to anyone , Worst dish on their menu",
+      "item_ids": ["52f39fa7-39da-4154-89f2-9a4601763946"],
+      "delivery_uuid": "ccd451d0-4fb4-4739-b9bb-0cdf2cd33a5d"
+    },
+    {
+      "item_names": [
+        "Spicy Penne alla Vodka",
+        "Add Side of Meatballs in Marinara"
+      ],
+      "review": "part of my order did not arrive and no one answered when i called for a refund on that part of the order.",
+      "delivery_uuid": "4030db5b-5736-4a02-b133-c1caed1c0e9d",
+      "item_ids": ["3000006245192859", "27210144095"]
+    },
+    {
+      "item_names": ["Spaghetti Pomodoro", "Fettuccine Alfredo"],
+      "review": "this isn't house of parm it's leo's. portions are basically side dishes for 12.99. wasn't hot, wasn't even worth the money and false advertising on location as well. 100% don't recommend.",
+      "item_ids": ["3000006533659243", "3000006533659242"],
+      "delivery_uuid": "db5d0153-6301-4535-a1c5-88d6137126c3"
+    },
+    {
+      "item_names": ["Sizzling Grilled fresh small lamb kebabs (5 skewers)"],
+      "review": "madr a chicken gizzard instead of lamb i was furious",
+      "delivery_uuid": "0368c1b0-909c-4644-a146-afd2cb6fbe5a",
+      "item_ids": ["c1243236-14b9-49bc-9e20-c7c89644903f"]
+    },
+    {
+      "item_names": [
+        "Side of Fries",
+        "Cavatappi with Creamy Pesto",
+        "Side of Cheese Sauce"
+      ],
+      "review": "wasn(@single_quotes@)t a fan. ",
+      "delivery_uuid": "ae7e31e3-6f8b-4d05-9673-1290e260c380",
+      "item_ids": ["3000005855875280", "3000005855875279", "26695527305"]
+    },
+    {
+      "item_names": [
+        "The Basic B*tch Burrito",
+        "Add Breakfast Sausage to my Bowl",
+        "Add Bacon to my Burrito"
+      ],
+      "review": "the burritos were not even what the description said. none of the promised ingredients. barely anything on them for the cost. it(@single_quotes@)s like a $5 burrito for $14. i paid for extra sausage for my son and maybe got a link(@single_quotes@)s worth cut up on top...for over $2 paid. way over priced and not what is advertised. ",
+      "item_ids": ["3000006009268720", "27210163240", "27210150617"],
+      "delivery_uuid": "c94a62aa-92ef-4fb2-bef9-37440f9f57e2"
+    },
+    {
+      "item_names": ["The Wake n(@single_quotes@) Bake Burrito"],
+      "review": "i(@single_quotes@)ve ordered from here twice and and haven(@single_quotes@)t gotten meat on my burrito either time. lot of potential if they can get their orders right",
+      "item_ids": ["3000005900310455"],
+      "delivery_uuid": "4d22a7d1-6046-408d-bff7-4d8e0ea5f1d9"
+    },
+    {
+      "item_names": ["Spaghetti Pomodoro"],
+      "review": "the spaghetti was broken down to vermicelli length! sauce is subpar.",
+      "delivery_uuid": "c4d823da-18b8-4ab6-b00a-fcd028cfec9a",
+      "item_ids": ["3000005198291279"]
+    },
+    {
+      "item_names": ["The Hangover Burrito"],
+      "review": "mostly egg. barely any sauce. bland sausage",
+      "delivery_uuid": "5eb920da-de63-4fff-871f-881554ac60df",
+      "item_ids": ["3000005544795645"]
+    },
+    {
+      "item_names": ["Fettuccine Alfredo", "Side of Fries"],
+      "review": "the promotion didnt work",
+      "delivery_uuid": "aab0ad22-dc82-444a-adc9-b636d3485d20",
+      "item_ids": [
+        "a5c5e0b8-8b36-44b2-bd0a-2b2cb4bbc80e",
+        "e1b17366-ab1e-4f9d-9155-74fc40b4fdd4"
+      ]
+    },
+    {
+      "item_names": ["The Wake n(@single_quotes@) Bake Bowl"],
+      "review": "I wasn(@single_quotes@)t given the correct meal. I order a $17.35 bowl not a 9.99 burrito.",
+      "item_ids": ["705b7343-9849-414e-9c4e-81d161ab176d"],
+      "delivery_uuid": "4ae0992b-e9f3-4562-8d37-be0d205c8830"
+    },
+    {
+      "item_names": ["Fettuccine Alfredo"],
+      "review": "chicken was nasty and meal for the price was tiny!",
+      "item_ids": ["3000005551929235"],
+      "delivery_uuid": "72e12a66-7850-4f01-a75a-17444af3170e"
+    },
+    {
+      "item_names": ["Fettuccine Alfredo"],
+      "review": "the fettuccine alfredo cost almost $20 and was the size of a lean cuisine. it was tiny.",
+      "delivery_uuid": "9eac6449-ecd3-43f5-aeb3-455c8dbe8f6b",
+      "item_ids": ["3000005855031771"]
+    },
+    {
+      "item_names": ["The Cajun Cluck"],
+      "review": "great sandwich. didn(@single_quotes@)t get my cookie",
+      "item_ids": ["3000005250244860"],
+      "delivery_uuid": "f7ab9ad3-6342-49f8-89fa-3d6d8a0f5089"
+    },
+    {
+      "item_names": ["The Hangover Burrito", "The Classic Breakfast Bowl"],
+      "review": "there was also a plastic bread tie in the burrito.",
+      "delivery_uuid": "48f4760a-4625-4feb-ba19-487773870995",
+      "item_ids": ["3000005828495112", "3000005828495113"]
+    },
+    {
+      "item_names": ["The Hangover Burrito"],
+      "review": "no buffalo sauce. definitely no double bacon. eggs didn(@single_quotes@)t taste great.",
+      "item_ids": ["3000005712230592"],
+      "delivery_uuid": "3785f6f1-d868-4a0c-b342-11fc5fbee46d"
+    },
+    {
+      "item_names": ["Wake n(@single_quotes@) Bake Burrito"],
+      "review": "ordered two wake n bake burritos, did not come with ground beef like listed, what(@single_quotes@)s going on??",
+      "delivery_uuid": "9f81586b-144a-43ce-b8d4-ee1aabdd26fe",
+      "item_ids": ["3000005697686730"]
+    },
+    {
+      "item_names": ["The Hangover Burrito", "The Classic Breakfast Bowl"],
+      "review": "eggs were dry. eggs came with hot sauce, which was not in the description. very disappointing",
+      "delivery_uuid": "6c9da3dc-a75d-4193-a359-3cf903753c59",
+      "item_ids": ["3000005950624555", "3000005950624554"]
+    },
+    {
+      "item_names": ["Fettuccine Alfredo"],
+      "review": "alfredo was bland but better than the green stuff",
+      "item_ids": ["3000005779562930"],
+      "delivery_uuid": "0f830432-17e4-4755-b2bb-fdfff8a518f4"
+    },
+    {
+      "item_names": [
+        "The Hangover Burrito",
+        "Add Breakfast Sausage to my Burrito",
+        "Side of Hashbrowns"
+      ],
+      "review": "the quality of food was awful. the burritos mostly consist of the wrap and not enough filling. the side of hashbrowns were burnt and tasted very off. would not recommend.",
+      "delivery_uuid": "abc948b9-54e9-420d-b948-d0e639a5ba9c",
+      "item_ids": ["3000006026417455", "27210164445", "3000006026417456"]
+    },
+    {
+      "item_names": ["The Hangover Burrito", "Apple Juice"],
+      "review": "way overpriced and over seasoned! save your money and buy taco bell.",
+      "delivery_uuid": "f30b7dca-d1fa-49e0-8f0c-5c2b40518670",
+      "item_ids": ["3000006459159272", "3000006459159273"]
+    },
+    {
+      "item_names": ["Side of Fries", "Pop(@single_quotes@)s Combo"],
+      "review": "wants expecting it to be so spicy. it was good but to spicy for me",
+      "item_ids": ["19854631797", "3000003885853734"],
+      "delivery_uuid": "35fc44cb-cab9-49ab-a13c-acdd9ca9f6ff"
+    },
+    {
+      "item_names": ["The Mac n(@single_quotes@) Meatball"],
+      "review": "Only a few meatballs and little sauce. The second time was not as good as the first ",
+      "item_ids": ["9fcea1c4-1eeb-4750-9664-d317a54daabb"],
+      "delivery_uuid": "a45681cd-02cb-477b-9295-a28df5f53465"
+    },
+    {
+      "item_names": ["meatballs"],
+      "review": "the meatballs tasted like they were made yesterday and they were very dry and right. the role the cheese and the sauce were all very good as well as the brownie. The cookie not so much.",
+      "delivery_uuid": "f7d2779a-53c3-4887-9f7a-f08edc506cb5",
+      "item_ids": ["4224e091-fa5c-4d4f-9f19-a1d091d4d2c9"]
+    },
+    {
+      "item_names": ["The Hangover Burrito"],
+      "review": "first time trying this place and my burrito is missing half the ingredients lol..",
+      "item_ids": ["3000006138403545"],
+      "delivery_uuid": "f688577f-b5de-41d6-886e-6532a0f74fc8"
+    },
+    {
+      "item_names": ["Truffled Mushroom + Potato Pizza 1Ft"],
+      "review": "it was a mess ,not enough toppings ,potatoes hard,",
+      "delivery_uuid": "382ded58-f0e7-4a93-95e3-9a008ff6126b",
+      "item_ids": ["3d09d798-ee34-43d6-a702-ac7a614209dd"]
+    },
+    {
+      "item_names": ["The Frito Bandito", "Sprite"],
+      "review": "if i can rate a 0 i would don't order this bro",
+      "item_ids": ["3000005192412828", "24272977565"],
+      "delivery_uuid": "beca1c3a-f7a2-4040-a864-b87fa2f02c9b"
+    },
+    {
+      "item_names": ["Frenchy Meatball"],
+      "review": "disappointed. no cheese on the sandwich and i didn(@single_quotes@)t opt to remove it. for the price, it really didn(@single_quotes@)t seem worth it even if it had had the cheese. for a sandwich that is supposed to be covered with soup, or come with soup? the photos are misleading, it was very dry. probably will not order again considering the high price point.",
+      "item_ids": ["3000005853028206"],
+      "delivery_uuid": "72bb64d2-b236-4241-8202-c2c29709fd07"
+    },
+    {
+      "item_names": ["The Philly Po(@single_quotes@) Boy"],
+      "review": "dry as heck not seasoned enough bland ",
+      "item_ids": ["3000004911690635"],
+      "delivery_uuid": "2f99d8b0-e209-4b36-9963-e377528086cc"
+    },
+    {
+      "item_names": ["The Philly "],
+      "review": "to cold. , need to be freshly made",
+      "delivery_uuid": "17fc0c21-9044-4038-a18f-a0fc15cf3222",
+      "item_ids": ["f846ea83-b792-43b3-a820-ad694456369f"]
+    },
+    {
+      "item_names": [
+        "The Philly Po(@single_quotes@) Boy",
+        "Side of Onion Rings",
+        "The Philly "
+      ],
+      "review": "Absolutely awful ",
+      "item_ids": [
+        "23af43e3-64a9-4400-a162-a439216e2977",
+        "e5b8202e-3ac0-4db9-8561-84b9362f47c5",
+        "155691e2-22d7-4178-850c-cef127910551"
+      ],
+      "delivery_uuid": "aeeaff62-53bb-43b1-a95f-01e3357f474f"
+    },
+    {
+      "item_names": ["Onion rings"],
+      "review": "i upgraded to Onion rings and still got fries",
+      "delivery_uuid": "d4f19fdb-c080-4acc-b2c7-9f32cf9d7840",
+      "item_ids": ["f40be5d4-ebab-4372-8da8-81042feafc25"]
+    },
+    {
+      "item_names": ["Sprite", "The Philly Po(@single_quotes@) Boy"],
+      "review": "it was too salty never will order from this place again",
+      "delivery_uuid": "1779996c-849c-4d3b-9303-8f5762fc4b37",
+      "item_ids": ["3000004259001568", "3000004259001567"]
+    },
+    {
+      "item_names": ["The Philly "],
+      "review": "lowkey wasn(@single_quotes@)t that good, made me wanna finish it as fast as i can .",
+      "delivery_uuid": "ac814d17-6556-437b-8e3c-d23daa759e09",
+      "item_ids": ["3000004531245948"]
+    },
+    {
+      "item_names": ["Only Me Combo"],
+      "review": "way to salty! waaayy to salty and the fries are plain. they tasted like mcdonald(@single_quotes@)s fries with no salt left over night.",
+      "item_ids": ["3000004402965157"],
+      "delivery_uuid": "3cd58e5d-d83c-43bd-89c6-a0e4dcebb25f"
+    },
+    {
+      "item_names": [
+        "Me and a Friend Combo",
+        "Side of Mac n(@single_quotes@) Cheese Wedges",
+        "Cookie",
+        "BYO Cheesesteak"
+      ],
+      "review": "nothing was right and got no refund",
+      "delivery_uuid": "4f184611-7617-4cdc-9766-4796ff1f337a",
+      "item_ids": [
+        "3000004709438803",
+        "3000004709438804",
+        "23249672925",
+        "23249664625"
+      ]
+    },
+    {
+      "item_names": ["Marinara Meatball Sub"],
+      "review": "i got a marinara meatball sub",
+      "item_ids": ["3000004731258486"],
+      "delivery_uuid": "e0b6d0f9-1b54-420f-9292-39bce7416181"
+    },
+    {
+      "item_names": ["Tater Tots", "Passion Fruit Iced Tea"],
+      "review": "really not very good :/",
+      "delivery_uuid": "51a24689-8f72-49a6-9d97-72be3963ee2b",
+      "item_ids": ["15489938084", "15489938104"]
+    },
+    {
+      "item_names": [
+        "The Philly Po(@single_quotes@) Boy",
+        "The Pizza Steak",
+        "Grilled Onion",
+        "Side of Onion Rings",
+        "BYO Cheesesteak"
+      ],
+      "review": "half of the order was wrong, and the food was terrible",
+      "delivery_uuid": "09e6213b-63e7-4b3c-b5a1-81611a868483",
+      "item_ids": [
+        "3000005412071938",
+        "3000005412071939",
+        "25436212716",
+        "3000005412071941",
+        "3000005412071940"
+      ]
+    },
+    {
+      "item_names": ["Crepes Pancakes Classique"],
+      "review": "this is the second time you guys forgot itmes. last time it was syrup. this time butter",
+      "delivery_uuid": "f476314a-f92b-4ad1-af76-9d41e0049bde",
+      "item_ids": ["4f02fb0c-3593-4040-9aa7-0e971568f78a"]
+    },
+    {
+      "item_names": ["The Cheesehead"],
+      "review": "cheesehead came with no kraut, no onions, no whiz, pretty much nothing that was in the description. it did come with macaroni bites on the sandwhich. so kudos for trying",
+      "item_ids": ["3000005495100343"],
+      "delivery_uuid": "cf5a1be3-5d7c-4854-a220-b3f9967e78a5"
+    },
+    {
+      "item_names": ["The Philly Style Meatball"],
+      "review": "good i guess.",
+      "delivery_uuid": "46862e08-6691-42ae-8870-d7bc61f983a0",
+      "item_ids": ["3000005460801448"]
+    },
+    {
+      "item_names": [
+        "The Philly",
+        "The Philly",
+        "Side of Mac n' Cheese Wedges",
+        "Side of Ranch"
+      ],
+      "review": "everything was cold :( we threw everything out wont be back again",
+      "delivery_uuid": "8ce1d77f-9e31-49f0-a757-9c52d0710e75",
+      "item_ids": [
+        "dfc5a0cf-d480-4023-b77f-0fdf84c0063b",
+        "448229de-1cc8-4b9b-bbcf-04c0828b551c",
+        "3ff5e3bf-fbfd-417d-99e5-a7f1e4d091d6",
+        "2ce695cc-3c9c-48c3-8a87-0673131c55f5"
+      ]
+    },
+    {
+      "item_names": [
+        "Side of Fries",
+        "Provolone Cheese",
+        "Side of Onion Rings",
+        "Side of Ketchup",
+        "BYO Cheesesteak"
+      ],
+      "review": "first time i ordered everything was great but after that my food has been prepared poorly my fries are extremely low for the price i paid i(@single_quotes@)m very dissatisfied with what i received lately",
+      "item_ids": [
+        "23791061012",
+        "23791061023",
+        "3000005282799431",
+        "23791061143",
+        "3000005282799430"
+      ],
+      "delivery_uuid": "6ec42e7d-a0d8-4829-8f0a-99e9a5c0f389"
+    },
+    {
+      "item_names": ["Add Chicken", "Fettuccine Alfredo"],
+      "review": "it would be nice if we knew we were ordering from leos ciney island instead of \"houseofparm\"....",
+      "item_ids": ["25411514523", "3000005391145196"],
+      "delivery_uuid": "011ec36f-9cd0-4c13-83c7-e280cf1f83c7"
+    },
+    {
+      "item_names": ["The Wake n(@single_quotes@) Bake Burrito"],
+      "review": "there was no meat in the burrito and the bagel was super super dry :/",
+      "item_ids": ["3000005491478439"],
+      "delivery_uuid": "5695d8bd-edf1-4eb8-81db-2102ecf77d99"
+    },
+    {
+      "item_names": ["Cavatappi with Creamy Pesto", "Spicy Penne alla Vodka"],
+      "review": "completely messed up our order and we were not allowed a redelivery thanks to the doordash policy",
+      "item_ids": ["3000006347150783", "3000006347150784"],
+      "delivery_uuid": "937a7b21-1aeb-48a1-b279-28b45aa4a23e"
+    },
+    {
+      "item_names": [
+        "The Hangover Burrito",
+        "The Classic Breakfast Bowl",
+        "Side Bagel & Cream Cheese",
+        "Side of Hashbrowns",
+        "Add Breakfast Sausage to my Bowl"
+      ],
+      "review": "not worth the price. eggs in both the burrito and the bowl were flavorous rubber. so little sausage in the burrito that couldn(@single_quotes@)t even get some in every bite. hasbrowns undercooked. everything was very bland. only positive were the tots were crispy in the bowl.",
+      "delivery_uuid": "2576332f-effc-428c-914c-89bf3d54e27b",
+      "item_ids": [
+        "3000005837388704",
+        "3000005837388706",
+        "3000005837388707",
+        "3000005837388705",
+        "25271605587"
+      ]
+    },
+    {
+      "item_names": ["The Hangover Burrito"],
+      "review": "unfortunately they gave me two of the same tacos. we didn(@single_quotes@)t get our hangover the hangover burrito",
+      "delivery_uuid": "831c1602-3008-4af2-a7f2-58eac7530b40",
+      "item_ids": ["3000006457949350"]
+    },
+    {
+      "item_names": ["Pop's Original"],
+      "review": "ordered a Pop's Original and it should have had tomato sauce and provolone cheese. sub came plain with some kind of yellow cheese. not what i ordered at all!",
+      "delivery_uuid": "07390fb0-2348-43aa-b2ea-29531ac4132c",
+      "item_ids": ["3000005147086349"]
+    },
+    {
+      "item_names": ["Spaghetti Bolognese", "Grilled Chicken Breast"],
+      "review": "you brought and counted me two instead of one pasta, i needed one, the pasta was not tasty, as if not fresh, i didn’t like it, the grilled chicken was burnt, only quinoa salad with salmon can still be eaten, the rest is terrible, sorry wasted money",
+      "item_ids": ["3000006315854341", "22377755561"],
+      "delivery_uuid": "691471b8-5fa0-45b6-abc7-a1cea4635bc4"
+    },
+    {
+      "item_names": ["The Basic B*tch Bowl"],
+      "review": "nothing special, not enough feta cheese. probably would not order that bowl again.",
+      "item_ids": ["3000006483378209"],
+      "delivery_uuid": "15479298-5d6d-414b-8397-0b3d212cf3da"
+    },
+    {
+      "item_names": ["Fettuccine Alfredo", "Add Chicken"],
+      "review": "mid",
+      "delivery_uuid": "1e4d0590-d512-461e-856e-b2a41ce46f01",
+      "item_ids": ["3000005983426718", "27210123561"]
+    },
+    {
+      "item_names": ["chicken marsala"],
+      "review": "This is not really chicken marsala. It(@single_quotes@)s a mushrooms sauce on fettuccine, with a salty, dry, grilled chicken breast on the top. I was duped. Now you know.",
+      "delivery_uuid": "d05de036-ab2b-11ed-a037-c3f006877d95",
+      "item_ids": []
+    },
+    {
+      "item_names": ["Pop(@single_quotes@)s Combo"],
+      "review": "food was ice cold when it arrived 2 hours later",
+      "delivery_uuid": "7bc7e08b-a920-4bc4-81bb-f8ad388eebbc",
+      "item_ids": ["ff0367a7-9afe-41a1-9df7-ae8a053b2f6a"]
+    },
+    {
+      "item_names": ["Spicy Penne alla Vodka"],
+      "review": "the food was horrible!!! do not do it!!! the pasta wasn(@single_quotes@)t drained and it was watery and a 5 year old could have made that!",
+      "item_ids": ["3000005790645641", "3000005790645642"],
+      "delivery_uuid": "4a9ef330-ccf6-4c4e-9d9e-5182fc69de99"
+    },
+    {
+      "item_names": ["Extra Bacon", "Cheese on Sandwich", "Cookie"],
+      "review": "didnt get the cookie didnt get the extra bacon or cheese on sandwich",
+      "delivery_uuid": "8e8ed609-80d4-4e8c-8e02-2a2f58cd3ccc",
+      "item_ids": ["27210162724", "3000006401124321", "3000006401124322"]
+    },
+    {
+      "item_names": ["Rigatoni"],
+      "review": "The pasta was flavorless Yuck",
+      "delivery_uuid": "7b9617a2-c482-11ed-97a3-4df605fe84b4",
+      "item_ids": ["19525445644"]
+    },
+    {
+      "item_names": ["chicken wings"],
+      "review": "all i recieved were chciken wings",
+      "item_ids": ["25073822949"],
+      "delivery_uuid": "556f318d-aac7-47ce-bf91-d684696422ae"
+    },
+    {
+      "item_names": ["Cream Cheese", "OJ"],
+      "review": "forgot my cream cheese and the oj spilled all over everything so can(@single_quotes@)t even eat it. ",
+      "delivery_uuid": "ba10e428-e0c8-4ac1-a669-5eceae03aa4d",
+      "item_ids": ["3000006152231971", "3000006152231970"]
+    },
+    {
+      "item_names": [
+        "The Basic B*tch Burrito",
+        "The Hangover Burrito",
+        "Add Breakfast Sausage to my Burrito"
+      ],
+      "review": "way to expensive not even good ",
+      "delivery_uuid": "5f9f60ee-5b61-4f21-8755-bf966d442d05",
+      "item_ids": ["3000006010167285", "3000006010167284", "27210150618"]
+    },
+    {
+      "item_names": [],
+      "review": "food was really bad and i got it late , really just not worth the money was probably the worst meatball sub ive ever had",
+      "item_ids": [],
+      "delivery_uuid": "558fe36a-69f5-442d-a5ec-84b409be6bf3"
+    },
+    {
+      "item_names": ["The Cajun Cluck", "Side of Fries"],
+      "review": "didn(@single_quotes@)t get the right order",
+      "delivery_uuid": "90d53a5f-bfc3-4995-b296-9cd96878901d",
+      "item_ids": ["3000005014335740", "3000005014335741"]
+    },
+    {
+      "item_names": ["Pepperoni Pizza 1Ft"],
+      "review": "too much cheese. taste like school lunch",
+      "item_ids": ["8ae30342-86c3-4a70-858d-1a388e4f286b"],
+      "delivery_uuid": "77f1f4a0-c260-4862-bebf-afccf942cb7a"
+    },
+    "output:{item_names: [\"Chicken Limone with Cavatappi\", \"Fettuccine Alfredo\"], review: \"awful! we paid the upcharge for chicken on both of our pastas and both came with no chicken. the portions were small like for a kid! very bland pasta.  21 dollars each and not worth it at all. please save your money! awful establishment!!\", \"item_ids\": [\"3000006317871458\", \"3000006317871457\"], \"delivery_uuid\": \"a829bb06-83c4-4a7e-a74e-adb19d28b382\"}",
+    {
+      "item_names": ["Spicy Penne alla Vodka", "Fettuccine Alfredo"],
+      "review": "terrible! we paid the $6 upcharge for two pasta dishes and no chicken was included. the pasta dishes were overcooked and bland. save your money and eat elsewhere.",
+      "delivery_uuid": "d44c80da-a4cf-4238-8691-278c174f174d",
+      "item_ids": ["3000006056398525", "3000006056398524"]
+    },
+    {
+      "item_names": ["Cheesehead", "Onion Rings"],
+      "review": "burnt onions rings hair in sandwich",
+      "item_ids": ["3000005289190005", "3000005289190006"],
+      "delivery_uuid": "e8469f51-b5c4-44f1-8a74-7ffe7f991bb0"
+    },
+    {
+      "item_names": ["Chicken Caesar Salad"],
+      "review": "The chicken was gross. I thought it would be white meat only. Too many dark pieces. It made the whole salad gross. I am very disappointed. I will not order from here again. Not good.",
+      "item_ids": ["83879f3b-7034-4df6-b905-520018a272bf"],
+      "delivery_uuid": "ce8c59b4-2ea4-430f-a019-e60b353019cc"
+    },
+    {
+      "item_names": ["The Philly"],
+      "review": "the sandwich had half meet for some reason. very disappointed and the fries were bot cooked properly either",
+      "item_ids": ["3000005175187582"],
+      "delivery_uuid": "3adde18c-dc7e-4ca5-adff-1a41383ee3e4"
+    },
+    {
+      "item_names": ["The Philly ", "The Philly Po(@single_quotes@) Boy"],
+      "review": "Order never arrived!",
+      "delivery_uuid": "d92aa631-a5cd-400c-ac34-c7f14b923a08",
+      "item_ids": [
+        "7a69202e-9845-4e7e-9e04-2f8887b24f9a",
+        "9281d98c-8604-43ca-98f2-b5e8fbfdd6ab"
+      ]
+    }
+  ]
+}

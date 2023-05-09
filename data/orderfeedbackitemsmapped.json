@@ -1,0 +1,3580 @@
+{
+    "data": [
+     {
+      "listing_id": "P0011",
+      "delivery_uuid": "487c4792-3e8d-47f9-a859-8b63a97fe441",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "   mid",
+      "order_ratings": "1",
+      "predicted_items": [
+       "The Cheesehead",
+       "Brownie"
+      ],
+      "predicted_item_ids": [
+       "5dcc36e0-6774-4392-8a33-c40ca6f9fb4d",
+       "1f760f3e-3d3b-4267-8622-978b01dc8420"
+      ],
+      "ordered_items": [
+       "The Cheesehead",
+       "Brownie"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "487c4792-3e8d-47f9-a859-8b63a97fe441",
+        "listing_id": "P0111",
+        "item_id": "5dcc36e0-6774-4392-8a33-c40ca6f9fb4d",
+        "item_name": "The Cheesehead",
+        "item_price": "15"
+       },
+       {
+        "delivery_uuid": "487c4792-3e8d-47f9-a859-8b63a97fe441",
+        "listing_id": "P0111",
+        "item_id": "1f760f3e-3d3b-4267-8622-978b01dc8420",
+        "item_name": "Brownie",
+        "item_price": "4"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0011",
+      "delivery_uuid": "d45005b4-a5a2-49ef-80ad-e98e5a9afca8",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "if i could give zero stars i would! how do you mess up truffle fries order! spaghetti sauce tasted like it had been sitting on the c ounter for days! spend your money elsewherw please",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Truffle Fries",
+       "Spaghetti Pomodoro"
+      ],
+      "predicted_item_ids": [
+       "6456518903",
+       "3000005933057841"
+      ],
+      "ordered_items": [
+       "Truffle Fries",
+       "Spaghetti Pomodoro"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "d45005b4-a5a2-49ef-80ad-e98e5a9afca8",
+        "listing_id": "P03110",
+        "item_id": "6456518903",
+        "item_name": "Truffle Fries",
+        "item_price": "6"
+       },
+       {
+        "delivery_uuid": "d45005b4-a5a2-49ef-80ad-e98e5a9afca8",
+        "listing_id": "P03110",
+        "item_id": "3000005933057841",
+        "item_name": "Spaghetti Pomodoro",
+        "item_price": "21"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0011",
+      "delivery_uuid": "28187d92-b17f-11ed-bd93-3dc2249d1a60",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "GRUBHUB",
+      "overall_order_review": "Driver was great...order was delivered very quickly and the driver was very courteous....5 stars for the delivery driver \n\nMeatball sub was ridiculously overpriced, 4 small meatballs that only partially filled the bun...Sandwich was delivered very quickly and yet it was somehow only slightly warm.   The garlic bread was slightly soggy and the cheese was only partially melted.  15 dollars for a 4 small meatballs sub...I could have gotten 2 meatball subs from Subway for less money and gotten 3-4x the food and probably a better quality.  1 star for the food...it was decent but it wasn(@single_quotes@)t anywhere near worth the cost.",
+      "order_ratings": "3",
+      "predicted_items": [
+       "Meatball sub",
+       "Garlic bread"
+      ],
+      "predicted_item_ids": [
+       "18343060791",
+       "16582696417"
+      ],
+      "ordered_items": [
+       "Pop(@single_quotes@)s Original",
+       "Side of Ranch"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "28187d92-b17f-11ed-bd93-3dc2249d1a60",
+        "listing_id": "P0112",
+        "item_id": "18343060791",
+        "item_name": "Pop(@single_quotes@)s Original",
+        "item_price": "15"
+       },
+       {
+        "delivery_uuid": "28187d92-b17f-11ed-bd93-3dc2249d1a60",
+        "listing_id": "P0112",
+        "item_id": "16582696417",
+        "item_name": "Side of Ranch",
+        "item_price": "1"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0011",
+      "delivery_uuid": "346baad0-f678-4941-8b02-4f31306c60d6",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "   everything inside of the burrito tasted stale or rotten. i couldn(@single_quotes@)t even finish the first bite",
+      "order_ratings": "2",
+      "ordered_items": [
+       "The Frito Bandito",
+       "The Philly Po(@single_quotes@) Boy"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "346baad0-f678-4941-8b02-4f31306c60d6",
+        "listing_id": "P0011",
+        "item_id": "f802c14d-7a7f-4cd5-beeb-4696d89f2054",
+        "item_name": "The Frito Bandito",
+        "item_price": "14"
+       },
+       {
+        "delivery_uuid": "346baad0-f678-4941-8b02-4f31306c60d6",
+        "listing_id": "P0011",
+        "item_id": "0c87538a-42d7-457b-9cf3-38740ee77cae",
+        "item_name": "The Philly Po(@single_quotes@) Boy",
+        "item_price": "15"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0011",
+      "delivery_uuid": "cbe6487f-fc6a-4c49-ad1a-95557712e4b5",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "i was given cold brew coffee instead of Iced tea and arnold palmer was half coffee half lemonade ",
+      "order_ratings": "1",
+      "ordered_items": [
+       "Caesar Salad",
+       "Corn Chowder With Chive + Bacon",
+       "Spaghetti With Spicy Shrimp (5)",
+       "Chunky Beef + Potato Soup"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "cbe6487f-fc6a-4c49-ad1a-95557712e4b5",
+        "listing_id": "P03110",
+        "item_id": "e565602f-ab5b-48c9-9609-92877c84cc64",
+        "item_name": "Caesar Salad",
+        "item_price": "18"
+       },
+       {
+        "delivery_uuid": "cbe6487f-fc6a-4c49-ad1a-95557712e4b5",
+        "listing_id": "P03110",
+        "item_id": "75bfc0e2-1ef0-4116-94e8-093b093aa4ea",
+        "item_name": "Corn Chowder With Chive + Bacon",
+        "item_price": "10"
+       },
+       {
+        "delivery_uuid": "cbe6487f-fc6a-4c49-ad1a-95557712e4b5",
+        "listing_id": "P03110",
+        "item_id": "af2d901a-fe24-42c4-8418-54fdd3458808",
+        "item_name": "Spaghetti With Spicy Shrimp (5)",
+        "item_price": "21"
+       },
+       {
+        "delivery_uuid": "cbe6487f-fc6a-4c49-ad1a-95557712e4b5",
+        "listing_id": "P03110",
+        "item_id": "11640bc0-41c6-4d99-9fae-1cdde4542910",
+        "item_name": "Chunky Beef + Potato Soup",
+        "item_price": "11"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0011",
+      "delivery_uuid": "94c12af6-219c-4886-9699-ac6a8ad87df4",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "   no calamari, all breading , just lettuce",
+      "order_ratings": "1",
+      "predicted_items": [
+       "calamari"
+      ],
+      "predicted_item_ids": [
+       
+      ],
+      "ordered_items": [
+       
+      ],
+      "all_ordered_item_details": [
+       
+      ]
+     },
+     {
+      "listing_id": "P0011",
+      "delivery_uuid": "c8f811bb-fffa-4aef-a049-377da86f55c0",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "   never received ",
+      "order_ratings": "3",
+      "predicted_items": [
+       "Grilled Artichoke",
+       "Caesar Salad",
+       "Signature Burger",
+       "Crispy Calamari",
+       "Signature Chop Salad"
+      ],
+      "predicted_item_ids": [
+       "98f1e64e-b603-4738-b375-b3b7acb63f8e",
+       "651cd4d3-add3-411a-bbfe-bb4863bbf3af",
+       "9a1c9e11-9f2a-4b78-a9d6-8105e81e655e",
+       "9247b4a8-547f-412b-b24c-1466952ff3c0",
+       "4848081c-5284-44e3-a459-26da55879989"
+      ],
+      "ordered_items": [
+       "Grilled Artichoke",
+       "Caesar Salad",
+       "Signature Burger",
+       "Crispy Calamari",
+       "Signature Chop Salad"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "c8f811bb-fffa-4aef-a049-377da86f55c0",
+        "listing_id": "P03110",
+        "item_id": "98f1e64e-b603-4738-b375-b3b7acb63f8e",
+        "item_name": "Grilled Artichoke",
+        "item_price": "14"
+       },
+       {
+        "delivery_uuid": "c8f811bb-fffa-4aef-a049-377da86f55c0",
+        "listing_id": "P03110",
+        "item_id": "651cd4d3-add3-411a-bbfe-bb4863bbf3af",
+        "item_name": "Caesar Salad",
+        "item_price": "18"
+       },
+       {
+        "delivery_uuid": "c8f811bb-fffa-4aef-a049-377da86f55c0",
+        "listing_id": "P03110",
+        "item_id": "9a1c9e11-9f2a-4b78-a9d6-8105e81e655e",
+        "item_name": "Signature Burger",
+        "item_price": "16"
+       },
+       {
+        "delivery_uuid": "c8f811bb-fffa-4aef-a049-377da86f55c0",
+        "listing_id": "P03110",
+        "item_id": "9247b4a8-547f-412b-b24c-1466952ff3c0",
+        "item_name": "Crispy Calamari",
+        "item_price": "14"
+       },
+       {
+        "delivery_uuid": "c8f811bb-fffa-4aef-a049-377da86f55c0",
+        "listing_id": "P03110",
+        "item_id": "4848081c-5284-44e3-a459-26da55879989",
+        "item_name": "Signature Chop Salad",
+        "item_price": "20"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0011",
+      "delivery_uuid": "ef029d3d-7db4-4749-9614-d17e8337724e",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "there was onionskin all over the place and the shrimp tails just made it more unpleasant . i know they could add flavor but i spent most of the time picking stuff out of my mouth. \n\ni know you guys can do better ",
+      "order_ratings": "3",
+      "predicted_items": [
+       "Shrimp"
+      ],
+      "predicted_item_ids": [
+       "c38fae4d-3de1-4d55-a6f5-1b1a85e8bc6f"
+      ],
+      "ordered_items": [
+       "Build Your Own Pizza 1Ft"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "ef029d3d-7db4-4749-9614-d17e8337724e",
+        "listing_id": "P03110",
+        "item_id": "ab4336b9-696b-4746-be6b-aad9a8cc7113",
+        "item_name": "Build Your Own Pizza 1Ft",
+        "item_price": "14"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0011",
+      "delivery_uuid": "3d66a068-ab65-425d-b2dd-57688d3f4ee4",
+      "order_date": "2023-03-08T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "don(@single_quotes@)t pay for anything extra like extra cheese or toppings cause they won(@single_quotes@)t add it to your food.",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Extra Cheese"
+      ],
+      "predicted_item_ids": [
+       "3000004038688991"
+      ],
+      "ordered_items": [
+       "The Philly ",
+       "Side of Fries"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "3d66a068-ab65-425d-b2dd-57688d3f4ee4",
+        "listing_id": "P0011",
+        "item_id": "3000004038688991",
+        "item_name": "The Philly ",
+        "item_price": "24"
+       },
+       {
+        "delivery_uuid": "3d66a068-ab65-425d-b2dd-57688d3f4ee4",
+        "listing_id": "P0011",
+        "item_id": "3000004038688992",
+        "item_name": "Side of Fries",
+        "item_price": "5"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0011",
+      "delivery_uuid": "7b6c2b33-62b3-4f16-9703-83bdffbec211",
+      "order_date": "2023-03-08T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "coulda been cheesier",
+      "order_ratings": "3",
+      "predicted_items": [
+       "Only Me Combo"
+      ],
+      "predicted_item_ids": [
+       "3000004812715299"
+      ],
+      "ordered_items": [
+       "Only Me Combo"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "7b6c2b33-62b3-4f16-9703-83bdffbec211",
+        "listing_id": "P0111",
+        "item_id": "3000004812715299",
+        "item_name": "Only Me Combo",
+        "item_price": "21"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "c91e05ee-7db1-4355-8cb9-c85a6af6f03e",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "the sausage was good. unfortunately, the pancakes were not good.",
+      "order_ratings": "3",
+      "predicted_items": [
+       "Sausage"
+      ],
+      "predicted_item_ids": [
+       "26111244440"
+      ],
+      "ordered_items": [
+       "Classic Breakfast",
+       "Pride Pancakes",
+       "Bacon",
+       "Over Easy"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "c91e05ee-7db1-4355-8cb9-c85a6af6f03e",
+        "listing_id": "P03136",
+        "item_id": "3000006013640949",
+        "item_name": "Classic Breakfast",
+        "item_price": "17"
+       },
+       {
+        "delivery_uuid": "c91e05ee-7db1-4355-8cb9-c85a6af6f03e",
+        "listing_id": "P03136",
+        "item_id": "3000006013640950",
+        "item_name": "Pride Pancakes",
+        "item_price": "22"
+       },
+       {
+        "delivery_uuid": "c91e05ee-7db1-4355-8cb9-c85a6af6f03e",
+        "listing_id": "P03136",
+        "item_id": "26111244440",
+        "item_name": "Bacon",
+        "item_price": "5"
+       },
+       {
+        "delivery_uuid": "c91e05ee-7db1-4355-8cb9-c85a6af6f03e",
+        "listing_id": "P03136",
+        "item_id": "26111233586",
+        "item_name": "Over Easy",
+        "item_price": "0"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "eb103695-12ab-4da3-80a8-3ff0daa08b33",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "   i never received my angle wings in Hollywood order. I received an order from HoneyBee in mid city with my name on it instead. so disappointed\n How does this even happen. ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "20 Pcs All Natural Wings"
+      ],
+      "predicted_item_ids": [
+       "0c9ff98e-9257-470f-9e8f-e90fbfd996c5"
+      ],
+      "ordered_items": [
+       "20 Pcs All Natural Wings"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "eb103695-12ab-4da3-80a8-3ff0daa08b33",
+        "listing_id": "P0313",
+        "item_id": "0c9ff98e-9257-470f-9e8f-e90fbfd996c5",
+        "item_name": "20 Pcs All Natural Wings",
+        "item_price": "32"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "4d3cde76-e759-4844-a941-60e2f76b2f79",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "food cane cold and they did not even care to remake and sent hour hold??!! ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Pop's Combo"
+      ],
+      "predicted_item_ids": [
+       "a2d6c4f9-f93f-4fbd-b613-8fc41862520b"
+      ],
+      "ordered_items": [
+       "Pop(@single_quotes@)s Combo"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "4d3cde76-e759-4844-a941-60e2f76b2f79",
+        "listing_id": "P0183",
+        "item_id": "a2d6c4f9-f93f-4fbd-b613-8fc41862520b",
+        "item_name": "Pop(@single_quotes@)s Combo",
+        "item_price": "21"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "63257372-86a3-4744-a574-1260986cfc52",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "in my personal opinion, a complete rip off for the price",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Pop's Combo",
+       "The Frenchy Meatball",
+       "Frings (half fries, half onion rings)"
+      ],
+      "predicted_item_ids": [
+       "3000005885829660",
+       "27210115387",
+       "27210115405"
+      ],
+      "ordered_items": [
+       "Pop(@single_quotes@)s Combo",
+       "The Frenchy Meatball",
+       "Frings (half fries, half onion rings)"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "63257372-86a3-4744-a574-1260986cfc52",
+        "listing_id": "P0183",
+        "item_id": "3000005885829660",
+        "item_name": "Pop(@single_quotes@)s Combo",
+        "item_price": "26"
+       },
+       {
+        "delivery_uuid": "63257372-86a3-4744-a574-1260986cfc52",
+        "listing_id": "P0183",
+        "item_id": "27210115387",
+        "item_name": "The Frenchy Meatball",
+        "item_price": "1"
+       },
+       {
+        "delivery_uuid": "63257372-86a3-4744-a574-1260986cfc52",
+        "listing_id": "P0183",
+        "item_id": "27210115405",
+        "item_name": "Frings (half fries, half onion rings)",
+        "item_price": "1"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "35231e78-cc00-4877-b2fc-e65913da0dba",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "no marinara sauce on my chicken parm.  no drink either. , No marinara sauce.",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Cheeky Parm"
+      ],
+      "predicted_item_ids": [
+       "8c240fd6-e5bc-479a-8130-f04221e92977"
+      ],
+      "ordered_items": [
+       "Cheeky Parm"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "35231e78-cc00-4877-b2fc-e65913da0dba",
+        "listing_id": "P0083",
+        "item_id": "8c240fd6-e5bc-479a-8130-f04221e92977",
+        "item_name": "Cheeky Parm",
+        "item_price": "15"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "48730a9f-9077-4520-b21a-dfae54ef0084",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "didn(@single_quotes@)t go ve me my side of sausage, didn(@single_quotes@)t give me utensils when i asked for them specifically. ",
+      "order_ratings": "1",
+      "ordered_items": [
+       "Simply Orange OJ (11.9oz)",
+       "pbj dghnt frnch tst",
+       "evrythng frnch tst",
+       "Sausage Patty",
+       "Canadian Bacon",
+       "Blueberry Bread Pudding With Lemon Creme Anglaise",
+       "Coca Cola Can"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "48730a9f-9077-4520-b21a-dfae54ef0084",
+        "listing_id": "P03141",
+        "item_id": "10412837675",
+        "item_name": "Simply Orange OJ (11.9oz)",
+        "item_price": "6"
+       },
+       {
+        "delivery_uuid": "48730a9f-9077-4520-b21a-dfae54ef0084",
+        "listing_id": "P03141",
+        "item_id": "3000006135633234",
+        "item_name": "pbj dghnt frnch tst",
+        "item_price": "34"
+       },
+       {
+        "delivery_uuid": "48730a9f-9077-4520-b21a-dfae54ef0084",
+        "listing_id": "P03141",
+        "item_id": "3000006135633235",
+        "item_name": "evrythng frnch tst",
+        "item_price": "33"
+       },
+       {
+        "delivery_uuid": "48730a9f-9077-4520-b21a-dfae54ef0084",
+        "listing_id": "P03141",
+        "item_id": "10412837596",
+        "item_name": "Sausage Patty",
+        "item_price": "5"
+       },
+       {
+        "delivery_uuid": "48730a9f-9077-4520-b21a-dfae54ef0084",
+        "listing_id": "P03141",
+        "item_id": "10412835167",
+        "item_name": "Canadian Bacon",
+        "item_price": "5"
+       },
+       {
+        "delivery_uuid": "48730a9f-9077-4520-b21a-dfae54ef0084",
+        "listing_id": "P03141",
+        "item_id": "10412835195",
+        "item_name": "Blueberry Bread Pudding With Lemon Creme Anglaise",
+        "item_price": "9"
+       },
+       {
+        "delivery_uuid": "48730a9f-9077-4520-b21a-dfae54ef0084",
+        "listing_id": "P03141",
+        "item_id": "10412835180",
+        "item_name": "Coca Cola Can",
+        "item_price": "3"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "3164523e-cca7-41ba-88df-6626d89bd92b",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "ordered pbj pancakes, only received regular.",
+      "order_ratings": "3",
+      "ordered_items": [
+       "No Cutlery Needed",
+       "Smothered PBJ Pancakes",
+       "No Cutlery Needed",
+       "Diet Coke Can",
+       "Steak And Black Bean Breakfast Wrap"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "3164523e-cca7-41ba-88df-6626d89bd92b",
+        "listing_id": "P03136",
+        "item_id": "16089261473",
+        "item_name": "No Cutlery Needed",
+        "item_price": "0"
+       },
+       {
+        "delivery_uuid": "3164523e-cca7-41ba-88df-6626d89bd92b",
+        "listing_id": "P03136",
+        "item_id": "3000005187759642",
+        "item_name": "Smothered PBJ Pancakes",
+        "item_price": "16"
+       },
+       {
+        "delivery_uuid": "3164523e-cca7-41ba-88df-6626d89bd92b",
+        "listing_id": "P03136",
+        "item_id": "16089250735",
+        "item_name": "No Cutlery Needed",
+        "item_price": "0"
+       },
+       {
+        "delivery_uuid": "3164523e-cca7-41ba-88df-6626d89bd92b",
+        "listing_id": "P03136",
+        "item_id": "10412682927",
+        "item_name": "Diet Coke Can",
+        "item_price": "3"
+       },
+       {
+        "delivery_uuid": "3164523e-cca7-41ba-88df-6626d89bd92b",
+        "listing_id": "P03136",
+        "item_id": "3000005187759641",
+        "item_name": "Steak And Black Bean Breakfast Wrap",
+        "item_price": "18"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "66f69852-cdf2-11ed-9853-c5ab48792b65",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "GRUBHUB",
+      "overall_order_review": "Bad Presentation, Bad Packing, Sloppy Food Portions, Incorrect Order, Food Taste Nasty",
+      "order_ratings": "2",
+      "predicted_items": [
+       "Mashed Potato",
+       "Lemon Herb Aioli 3 oz",
+       "Mango Habanero",
+       "12 Pcs All Natural Wings"
+      ],
+      "predicted_item_ids": [
+       "19523291362",
+       "19523291357",
+       "19523291298",
+       "19523291327"
+      ],
+      "ordered_items": [
+       "Mashed Potato",
+       "Lemon Herb Aioli 3 oz",
+       "Mango Habanero",
+       "12 Pcs All Natural Wings"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "66f69852-cdf2-11ed-9853-c5ab48792b65",
+        "listing_id": "P0313",
+        "item_id": "19523291362",
+        "item_name": "Mashed Potato",
+        "item_price": "5"
+       },
+       {
+        "delivery_uuid": "66f69852-cdf2-11ed-9853-c5ab48792b65",
+        "listing_id": "P0313",
+        "item_id": "19523291357",
+        "item_name": "Lemon Herb Aioli 3 oz",
+        "item_price": "0"
+       },
+       {
+        "delivery_uuid": "66f69852-cdf2-11ed-9853-c5ab48792b65",
+        "listing_id": "P0313",
+        "item_id": "19523291298",
+        "item_name": "Mango Habanero",
+        "item_price": "0"
+       },
+       {
+        "delivery_uuid": "66f69852-cdf2-11ed-9853-c5ab48792b65",
+        "listing_id": "P0313",
+        "item_id": "19523291327",
+        "item_name": "12 Pcs All Natural Wings",
+        "item_price": "22"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "66fa78d2-da3b-11ed-b8d3-2d1ed502f208",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "GRUBHUB",
+      "overall_order_review": "Meat was overcooked, and dry bread was tough",
+      "order_ratings": "3",
+      "predicted_items": [
+       "Frings (half fries, half onion rings)",
+       "Side of Ranch",
+       "Side of Ketchup"
+      ],
+      "predicted_item_ids": [
+       "20763242489",
+       "20674582205",
+       "20674582211"
+      ],
+      "ordered_items": [
+       "Frings (half fries, half onion rings)",
+       "Side of Ranch",
+       "Side of Ketchup"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "66fa78d2-da3b-11ed-b8d3-2d1ed502f208",
+        "listing_id": "P0301",
+        "item_id": "20763242489",
+        "item_name": "Frings (half fries, half onion rings)",
+        "item_price": "7"
+       },
+       {
+        "delivery_uuid": "66fa78d2-da3b-11ed-b8d3-2d1ed502f208",
+        "listing_id": "P0301",
+        "item_id": "20674582205",
+        "item_name": "Side of Ranch",
+        "item_price": "1"
+       },
+       {
+        "delivery_uuid": "66fa78d2-da3b-11ed-b8d3-2d1ed502f208",
+        "listing_id": "P0301",
+        "item_id": "20674582211",
+        "item_name": "Side of Ketchup",
+        "item_price": "1"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "86297fea-7203-4f71-8c8c-1bbe0239bcbc",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "pretty meh. the \"blackberry preserves\" is just a packaged snickers jam. the french toast was pretty soggy. i added a banana for extra $$ and got half a brown banana, sliced.",
+      "order_ratings": "3",
+      "predicted_items": [
+       "frnch tst",
+       "Passion Fruit Iced Tea (16oz)"
+      ],
+      "predicted_item_ids": [
+       "3000005557625914",
+       "10412835043"
+      ],
+      "ordered_items": [
+       "frnch tst",
+       "Passion Fruit Iced Tea (16oz)"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "86297fea-7203-4f71-8c8c-1bbe0239bcbc",
+        "listing_id": "P03141",
+        "item_id": "3000005557625914",
+        "item_name": "frnch tst",
+        "item_price": "21"
+       },
+       {
+        "delivery_uuid": "86297fea-7203-4f71-8c8c-1bbe0239bcbc",
+        "listing_id": "P03141",
+        "item_id": "10412835043",
+        "item_name": "Passion Fruit Iced Tea (16oz)",
+        "item_price": "5"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "c99adfa8-f151-4a37-b107-05db0bd146c5",
+      "order_date": "2023-03-08T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "ordered a combo with mac and cheese wedges didn(@single_quotes@)t get them. also order took so long the bread was hard and cold. sad I was really looking forward to trying here. , was also missing a item ",
+      "order_ratings": "3",
+      "predicted_items": [
+       "Only Me Combo"
+      ],
+      "predicted_item_ids": [
+       "ca01aa69-1aeb-430f-b974-2ea286b7efb6"
+      ],
+      "ordered_items": [
+       "Only Me Combo"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "c99adfa8-f151-4a37-b107-05db0bd146c5",
+        "listing_id": "P0031",
+        "item_id": "ca01aa69-1aeb-430f-b974-2ea286b7efb6",
+        "item_name": "Only Me Combo",
+        "item_price": "19"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "51a8f423-182c-4c2b-a3db-efbbaedd0f08",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "   s",
+      "order_ratings": "2",
+      "predicted_items": [
+       "Only Me Combo"
+      ],
+      "predicted_item_ids": [
+       "5f8accbb-223d-4077-a4a8-50c814e28731"
+      ],
+      "ordered_items": [
+       "Only Me Combo"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "51a8f423-182c-4c2b-a3db-efbbaedd0f08",
+        "listing_id": "P0242",
+        "item_id": "5f8accbb-223d-4077-a4a8-50c814e28731",
+        "item_name": "Only Me Combo",
+        "item_price": "20"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "b713b3ea-afaf-41e9-9fc8-d75487e0571b",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "terrible. tasteless. no sauce at all. dryest sandwich i(@single_quotes@)ve ever had. the picture looks so amazing but it(@single_quotes@)s nothing like that image.\nhopefully this was a bad experience and not how everything is.\nyikes.",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Pop's on Fire",
+       "Frings (half fries, half onion rings)"
+      ],
+      "predicted_item_ids": [
+       "3000005965134583",
+       "27357141067"
+      ],
+      "ordered_items": [
+       "Pop(@single_quotes@)s on Fire",
+       "Frings (half fries, half onion rings)"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "b713b3ea-afaf-41e9-9fc8-d75487e0571b",
+        "listing_id": "P0293",
+        "item_id": "3000005965134583",
+        "item_name": "Pop(@single_quotes@)s on Fire",
+        "item_price": "23"
+       },
+       {
+        "delivery_uuid": "b713b3ea-afaf-41e9-9fc8-d75487e0571b",
+        "listing_id": "P0293",
+        "item_id": "27357141067",
+        "item_name": "Frings (half fries, half onion rings)",
+        "item_price": "7"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "2ce478ab-1bd0-4f27-a524-2d350e75e046",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "actually leo(@single_quotes@)s, overcooked, appetizer sized 20$ diner bull****",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Add Chicken",
+       "Spaghetti Pomodoro",
+       "Chicken Limone with Cavatappi"
+      ],
+      "predicted_item_ids": [
+       "24947874555",
+       "3000005802163555",
+       "3000005802163554"
+      ],
+      "ordered_items": [
+       "Add Chicken",
+       "Spaghetti Pomodoro",
+       "Chicken Limone with Cavatappi"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "2ce478ab-1bd0-4f27-a524-2d350e75e046",
+        "listing_id": "P0202",
+        "item_id": "24947874555",
+        "item_name": "Add Chicken",
+        "item_price": "6"
+       },
+       {
+        "delivery_uuid": "2ce478ab-1bd0-4f27-a524-2d350e75e046",
+        "listing_id": "P0202",
+        "item_id": "3000005802163555",
+        "item_name": "Spaghetti Pomodoro",
+        "item_price": "19"
+       },
+       {
+        "delivery_uuid": "2ce478ab-1bd0-4f27-a524-2d350e75e046",
+        "listing_id": "P0202",
+        "item_id": "3000005802163554",
+        "item_name": "Chicken Limone with Cavatappi",
+        "item_price": "22"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "6a93d95f-7810-43ef-b9bd-fa4840228f99",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "it was just okay. not offensive, not great",
+      "order_ratings": "3",
+      "predicted_items": [
+       "Spaghetti Pomodoro",
+       "Spicy Penne alla Vodka"
+      ],
+      "predicted_item_ids": [
+       "3000005829160572",
+       "3000005829160571"
+      ],
+      "ordered_items": [
+       "Add Side of Meatballs in Marinara",
+       "Diet Coke",
+       "Spaghetti Pomodoro",
+       "Spicy Penne alla Vodka"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "6a93d95f-7810-43ef-b9bd-fa4840228f99",
+        "listing_id": "P0182",
+        "item_id": "26361849211",
+        "item_name": "Add Side of Meatballs in Marinara",
+        "item_price": "8"
+       },
+       {
+        "delivery_uuid": "6a93d95f-7810-43ef-b9bd-fa4840228f99",
+        "listing_id": "P0182",
+        "item_id": "25271607629",
+        "item_name": "Diet Coke",
+        "item_price": "3"
+       },
+       {
+        "delivery_uuid": "6a93d95f-7810-43ef-b9bd-fa4840228f99",
+        "listing_id": "P0182",
+        "item_id": "3000005829160572",
+        "item_name": "Spaghetti Pomodoro",
+        "item_price": "21"
+       },
+       {
+        "delivery_uuid": "6a93d95f-7810-43ef-b9bd-fa4840228f99",
+        "listing_id": "P0182",
+        "item_id": "3000005829160571",
+        "item_name": "Spicy Penne alla Vodka",
+        "item_price": "25"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "fef63c48-9dbe-4041-afc0-e0bc38a24563",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "great tasting food, but very small quantities for the price.",
+      "order_ratings": "3",
+      "predicted_items": [
+       "Cavatappi with Creamy Pesto",
+       "Chicken Limone with Cavatappi"
+      ],
+      "predicted_item_ids": [
+       "3000006138213159",
+       "3000006138213158"
+      ],
+      "ordered_items": [
+       "Cavatappi with Creamy Pesto",
+       "Chicken Limone with Cavatappi"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "fef63c48-9dbe-4041-afc0-e0bc38a24563",
+        "listing_id": "P0232",
+        "item_id": "3000006138213159",
+        "item_name": "Cavatappi with Creamy Pesto",
+        "item_price": "20"
+       },
+       {
+        "delivery_uuid": "fef63c48-9dbe-4041-afc0-e0bc38a24563",
+        "listing_id": "P0232",
+        "item_id": "3000006138213158",
+        "item_name": "Chicken Limone with Cavatappi",
+        "item_price": "22"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "47f58419-afa1-4327-8ae0-6c990f46d3ce",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "The pasta taste like it was very undercooked and it was very chalky and pasty. And for $18. I expected a little bit more on the portion. ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Fettuccine Alfredo"
+      ],
+      "predicted_item_ids": [
+       "68df54e8-5f7d-4580-ab51-4269bb9a9fd3"
+      ],
+      "ordered_items": [
+       "Fettuccine Alfredo"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "47f58419-afa1-4327-8ae0-6c990f46d3ce",
+        "listing_id": "P0272",
+        "item_id": "68df54e8-5f7d-4580-ab51-4269bb9a9fd3",
+        "item_name": "Fettuccine Alfredo",
+        "item_price": "13"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "b7e814b2-0cd9-449e-828a-307b0ef3e415",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "the sandwich i received is not what i ordered, and on top of it the sandwich they did send me the meat is over cooked and dry. for the amount of time i had to wait past the estimated delivery time they could have gotten a one sandwich order correct. first time ordering, and is most likely the last unfortunately. ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "sandwich"
+      ],
+      "predicted_item_ids": [
+       "3000005634809874",
+       "3000005634809873"
+      ],
+      "ordered_items": [
+       "Side of Onion Rings",
+       "The Cheesehead"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "b7e814b2-0cd9-449e-828a-307b0ef3e415",
+        "listing_id": "P0021",
+        "item_id": "3000005634809874",
+        "item_name": "Side of Onion Rings",
+        "item_price": "7"
+       },
+       {
+        "delivery_uuid": "b7e814b2-0cd9-449e-828a-307b0ef3e415",
+        "listing_id": "P0021",
+        "item_id": "3000005634809873",
+        "item_name": "The Cheesehead",
+        "item_price": "17"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "ccd451d0-4fb4-4739-b9bb-0cdf2cd33a5d",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "The most disgusting fish I have eaten, so bitter that u cannot even taste a bit, wouldn(@single_quotes@)t recommend to anyone  , Worst dish on their menu ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Juicy Grilled Fish Set"
+      ],
+      "predicted_item_ids": [
+       "52f39fa7-39da-4154-89f2-9a4601763946"
+      ],
+      "ordered_items": [
+       "Juicy Grilled Fish Set",
+       "Massively Delicious Grilled Oysters (from 2 pcs)",
+       "Three fresh dumplings (12pcs)",
+       "Strict Grilled Beef Ribs (2 Skewers)"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "ccd451d0-4fb4-4739-b9bb-0cdf2cd33a5d",
+        "listing_id": "P0282",
+        "item_id": "52f39fa7-39da-4154-89f2-9a4601763946",
+        "item_name": "Juicy Grilled Fish Set",
+        "item_price": "44"
+       },
+       {
+        "delivery_uuid": "ccd451d0-4fb4-4739-b9bb-0cdf2cd33a5d",
+        "listing_id": "P0282",
+        "item_id": "b0de791d-9fcd-484e-9450-910694bb2620",
+        "item_name": "Massively Delicious Grilled Oysters (from 2 pcs)",
+        "item_price": "8"
+       },
+       {
+        "delivery_uuid": "ccd451d0-4fb4-4739-b9bb-0cdf2cd33a5d",
+        "listing_id": "P0282",
+        "item_id": "1f445635-7b60-4121-a200-44489c0c55f9",
+        "item_name": "Three fresh dumplings (12pcs)",
+        "item_price": "18"
+       },
+       {
+        "delivery_uuid": "ccd451d0-4fb4-4739-b9bb-0cdf2cd33a5d",
+        "listing_id": "P0282",
+        "item_id": "1539ac1c-dccf-4438-91a9-a6c93c3f3405",
+        "item_name": "Strict Grilled Beef Ribs (2 Skewers)",
+        "item_price": "14"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "4030db5b-5736-4a02-b133-c1caed1c0e9d",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "part of my order did not arrive and no one answered when i called for a refund on that part of the order. ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Spicy Penne alla Vodka",
+       "Add Side of Meatballs in Marinara"
+      ],
+      "predicted_item_ids": [
+       "3000006245192859",
+       "27210144095"
+      ],
+      "ordered_items": [
+       "Spicy Penne alla Vodka",
+       "Add Side of Meatballs in Marinara"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "4030db5b-5736-4a02-b133-c1caed1c0e9d",
+        "listing_id": "P0272",
+        "item_id": "3000006245192859",
+        "item_name": "Spicy Penne alla Vodka",
+        "item_price": "22"
+       },
+       {
+        "delivery_uuid": "4030db5b-5736-4a02-b133-c1caed1c0e9d",
+        "listing_id": "P0272",
+        "item_id": "27210144095",
+        "item_name": "Add Side of Meatballs in Marinara",
+        "item_price": "8"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "db5d0153-6301-4535-a1c5-88d6137126c3",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "this isn(@single_quotes@)t house of parm it(@single_quotes@)s leo(@single_quotes@)s. portions are basically side dishes for 12.99. wasn(@single_quotes@)t hot, wasn(@single_quotes@)t even worth the money and false advertising on location as well. 100% don(@single_quotes@)t recommend.",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Spaghetti Pomodoro",
+       "Fettuccine Alfredo"
+      ],
+      "predicted_item_ids": [
+       "3000006533659243",
+       "3000006533659242"
+      ],
+      "ordered_items": [
+       "Spaghetti Pomodoro",
+       "Fettuccine Alfredo"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "db5d0153-6301-4535-a1c5-88d6137126c3",
+        "listing_id": "P0202",
+        "item_id": "3000006533659243",
+        "item_name": "Spaghetti Pomodoro",
+        "item_price": "13"
+       },
+       {
+        "delivery_uuid": "db5d0153-6301-4535-a1c5-88d6137126c3",
+        "listing_id": "P0202",
+        "item_id": "3000006533659242",
+        "item_name": "Fettuccine Alfredo",
+        "item_price": "26"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "0368c1b0-909c-4644-a146-afd2cb6fbe5a",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "   madr a chicken gizzard instead of lamb i was furious ",
+      "order_ratings": "2",
+      "predicted_items": [
+       "Sizzling Grilled fresh small lamb kebabs (5 skewers)"
+      ],
+      "predicted_item_ids": [
+       "c1243236-14b9-49bc-9e20-c7c89644903f"
+      ],
+      "ordered_items": [
+       "Sizzling Grilled fresh small lamb kebabs (5 skewers)"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "0368c1b0-909c-4644-a146-afd2cb6fbe5a",
+        "listing_id": "P0281",
+        "item_id": "c1243236-14b9-49bc-9e20-c7c89644903f",
+        "item_name": "Sizzling Grilled fresh small lamb kebabs (5 skewers)",
+        "item_price": "13"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "ae7e31e3-6f8b-4d05-9673-1290e260c380",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "wasn(@single_quotes@)t a fan. ",
+      "order_ratings": "2",
+      "predicted_items": [
+       "Side of Fries",
+       "Cavatappi with Creamy Pesto",
+       "Side of Cheese Sauce"
+      ],
+      "predicted_item_ids": [
+       "3000005855875280",
+       "3000005855875279",
+       "26695527305"
+      ],
+      "ordered_items": [
+       "Side of Fries",
+       "Cavatappi with Creamy Pesto",
+       "Side of Cheese Sauce"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "ae7e31e3-6f8b-4d05-9673-1290e260c380",
+        "listing_id": "P0232",
+        "item_id": "3000005855875280",
+        "item_name": "Side of Fries",
+        "item_price": "7"
+       },
+       {
+        "delivery_uuid": "ae7e31e3-6f8b-4d05-9673-1290e260c380",
+        "listing_id": "P0232",
+        "item_id": "3000005855875279",
+        "item_name": "Cavatappi with Creamy Pesto",
+        "item_price": "14"
+       },
+       {
+        "delivery_uuid": "ae7e31e3-6f8b-4d05-9673-1290e260c380",
+        "listing_id": "P0232",
+        "item_id": "26695527305",
+        "item_name": "Side of Cheese Sauce",
+        "item_price": "2"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "c94a62aa-92ef-4fb2-bef9-37440f9f57e2",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "the burritos were not even what the description said. none of the promised ingredients. barely anything on them for the cost. it(@single_quotes@)s like a $5 burrito for $14. i paid for extra sausage for my son and maybe got a link(@single_quotes@)s worth cut up on top...for over $2 paid. way over priced and not what is advertised. ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "The Basic B*tch Burrito",
+       "Add Breakfast Sausage to my Bowl",
+       "Add Bacon to my Burrito"
+      ],
+      "predicted_item_ids": [
+       "3000006009268720",
+       "27210163240",
+       "27210150617"
+      ],
+      "ordered_items": [
+       "Add Breakfast Sausage to my Bowl",
+       "Add Bacon to my Burrito",
+       "The Classic Breakfast Bowl",
+       "The Basic B*tch Burrito",
+       "The Wake n(@single_quotes@) Bake Burrito"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "c94a62aa-92ef-4fb2-bef9-37440f9f57e2",
+        "listing_id": "P0271",
+        "item_id": "27210163240",
+        "item_name": "Add Breakfast Sausage to my Bowl",
+        "item_price": "3"
+       },
+       {
+        "delivery_uuid": "c94a62aa-92ef-4fb2-bef9-37440f9f57e2",
+        "listing_id": "P0271",
+        "item_id": "27210150617",
+        "item_name": "Add Bacon to my Burrito",
+        "item_price": "3"
+       },
+       {
+        "delivery_uuid": "c94a62aa-92ef-4fb2-bef9-37440f9f57e2",
+        "listing_id": "P0271",
+        "item_id": "3000006009268719",
+        "item_name": "The Classic Breakfast Bowl",
+        "item_price": "14"
+       },
+       {
+        "delivery_uuid": "c94a62aa-92ef-4fb2-bef9-37440f9f57e2",
+        "listing_id": "P0271",
+        "item_id": "3000006009268720",
+        "item_name": "The Basic B*tch Burrito",
+        "item_price": "15"
+       },
+       {
+        "delivery_uuid": "c94a62aa-92ef-4fb2-bef9-37440f9f57e2",
+        "listing_id": "P0271",
+        "item_id": "3000006009268721",
+        "item_name": "The Wake n(@single_quotes@) Bake Burrito",
+        "item_price": "14"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "4d22a7d1-6046-408d-bff7-4d8e0ea5f1d9",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "i(@single_quotes@)ve ordered from here twice and and haven(@single_quotes@)t gotten meat on my burrito either time. lot of potential if they can get their orders right",
+      "order_ratings": "2",
+      "predicted_items": [
+       "The Wake n(@single_quotes@) Bake Burrito"
+      ],
+      "predicted_item_ids": [
+       "3000005900310455"
+      ],
+      "ordered_items": [
+       "The Wake n(@single_quotes@) Bake Burrito"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "4d22a7d1-6046-408d-bff7-4d8e0ea5f1d9",
+        "listing_id": "P0271",
+        "item_id": "3000005900310455",
+        "item_name": "The Wake n(@single_quotes@) Bake Burrito",
+        "item_price": "14"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "c4d823da-18b8-4ab6-b00a-fcd028cfec9a",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "the spaghetti was broken down to vermicelli length! sauce is subpar. ",
+      "order_ratings": "2",
+      "predicted_items": [
+       "Spaghetti Pomodoro"
+      ],
+      "predicted_item_ids": [
+       "3000005198291279"
+      ],
+      "ordered_items": [
+       "Spaghetti Pomodoro"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "c4d823da-18b8-4ab6-b00a-fcd028cfec9a",
+        "listing_id": "P0202",
+        "item_id": "3000005198291279",
+        "item_name": "Spaghetti Pomodoro",
+        "item_price": "13"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "5eb920da-de63-4fff-871f-881554ac60df",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "mostly egg. barely any sauce. bland sausage",
+      "order_ratings": "2",
+      "predicted_items": [
+       "The Hangover Burrito"
+      ],
+      "predicted_item_ids": [
+       "3000005544795645"
+      ],
+      "ordered_items": [
+       "Side of Cheese Sauce",
+       "The Hangover Burrito"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "5eb920da-de63-4fff-871f-881554ac60df",
+        "listing_id": "P0271",
+        "item_id": "3000005544795646",
+        "item_name": "Side of Cheese Sauce",
+        "item_price": "2"
+       },
+       {
+        "delivery_uuid": "5eb920da-de63-4fff-871f-881554ac60df",
+        "listing_id": "P0271",
+        "item_id": "3000005544795645",
+        "item_name": "The Hangover Burrito",
+        "item_price": "14"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "aab0ad22-dc82-444a-adc9-b636d3485d20",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "   the promotion didnt work ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Fettuccine Alfredo",
+       "Side of Fries"
+      ],
+      "predicted_item_ids": [
+       "a5c5e0b8-8b36-44b2-bd0a-2b2cb4bbc80e",
+       "e1b17366-ab1e-4f9d-9155-74fc40b4fdd4"
+      ],
+      "ordered_items": [
+       "Fettuccine Alfredo",
+       "Side of Fries"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "aab0ad22-dc82-444a-adc9-b636d3485d20",
+        "listing_id": "P0182",
+        "item_id": "a5c5e0b8-8b36-44b2-bd0a-2b2cb4bbc80e",
+        "item_name": "Fettuccine Alfredo",
+        "item_price": "13"
+       },
+       {
+        "delivery_uuid": "aab0ad22-dc82-444a-adc9-b636d3485d20",
+        "listing_id": "P0182",
+        "item_id": "e1b17366-ab1e-4f9d-9155-74fc40b4fdd4",
+        "item_name": "Side of Fries",
+        "item_price": "6"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "4ae0992b-e9f3-4562-8d37-be0d205c8830",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "I wasn(@single_quotes@)t given the correct meal. I order a $17.35 bowl not a 9.99 burrito.  ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "The Wake n(@single_quotes@) Bake Bowl"
+      ],
+      "predicted_item_ids": [
+       "705b7343-9849-414e-9c4e-81d161ab176d"
+      ],
+      "ordered_items": [
+       "Side of Cheese Sauce",
+       "The Wake n(@single_quotes@) Bake Bowl"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "4ae0992b-e9f3-4562-8d37-be0d205c8830",
+        "listing_id": "P0271",
+        "item_id": "fe67f58b-7e60-4030-a098-71040c802574",
+        "item_name": "Side of Cheese Sauce",
+        "item_price": "2"
+       },
+       {
+        "delivery_uuid": "4ae0992b-e9f3-4562-8d37-be0d205c8830",
+        "listing_id": "P0271",
+        "item_id": "705b7343-9849-414e-9c4e-81d161ab176d",
+        "item_name": "The Wake n(@single_quotes@) Bake Bowl",
+        "item_price": "15"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "72e12a66-7850-4f01-a75a-17444af3170e",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "chicken was nasty and meal for the price was tiny!",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Fettuccine Alfredo"
+      ],
+      "predicted_item_ids": [
+       "3000005551929235"
+      ],
+      "ordered_items": [
+       "Fettuccine Alfredo"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "72e12a66-7850-4f01-a75a-17444af3170e",
+        "listing_id": "P0182",
+        "item_id": "3000005551929235",
+        "item_name": "Fettuccine Alfredo",
+        "item_price": "22"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "9eac6449-ecd3-43f5-aeb3-455c8dbe8f6b",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "the fettuccine alfredo cost almost $20 and was the size of a lean cuisine. it was tiny.  ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Fettuccine Alfredo"
+      ],
+      "predicted_item_ids": [
+       "3000005855031771"
+      ],
+      "ordered_items": [
+       "Fettuccine Alfredo"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "9eac6449-ecd3-43f5-aeb3-455c8dbe8f6b",
+        "listing_id": "P0182",
+        "item_id": "3000005855031771",
+        "item_name": "Fettuccine Alfredo",
+        "item_price": "13"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "f7ab9ad3-6342-49f8-89fa-3d6d8a0f5089",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "great sandwich. didn(@single_quotes@)t get my cookie",
+      "order_ratings": "3",
+      "predicted_items": [
+       "The Cajun Cluck"
+      ],
+      "predicted_item_ids": [
+       "3000005250244860"
+      ],
+      "ordered_items": [
+       "The Cajun Cluck"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "f7ab9ad3-6342-49f8-89fa-3d6d8a0f5089",
+        "listing_id": "P0162",
+        "item_id": "3000005250244860",
+        "item_name": "The Cajun Cluck",
+        "item_price": "25"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "48f4760a-4625-4feb-ba19-487773870995",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "would never order again. the food tasted okay, but not worth the amount money at all. there was also a plastic bread tie in the burrito.",
+      "order_ratings": "1",
+      "predicted_items": [
+       "The Hangover Burrito",
+       "The Classic Breakfast Bowl"
+      ],
+      "predicted_item_ids": [
+       "3000005828495112",
+       "3000005828495113"
+      ],
+      "ordered_items": [
+       "The Hangover Burrito",
+       "The Classic Breakfast Bowl"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "48f4760a-4625-4feb-ba19-487773870995",
+        "listing_id": "P0201",
+        "item_id": "3000005828495112",
+        "item_name": "The Hangover Burrito",
+        "item_price": "14"
+       },
+       {
+        "delivery_uuid": "48f4760a-4625-4feb-ba19-487773870995",
+        "listing_id": "P0201",
+        "item_id": "3000005828495113",
+        "item_name": "The Classic Breakfast Bowl",
+        "item_price": "14"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "3785f6f1-d868-4a0c-b342-11fc5fbee46d",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "no buffalo sauce. definitely no double bacon. eggs didn(@single_quotes@)t taste great.",
+      "order_ratings": "2",
+      "predicted_items": [
+       "The Hangover Burrito"
+      ],
+      "predicted_item_ids": [
+       "3000005712230592"
+      ],
+      "ordered_items": [
+       "The Hangover Burrito"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "3785f6f1-d868-4a0c-b342-11fc5fbee46d",
+        "listing_id": "P0271",
+        "item_id": "3000005712230592",
+        "item_name": "The Hangover Burrito",
+        "item_price": "16"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "9f81586b-144a-43ce-b8d4-ee1aabdd26fe",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "ordered two wake n bake burritos, did not come with ground beef like listed, what(@single_quotes@)s going on??",
+      "order_ratings": "3",
+      "predicted_items": [
+       "Wake n(@single_quotes@) Bake Burrito"
+      ],
+      "predicted_item_ids": [
+       "3000005697686730"
+      ],
+      "ordered_items": [
+       "The Wake n(@single_quotes@) Bake Burrito"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "9f81586b-144a-43ce-b8d4-ee1aabdd26fe",
+        "listing_id": "P0271",
+        "item_id": "3000005697686730",
+        "item_name": "The Wake n(@single_quotes@) Bake Burrito",
+        "item_price": "28"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "6c9da3dc-a75d-4193-a359-3cf903753c59",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "eggs were dry. eggs came with hot sauce, which was not in the description. very disappointing ",
+      "order_ratings": "2",
+      "predicted_items": [
+       "The Hangover Burrito",
+       "The Classic Breakfast Bowl"
+      ],
+      "predicted_item_ids": [
+       "3000005950624555",
+       "3000005950624554"
+      ],
+      "ordered_items": [
+       "The Hangover Burrito",
+       "Add Bacon to my Bowl",
+       "The Classic Breakfast Bowl"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "6c9da3dc-a75d-4193-a359-3cf903753c59",
+        "listing_id": "P0271",
+        "item_id": "3000005950624555",
+        "item_name": "The Hangover Burrito",
+        "item_price": "19"
+       },
+       {
+        "delivery_uuid": "6c9da3dc-a75d-4193-a359-3cf903753c59",
+        "listing_id": "P0271",
+        "item_id": "27210163239",
+        "item_name": "Add Bacon to my Bowl",
+        "item_price": "3"
+       },
+       {
+        "delivery_uuid": "6c9da3dc-a75d-4193-a359-3cf903753c59",
+        "listing_id": "P0271",
+        "item_id": "3000005950624554",
+        "item_name": "The Classic Breakfast Bowl",
+        "item_price": "14"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "0f830432-17e4-4755-b2bb-fdfff8a518f4",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "alfredo was bland but better than the green stuff ",
+      "order_ratings": "2",
+      "predicted_items": [
+       "Fettuccine Alfredo"
+      ],
+      "predicted_item_ids": [
+       "3000005779562930"
+      ],
+      "ordered_items": [
+       "Cavatappi with Creamy Pesto",
+       "Fettuccine Alfredo"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "0f830432-17e4-4755-b2bb-fdfff8a518f4",
+        "listing_id": "P0272",
+        "item_id": "3000005779562929",
+        "item_name": "Cavatappi with Creamy Pesto",
+        "item_price": "14"
+       },
+       {
+        "delivery_uuid": "0f830432-17e4-4755-b2bb-fdfff8a518f4",
+        "listing_id": "P0272",
+        "item_id": "3000005779562930",
+        "item_name": "Fettuccine Alfredo",
+        "item_price": "13"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "abc948b9-54e9-420d-b948-d0e639a5ba9c",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "the quality of food was awful. the burritos mostly consist of the wrap and not enough filling. the side of hashbrowns were burnt and tasted very off. would not recommend.  ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "The Hangover Burrito",
+       "Add Breakfast Sausage to my Burrito",
+       "Side of Hashbrowns"
+      ],
+      "predicted_item_ids": [
+       "3000006026417455",
+       "27210164445",
+       "3000006026417456"
+      ],
+      "ordered_items": [
+       "Side of Hashbrowns",
+       "The Hangover Burrito",
+       "The Wake n(@single_quotes@) Bake Burrito",
+       "Add Breakfast Sausage to my Burrito"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "abc948b9-54e9-420d-b948-d0e639a5ba9c",
+        "listing_id": "P0271",
+        "item_id": "3000006026417456",
+        "item_name": "Side of Hashbrowns",
+        "item_price": "10"
+       },
+       {
+        "delivery_uuid": "abc948b9-54e9-420d-b948-d0e639a5ba9c",
+        "listing_id": "P0271",
+        "item_id": "3000006026417455",
+        "item_name": "The Hangover Burrito",
+        "item_price": "14"
+       },
+       {
+        "delivery_uuid": "abc948b9-54e9-420d-b948-d0e639a5ba9c",
+        "listing_id": "P0271",
+        "item_id": "3000006026417457",
+        "item_name": "The Wake n(@single_quotes@) Bake Burrito",
+        "item_price": "17"
+       },
+       {
+        "delivery_uuid": "abc948b9-54e9-420d-b948-d0e639a5ba9c",
+        "listing_id": "P0271",
+        "item_id": "27210164445",
+        "item_name": "Add Breakfast Sausage to my Burrito",
+        "item_price": "3"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "f30b7dca-d1fa-49e0-8f0c-5c2b40518670",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "way overpriced and over seasoned! save your money and buy taco bell. ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "The Hangover Burrito",
+       "Apple Juice"
+      ],
+      "predicted_item_ids": [
+       "3000006459159272",
+       "3000006459159273"
+      ],
+      "ordered_items": [
+       "The Hangover Burrito",
+       "Apple Juice"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "f30b7dca-d1fa-49e0-8f0c-5c2b40518670",
+        "listing_id": "P0292",
+        "item_id": "3000006459159272",
+        "item_name": "The Hangover Burrito",
+        "item_price": "14"
+       },
+       {
+        "delivery_uuid": "f30b7dca-d1fa-49e0-8f0c-5c2b40518670",
+        "listing_id": "P0292",
+        "item_id": "3000006459159273",
+        "item_name": "Apple Juice",
+        "item_price": "3"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "35fc44cb-cab9-49ab-a13c-acdd9ca9f6ff",
+      "order_date": "2023-03-08T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "wants expecting it to be so spicy. it was good but to spicy for me ",
+      "order_ratings": "3",
+      "predicted_items": [
+       "Side of Fries",
+       "Pop(@single_quotes@)s Combo"
+      ],
+      "predicted_item_ids": [
+       "19854631797",
+       "3000003885853734"
+      ],
+      "ordered_items": [
+       "Side of Fries",
+       "Pop(@single_quotes@)s Combo"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "35fc44cb-cab9-49ab-a13c-acdd9ca9f6ff",
+        "listing_id": "P0132",
+        "item_id": "19854631797",
+        "item_name": "Side of Fries",
+        "item_price": "0"
+       },
+       {
+        "delivery_uuid": "35fc44cb-cab9-49ab-a13c-acdd9ca9f6ff",
+        "listing_id": "P0132",
+        "item_id": "3000003885853734",
+        "item_name": "Pop(@single_quotes@)s Combo",
+        "item_price": "23"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "a45681cd-02cb-477b-9295-a28df5f53465",
+      "order_date": "2023-03-08T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "Only a few meatballs and little sauce. The second time was not as good as the first  ",
+      "order_ratings": "2",
+      "predicted_items": [
+       "The Mac n(@single_quotes@) Meatball"
+      ],
+      "predicted_item_ids": [
+       "9fcea1c4-1eeb-4750-9664-d317a54daabb"
+      ],
+      "ordered_items": [
+       "The Mac n(@single_quotes@) Meatball"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "a45681cd-02cb-477b-9295-a28df5f53465",
+        "listing_id": "P0142",
+        "item_id": "9fcea1c4-1eeb-4750-9664-d317a54daabb",
+        "item_name": "The Mac n(@single_quotes@) Meatball",
+        "item_price": "17"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "f7d2779a-53c3-4887-9f7a-f08edc506cb5",
+      "order_date": "2023-03-08T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "first time I(@single_quotes@)ve ordered from you guys. overall food was good except for the meatballs. they tasted like they were made yesterday and they were very dry and right. the role the cheese and the sauce were all very good as well as the brownie. The cookie not so much. ",
+      "order_ratings": "3",
+      "predicted_items": [
+       "meatballs"
+      ],
+      "predicted_item_ids": [
+       "4224e091-fa5c-4d4f-9f19-a1d091d4d2c9"
+      ],
+      "ordered_items": [
+       "Pop(@single_quotes@)s Combo"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "f7d2779a-53c3-4887-9f7a-f08edc506cb5",
+        "listing_id": "P0092",
+        "item_id": "4224e091-fa5c-4d4f-9f19-a1d091d4d2c9",
+        "item_name": "Pop(@single_quotes@)s Combo",
+        "item_price": "20"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "f688577f-b5de-41d6-886e-6532a0f74fc8",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "first time trying this place and my burrito is missing half the ingredients lol..",
+      "order_ratings": "1",
+      "predicted_items": [
+       "The Hangover Burrito"
+      ],
+      "predicted_item_ids": [
+       "3000006138403545"
+      ],
+      "ordered_items": [
+       "Side of Bacon (2 Pieces)",
+       "The Hangover Burrito"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "f688577f-b5de-41d6-886e-6532a0f74fc8",
+        "listing_id": "P0251",
+        "item_id": "3000006138403546",
+        "item_name": "Side of Bacon (2 Pieces)",
+        "item_price": "4"
+       },
+       {
+        "delivery_uuid": "f688577f-b5de-41d6-886e-6532a0f74fc8",
+        "listing_id": "P0251",
+        "item_id": "3000006138403545",
+        "item_name": "The Hangover Burrito",
+        "item_price": "14"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "382ded58-f0e7-4a93-95e3-9a008ff6126b",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "it was a mess ,not enough toppings ,potatoes hard, ",
+      "order_ratings": "2",
+      "predicted_items": [
+       "Truffled Mushroom + Potato Pizza 1Ft"
+      ],
+      "predicted_item_ids": [
+       "3d09d798-ee34-43d6-a702-ac7a614209dd"
+      ],
+      "ordered_items": [
+       "Truffled Mushroom + Potato Pizza 1Ft"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "382ded58-f0e7-4a93-95e3-9a008ff6126b",
+        "listing_id": "P03135",
+        "item_id": "3d09d798-ee34-43d6-a702-ac7a614209dd",
+        "item_name": "Truffled Mushroom + Potato Pizza 1Ft",
+        "item_price": "18"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "beca1c3a-f7a2-4040-a864-b87fa2f02c9b",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "if i can rate a 0 i would don(@single_quotes@)t order this bro ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "The Frito Bandito",
+       "Sprite"
+      ],
+      "predicted_item_ids": [
+       "3000005192412828",
+       "24272977565"
+      ],
+      "ordered_items": [
+       "The Frito Bandito",
+       "Sprite"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "beca1c3a-f7a2-4040-a864-b87fa2f02c9b",
+        "listing_id": "P0051",
+        "item_id": "3000005192412828",
+        "item_name": "The Frito Bandito",
+        "item_price": "17"
+       },
+       {
+        "delivery_uuid": "beca1c3a-f7a2-4040-a864-b87fa2f02c9b",
+        "listing_id": "P0051",
+        "item_id": "24272977565",
+        "item_name": "Sprite",
+        "item_price": "3"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "72bb64d2-b236-4241-8202-c2c29709fd07",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "disappointed. no cheese on the sandwich and i didn(@single_quotes@)t opt to remove it. for the price, it really didn(@single_quotes@)t seem worth it even if it had had the cheese. for a sandwich that is supposed to be covered with soup, or come with soup? the photos are misleading, it was very dry. probably will not order again considering the high price point.",
+      "order_ratings": "2",
+      "predicted_items": [
+       "Frenchy Meatball"
+      ],
+      "predicted_item_ids": [
+       "3000005853028206"
+      ],
+      "ordered_items": [
+       "The Frenchy Meatball"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "72bb64d2-b236-4241-8202-c2c29709fd07",
+        "listing_id": "P0152",
+        "item_id": "3000005853028206",
+        "item_name": "The Frenchy Meatball",
+        "item_price": "16"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "2f99d8b0-e209-4b36-9963-e377528086cc",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "dry as heck not seasoned enough bland ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "The Philly Po(@single_quotes@) Boy"
+      ],
+      "predicted_item_ids": [
+       "3000004911690635"
+      ],
+      "ordered_items": [
+       "The Philly Po(@single_quotes@) Boy"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "2f99d8b0-e209-4b36-9963-e377528086cc",
+        "listing_id": "P0051",
+        "item_id": "3000004911690635",
+        "item_name": "The Philly Po(@single_quotes@) Boy",
+        "item_price": "15"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "17fc0c21-9044-4038-a18f-a0fc15cf3222",
+      "order_date": "2023-03-08T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "to cold.  , need to be freshly made",
+      "order_ratings": "3",
+      "predicted_items": [
+       "The Philly "
+      ],
+      "predicted_item_ids": [
+       "f846ea83-b792-43b3-a820-ad694456369f"
+      ],
+      "ordered_items": [
+       "The Philly "
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "17fc0c21-9044-4038-a18f-a0fc15cf3222",
+        "listing_id": "P0051",
+        "item_id": "f846ea83-b792-43b3-a820-ad694456369f",
+        "item_name": "The Philly ",
+        "item_price": "14"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "aeeaff62-53bb-43b1-a95f-01e3357f474f",
+      "order_date": "2023-03-08T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "Absolutely awful  ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "The Philly Po(@single_quotes@) Boy",
+       "Side of Onion Rings",
+       "The Philly "
+      ],
+      "predicted_item_ids": [
+       "23af43e3-64a9-4400-a162-a439216e2977",
+       "e5b8202e-3ac0-4db9-8561-84b9362f47c5",
+       "155691e2-22d7-4178-850c-cef127910551"
+      ],
+      "ordered_items": [
+       "The Philly Po(@single_quotes@) Boy",
+       "Side of Onion Rings",
+       "The Philly "
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "aeeaff62-53bb-43b1-a95f-01e3357f474f",
+        "listing_id": "P0051",
+        "item_id": "23af43e3-64a9-4400-a162-a439216e2977",
+        "item_name": "The Philly Po(@single_quotes@) Boy",
+        "item_price": "15"
+       },
+       {
+        "delivery_uuid": "aeeaff62-53bb-43b1-a95f-01e3357f474f",
+        "listing_id": "P0051",
+        "item_id": "e5b8202e-3ac0-4db9-8561-84b9362f47c5",
+        "item_name": "Side of Onion Rings",
+        "item_price": "6"
+       },
+       {
+        "delivery_uuid": "aeeaff62-53bb-43b1-a95f-01e3357f474f",
+        "listing_id": "P0051",
+        "item_id": "155691e2-22d7-4178-850c-cef127910551",
+        "item_name": "The Philly ",
+        "item_price": "14"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "d4f19fdb-c080-4acc-b2c7-9f32cf9d7840",
+      "order_date": "2023-03-08T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "i upgraded to Onion rings and still got fries ",
+      "order_ratings": "2",
+      "predicted_items": [
+       "Onion rings"
+      ],
+      "predicted_item_ids": [
+       "f40be5d4-ebab-4372-8da8-81042feafc25"
+      ],
+      "ordered_items": [
+       "Pop(@single_quotes@)s Combo"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "d4f19fdb-c080-4acc-b2c7-9f32cf9d7840",
+        "listing_id": "P0052",
+        "item_id": "f40be5d4-ebab-4372-8da8-81042feafc25",
+        "item_name": "Pop(@single_quotes@)s Combo",
+        "item_price": "20"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "1779996c-849c-4d3b-9303-8f5762fc4b37",
+      "order_date": "2023-03-08T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "it was too salty never will order from this place again",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Sprite",
+       "The Philly Po(@single_quotes@) Boy"
+      ],
+      "predicted_item_ids": [
+       "3000004259001568",
+       "3000004259001567"
+      ],
+      "ordered_items": [
+       "Sprite",
+       "The Philly Po(@single_quotes@) Boy"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "1779996c-849c-4d3b-9303-8f5762fc4b37",
+        "listing_id": "P0051",
+        "item_id": "3000004259001568",
+        "item_name": "Sprite",
+        "item_price": "3"
+       },
+       {
+        "delivery_uuid": "1779996c-849c-4d3b-9303-8f5762fc4b37",
+        "listing_id": "P0051",
+        "item_id": "3000004259001567",
+        "item_name": "The Philly Po(@single_quotes@) Boy",
+        "item_price": "22"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "ac814d17-6556-437b-8e3c-d23daa759e09",
+      "order_date": "2023-03-08T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "lowkey wasn(@single_quotes@)t that good, made me wanna finish it as fast as i can .",
+      "order_ratings": "1",
+      "predicted_items": [
+       "The Philly "
+      ],
+      "predicted_item_ids": [
+       "3000004531245948"
+      ],
+      "ordered_items": [
+       "The Philly "
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "ac814d17-6556-437b-8e3c-d23daa759e09",
+        "listing_id": "P0051",
+        "item_id": "3000004531245948",
+        "item_name": "The Philly ",
+        "item_price": "22"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "3cd58e5d-d83c-43bd-89c6-a0e4dcebb25f",
+      "order_date": "2023-03-08T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "way to salty! waaayy to salty and the fries are plain. they tasted like mcdonald(@single_quotes@)s fries with no salt left over night. ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Only Me Combo"
+      ],
+      "predicted_item_ids": [
+       "3000004402965157"
+      ],
+      "ordered_items": [
+       "Only Me Combo"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "3cd58e5d-d83c-43bd-89c6-a0e4dcebb25f",
+        "listing_id": "P0051",
+        "item_id": "3000004402965157",
+        "item_name": "Only Me Combo",
+        "item_price": "20"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "4f184611-7617-4cdc-9766-4796ff1f337a",
+      "order_date": "2023-03-08T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "nothing was right and got no refund",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Me and a Friend Combo",
+       "Side of Mac n(@single_quotes@) Cheese Wedges",
+       "Cookie",
+       "BYO Cheesesteak"
+      ],
+      "predicted_item_ids": [
+       "3000004709438803",
+       "3000004709438804",
+       "23249672925",
+       "23249664625"
+      ],
+      "ordered_items": [
+       "Me and a Friend Combo",
+       "Side of Mac n(@single_quotes@) Cheese Wedges",
+       "Cookie",
+       "BYO Cheesesteak"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "4f184611-7617-4cdc-9766-4796ff1f337a",
+        "listing_id": "P0051",
+        "item_id": "3000004709438803",
+        "item_name": "Me and a Friend Combo",
+        "item_price": "49"
+       },
+       {
+        "delivery_uuid": "4f184611-7617-4cdc-9766-4796ff1f337a",
+        "listing_id": "P0051",
+        "item_id": "3000004709438804",
+        "item_name": "Side of Mac n(@single_quotes@) Cheese Wedges",
+        "item_price": "6"
+       },
+       {
+        "delivery_uuid": "4f184611-7617-4cdc-9766-4796ff1f337a",
+        "listing_id": "P0051",
+        "item_id": "23249672925",
+        "item_name": "Cookie",
+        "item_price": "3"
+       },
+       {
+        "delivery_uuid": "4f184611-7617-4cdc-9766-4796ff1f337a",
+        "listing_id": "P0051",
+        "item_id": "23249664625",
+        "item_name": "BYO Cheesesteak",
+        "item_price": "0"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "e0b6d0f9-1b54-420f-9292-39bce7416181",
+      "order_date": "2023-03-08T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "i got a marinara meatball sub",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Marinara Meatball Sub"
+      ],
+      "predicted_item_ids": [
+       "3000004731258486"
+      ],
+      "ordered_items": [
+       "The Mac n(@single_quotes@) Meatball"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "e0b6d0f9-1b54-420f-9292-39bce7416181",
+        "listing_id": "P0052",
+        "item_id": "3000004731258486",
+        "item_name": "The Mac n(@single_quotes@) Meatball",
+        "item_price": "17"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0011",
+      "delivery_uuid": "51a24689-8f72-49a6-9d97-72be3963ee2b",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "really not very good :/",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Tater Tots",
+       "Passion Fruit Iced Tea"
+      ],
+      "predicted_item_ids": [
+       "15489938084",
+       "15489938104"
+      ],
+      "ordered_items": [
+       "Tater Tots",
+       "Passion Fruit Iced Tea (16oz)",
+       "PB+J Cornflake French Toast"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "51a24689-8f72-49a6-9d97-72be3963ee2b",
+        "listing_id": "P03110",
+        "item_id": "15489938084",
+        "item_name": "Tater Tots",
+        "item_price": "5"
+       },
+       {
+        "delivery_uuid": "51a24689-8f72-49a6-9d97-72be3963ee2b",
+        "listing_id": "P03110",
+        "item_id": "15489938104",
+        "item_name": "Passion Fruit Iced Tea (16oz)",
+        "item_price": "5"
+       },
+       {
+        "delivery_uuid": "51a24689-8f72-49a6-9d97-72be3963ee2b",
+        "listing_id": "P03110",
+        "item_id": "3000005321589368",
+        "item_name": "PB+J Cornflake French Toast",
+        "item_price": "24"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0011",
+      "delivery_uuid": "09e6213b-63e7-4b3c-b5a1-81611a868483",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "half of the order was wrong, and the food was terrible ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "The Philly Po(@single_quotes@) Boy",
+       "The Pizza Steak",
+       "Grilled Onion",
+       "Side of Onion Rings",
+       "BYO Cheesesteak"
+      ],
+      "predicted_item_ids": [
+       "3000005412071938",
+       "3000005412071939",
+       "25436212716",
+       "3000005412071941",
+       "3000005412071940"
+      ],
+      "ordered_items": [
+       "The Philly Po(@single_quotes@) Boy",
+       "The Pizza Steak",
+       "Grilled Onion",
+       "Side of Onion Rings",
+       "BYO Cheesesteak"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "09e6213b-63e7-4b3c-b5a1-81611a868483",
+        "listing_id": "P0111",
+        "item_id": "3000005412071938",
+        "item_name": "The Philly Po(@single_quotes@) Boy",
+        "item_price": "15"
+       },
+       {
+        "delivery_uuid": "09e6213b-63e7-4b3c-b5a1-81611a868483",
+        "listing_id": "P0111",
+        "item_id": "3000005412071939",
+        "item_name": "The Pizza Steak",
+        "item_price": "15"
+       },
+       {
+        "delivery_uuid": "09e6213b-63e7-4b3c-b5a1-81611a868483",
+        "listing_id": "P0111",
+        "item_id": "25436212716",
+        "item_name": "Grilled Onion",
+        "item_price": "1"
+       },
+       {
+        "delivery_uuid": "09e6213b-63e7-4b3c-b5a1-81611a868483",
+        "listing_id": "P0111",
+        "item_id": "3000005412071941",
+        "item_name": "Side of Onion Rings",
+        "item_price": "7"
+       },
+       {
+        "delivery_uuid": "09e6213b-63e7-4b3c-b5a1-81611a868483",
+        "listing_id": "P0111",
+        "item_id": "3000005412071940",
+        "item_name": "BYO Cheesesteak",
+        "item_price": "17"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "f476314a-f92b-4ad1-af76-9d41e0049bde",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "this is the second time you guys forgot itmes. last time it was syrup. this time butter ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Crepes Pancakes Classique"
+      ],
+      "predicted_item_ids": [
+       "4f02fb0c-3593-4040-9aa7-0e971568f78a"
+      ],
+      "ordered_items": [
+       "Crepes Pancakes Classique"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "f476314a-f92b-4ad1-af76-9d41e0049bde",
+        "listing_id": "P0316",
+        "item_id": "4f02fb0c-3593-4040-9aa7-0e971568f78a",
+        "item_name": "Crepes Pancakes Classique",
+        "item_price": "13"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "cf5a1be3-5d7c-4854-a220-b3f9967e78a5",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "cheesehead came with no kraut, no onions, no whiz, pretty much nothing that was in the description. it did come with macaroni bites on the sandwhich. so kudos for trying",
+      "order_ratings": "2",
+      "predicted_items": [
+       "The Cheesehead"
+      ],
+      "predicted_item_ids": [
+       "3000005495100343"
+      ],
+      "ordered_items": [
+       "The Cheesehead"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "cf5a1be3-5d7c-4854-a220-b3f9967e78a5",
+        "listing_id": "P0131",
+        "item_id": "3000005495100343",
+        "item_name": "The Cheesehead",
+        "item_price": "16"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "46862e08-6691-42ae-8870-d7bc61f983a0",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "good i guess.",
+      "order_ratings": "3",
+      "predicted_items": [
+       "The Philly Style Meatball"
+      ],
+      "predicted_item_ids": [
+       "3000005460801448"
+      ],
+      "ordered_items": [
+       "The Philly Style Meatball"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "46862e08-6691-42ae-8870-d7bc61f983a0",
+        "listing_id": "P0183",
+        "item_id": "3000005460801448",
+        "item_name": "The Philly Style Meatball",
+        "item_price": "16"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "8ce1d77f-9e31-49f0-a757-9c52d0710e75",
+      "order_date": "2023-03-08T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "everything was cold :( we threw everything out wont be back again ",
+      "order_ratings": "3",
+      "predicted_items": [
+       "The Philly",
+       "The Philly",
+       "Side of Mac n' Cheese Wedges",
+       "Side of Ranch"
+      ],
+      "predicted_item_ids": [
+       "dfc5a0cf-d480-4023-b77f-0fdf84c0063b",
+       "448229de-1cc8-4b9b-bbcf-04c0828b551c",
+       "3ff5e3bf-fbfd-417d-99e5-a7f1e4d091d6",
+       "2ce695cc-3c9c-48c3-8a87-0673131c55f5"
+      ],
+      "ordered_items": [
+       "The Philly ",
+       "The Philly ",
+       "Side of Mac n(@single_quotes@) Cheese Wedges",
+       "Side of Ranch"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "8ce1d77f-9e31-49f0-a757-9c52d0710e75",
+        "listing_id": "P0131",
+        "item_id": "dfc5a0cf-d480-4023-b77f-0fdf84c0063b",
+        "item_name": "The Philly ",
+        "item_price": "14"
+       },
+       {
+        "delivery_uuid": "8ce1d77f-9e31-49f0-a757-9c52d0710e75",
+        "listing_id": "P0131",
+        "item_id": "448229de-1cc8-4b9b-bbcf-04c0828b551c",
+        "item_name": "The Philly ",
+        "item_price": "14"
+       },
+       {
+        "delivery_uuid": "8ce1d77f-9e31-49f0-a757-9c52d0710e75",
+        "listing_id": "P0131",
+        "item_id": "3ff5e3bf-fbfd-417d-99e5-a7f1e4d091d6",
+        "item_name": "Side of Mac n(@single_quotes@) Cheese Wedges",
+        "item_price": "6"
+       },
+       {
+        "delivery_uuid": "8ce1d77f-9e31-49f0-a757-9c52d0710e75",
+        "listing_id": "P0131",
+        "item_id": "2ce695cc-3c9c-48c3-8a87-0673131c55f5",
+        "item_name": "Side of Ranch",
+        "item_price": "1"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "6ec42e7d-a0d8-4829-8f0a-99e9a5c0f389",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "first time i ordered everything was great but after that my food has been prepared poorly my fries are extremely low for the price i paid i(@single_quotes@)m very dissatisfied with what i received lately",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Side of Fries",
+       "Provolone Cheese",
+       "Side of Onion Rings",
+       "Side of Ketchup",
+       "BYO Cheesesteak"
+      ],
+      "predicted_item_ids": [
+       "23791061012",
+       "23791061023",
+       "3000005282799431",
+       "23791061143",
+       "3000005282799430"
+      ],
+      "ordered_items": [
+       "Side of Fries",
+       "Provolone Cheese",
+       "Side of Onion Rings",
+       "Side of Ketchup",
+       "BYO Cheesesteak"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "6ec42e7d-a0d8-4829-8f0a-99e9a5c0f389",
+        "listing_id": "P0242",
+        "item_id": "23791061012",
+        "item_name": "Side of Fries",
+        "item_price": "5"
+       },
+       {
+        "delivery_uuid": "6ec42e7d-a0d8-4829-8f0a-99e9a5c0f389",
+        "listing_id": "P0242",
+        "item_id": "23791061023",
+        "item_name": "Provolone Cheese",
+        "item_price": "1"
+       },
+       {
+        "delivery_uuid": "6ec42e7d-a0d8-4829-8f0a-99e9a5c0f389",
+        "listing_id": "P0242",
+        "item_id": "3000005282799431",
+        "item_name": "Side of Onion Rings",
+        "item_price": "7"
+       },
+       {
+        "delivery_uuid": "6ec42e7d-a0d8-4829-8f0a-99e9a5c0f389",
+        "listing_id": "P0242",
+        "item_id": "23791061143",
+        "item_name": "Side of Ketchup",
+        "item_price": "1"
+       },
+       {
+        "delivery_uuid": "6ec42e7d-a0d8-4829-8f0a-99e9a5c0f389",
+        "listing_id": "P0242",
+        "item_id": "3000005282799430",
+        "item_name": "BYO Cheesesteak",
+        "item_price": "23"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "011ec36f-9cd0-4c13-83c7-e280cf1f83c7",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "it would be nice if we knew we were ordering from leos ciney island instead of \"house of parm\"....",
+      "order_ratings": "3",
+      "predicted_items": [
+       "Add Chicken",
+       "Fettuccine Alfredo"
+      ],
+      "predicted_item_ids": [
+       "25411514523",
+       "3000005391145196"
+      ],
+      "ordered_items": [
+       "Coca-Cola",
+       "Add Chicken",
+       "Fettuccine Alfredo"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "011ec36f-9cd0-4c13-83c7-e280cf1f83c7",
+        "listing_id": "P0202",
+        "item_id": "3000005391145197",
+        "item_name": "Coca-Cola",
+        "item_price": "3"
+       },
+       {
+        "delivery_uuid": "011ec36f-9cd0-4c13-83c7-e280cf1f83c7",
+        "listing_id": "P0202",
+        "item_id": "25411514523",
+        "item_name": "Add Chicken",
+        "item_price": "6"
+       },
+       {
+        "delivery_uuid": "011ec36f-9cd0-4c13-83c7-e280cf1f83c7",
+        "listing_id": "P0202",
+        "item_id": "3000005391145196",
+        "item_name": "Fettuccine Alfredo",
+        "item_price": "19"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "5695d8bd-edf1-4eb8-81db-2102ecf77d99",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "there was no meat in the burrito and the bagel was super super dry :/",
+      "order_ratings": "1",
+      "predicted_items": [
+       "The Wake n(@single_quotes@) Bake Burrito"
+      ],
+      "predicted_item_ids": [
+       "3000005491478439"
+      ],
+      "ordered_items": [
+       "The Wake n(@single_quotes@) Bake Burrito"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "5695d8bd-edf1-4eb8-81db-2102ecf77d99",
+        "listing_id": "P0271",
+        "item_id": "3000005491478439",
+        "item_name": "The Wake n(@single_quotes@) Bake Burrito",
+        "item_price": "26"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "937a7b21-1aeb-48a1-b279-28b45aa4a23e",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "completely messed up our order and we were not allowed a redelivery thanks to the doordash policy",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Cavatappi with Creamy Pesto",
+       "Spicy Penne alla Vodka"
+      ],
+      "predicted_item_ids": [
+       "3000006347150783",
+       "3000006347150784"
+      ],
+      "ordered_items": [
+       "Cavatappi with Creamy Pesto",
+       "Spicy Penne alla Vodka"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "937a7b21-1aeb-48a1-b279-28b45aa4a23e",
+        "listing_id": "P0202",
+        "item_id": "3000006347150783",
+        "item_name": "Cavatappi with Creamy Pesto",
+        "item_price": "14"
+       },
+       {
+        "delivery_uuid": "937a7b21-1aeb-48a1-b279-28b45aa4a23e",
+        "listing_id": "P0202",
+        "item_id": "3000006347150784",
+        "item_name": "Spicy Penne alla Vodka",
+        "item_price": "14"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "2576332f-effc-428c-914c-89bf3d54e27b",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "not worth the price. eggs in both the burrito and the bowl were flavorous rubber. so little sausage in the burrito that couldn(@single_quotes@)t even get some in every bite. hasbrowns undercooked. everything was very bland. only positive were the tots were crispy in the bowl.",
+      "order_ratings": "2",
+      "predicted_items": [
+       "The Hangover Burrito",
+       "The Classic Breakfast Bowl",
+       "Side Bagel & Cream Cheese",
+       "Side of Hashbrowns",
+       "Add Breakfast Sausage to my Bowl"
+      ],
+      "predicted_item_ids": [
+       "3000005837388704",
+       "3000005837388706",
+       "3000005837388707",
+       "3000005837388705",
+       "25271605587"
+      ],
+      "ordered_items": [
+       "The Hangover Burrito",
+       "Side Bagel & Cream Cheese",
+       "Side of Hashbrowns",
+       "Add Breakfast Sausage to my Bowl",
+       "The Classic Breakfast Bowl"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "2576332f-effc-428c-914c-89bf3d54e27b",
+        "listing_id": "P0271",
+        "item_id": "3000005837388704",
+        "item_name": "The Hangover Burrito",
+        "item_price": "14"
+       },
+       {
+        "delivery_uuid": "2576332f-effc-428c-914c-89bf3d54e27b",
+        "listing_id": "P0271",
+        "item_id": "3000005837388707",
+        "item_name": "Side Bagel & Cream Cheese",
+        "item_price": "4"
+       },
+       {
+        "delivery_uuid": "2576332f-effc-428c-914c-89bf3d54e27b",
+        "listing_id": "P0271",
+        "item_id": "3000005837388705",
+        "item_name": "Side of Hashbrowns",
+        "item_price": "5"
+       },
+       {
+        "delivery_uuid": "2576332f-effc-428c-914c-89bf3d54e27b",
+        "listing_id": "P0271",
+        "item_id": "25271605587",
+        "item_name": "Add Breakfast Sausage to my Bowl",
+        "item_price": "3"
+       },
+       {
+        "delivery_uuid": "2576332f-effc-428c-914c-89bf3d54e27b",
+        "listing_id": "P0271",
+        "item_id": "3000005837388706",
+        "item_name": "The Classic Breakfast Bowl",
+        "item_price": "14"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "831c1602-3008-4af2-a7f2-58eac7530b40",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "unfortunately they gave me two of the same tacos. we didn(@single_quotes@)t get our hangover the hangover burrito ",
+      "order_ratings": "2",
+      "predicted_items": [
+       "The Hangover Burrito"
+      ],
+      "predicted_item_ids": [
+       "3000006457949350"
+      ],
+      "ordered_items": [
+       "The Classic Breakfast Burrito",
+       "Side Bagel & Cream Cheese",
+       "The Hangover Burrito"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "831c1602-3008-4af2-a7f2-58eac7530b40",
+        "listing_id": "P0271",
+        "item_id": "3000006457949351",
+        "item_name": "The Classic Breakfast Burrito",
+        "item_price": "13"
+       },
+       {
+        "delivery_uuid": "831c1602-3008-4af2-a7f2-58eac7530b40",
+        "listing_id": "P0271",
+        "item_id": "28475832273",
+        "item_name": "Side Bagel & Cream Cheese",
+        "item_price": "4"
+       },
+       {
+        "delivery_uuid": "831c1602-3008-4af2-a7f2-58eac7530b40",
+        "listing_id": "P0271",
+        "item_id": "3000006457949350",
+        "item_name": "The Hangover Burrito",
+        "item_price": "18"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "07390fb0-2348-43aa-b2ea-29531ac4132c",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "ordered a pop(@single_quotes@)s original and it should have had tomato sauce and provolone cheese.  sub came plain with some kind of yellow cheese.  not what i ordered at all!",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Pop's Original"
+      ],
+      "predicted_item_ids": [
+       "3000005147086349"
+      ],
+      "ordered_items": [
+       "Pop(@single_quotes@)s Original"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "07390fb0-2348-43aa-b2ea-29531ac4132c",
+        "listing_id": "P0082",
+        "item_id": "3000005147086349",
+        "item_name": "Pop(@single_quotes@)s Original",
+        "item_price": "15"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "691471b8-5fa0-45b6-abc7-a1cea4635bc4",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "you brought and counted me two instead of one pasta, i needed one, the pasta was not tasty, as if not fresh, i didn’t like it, the grilled chicken was burnt, only quinoa salad with salmon can still be eaten, the rest is terrible, sorry wasted money",
+      "order_ratings": "2",
+      "predicted_items": [
+       "Spaghetti Bolognese",
+       "Grilled Chicken Breast"
+      ],
+      "predicted_item_ids": [
+       "3000006315854341",
+       "22377755561"
+      ],
+      "ordered_items": [
+       "Yes, Please Include Cutlery",
+       "Roast Beet + Quinoa Salad",
+       "Grilled Chicken Breast",
+       "Fries",
+       "Brownie",
+       "Spaghetti Bolognese"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "691471b8-5fa0-45b6-abc7-a1cea4635bc4",
+        "listing_id": "P0312",
+        "item_id": "22377755600",
+        "item_name": "Yes, Please Include Cutlery",
+        "item_price": "0"
+       },
+       {
+        "delivery_uuid": "691471b8-5fa0-45b6-abc7-a1cea4635bc4",
+        "listing_id": "P0312",
+        "item_id": "3000006315854340",
+        "item_name": "Roast Beet + Quinoa Salad",
+        "item_price": "46"
+       },
+       {
+        "delivery_uuid": "691471b8-5fa0-45b6-abc7-a1cea4635bc4",
+        "listing_id": "P0312",
+        "item_id": "22377755561",
+        "item_name": "Grilled Chicken Breast",
+        "item_price": "6"
+       },
+       {
+        "delivery_uuid": "691471b8-5fa0-45b6-abc7-a1cea4635bc4",
+        "listing_id": "P0312",
+        "item_id": "22377755576",
+        "item_name": "Fries",
+        "item_price": "4"
+       },
+       {
+        "delivery_uuid": "691471b8-5fa0-45b6-abc7-a1cea4635bc4",
+        "listing_id": "P0312",
+        "item_id": "22377755567",
+        "item_name": "Brownie",
+        "item_price": "6"
+       },
+       {
+        "delivery_uuid": "691471b8-5fa0-45b6-abc7-a1cea4635bc4",
+        "listing_id": "P0312",
+        "item_id": "3000006315854341",
+        "item_name": "Spaghetti Bolognese",
+        "item_price": "44"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "15479298-5d6d-414b-8397-0b3d212cf3da",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "nothing special, not enough feta cheese. probably would not order that bowl again. ",
+      "order_ratings": "3",
+      "predicted_items": [
+       "The Basic B*tch Bowl"
+      ],
+      "predicted_item_ids": [
+       "3000006483378209"
+      ],
+      "ordered_items": [
+       "Side of Cheese Sauce",
+       "The Basic B*tch Bowl",
+       "Side Bagel & Cream Cheese"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "15479298-5d6d-414b-8397-0b3d212cf3da",
+        "listing_id": "P0201",
+        "item_id": "3000006483378210",
+        "item_name": "Side of Cheese Sauce",
+        "item_price": "2"
+       },
+       {
+        "delivery_uuid": "15479298-5d6d-414b-8397-0b3d212cf3da",
+        "listing_id": "P0201",
+        "item_id": "3000006483378209",
+        "item_name": "The Basic B*tch Bowl",
+        "item_price": "17"
+       },
+       {
+        "delivery_uuid": "15479298-5d6d-414b-8397-0b3d212cf3da",
+        "listing_id": "P0201",
+        "item_id": "27210129575",
+        "item_name": "Side Bagel & Cream Cheese",
+        "item_price": "4"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "1e4d0590-d512-461e-856e-b2a41ce46f01",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "mid",
+      "order_ratings": "3",
+      "predicted_items": [
+       "Fettuccine Alfredo",
+       "Add Chicken"
+      ],
+      "predicted_item_ids": [
+       "3000005983426718",
+       "27210123561"
+      ],
+      "ordered_items": [
+       "Fettuccine Alfredo",
+       "Add Chicken"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "1e4d0590-d512-461e-856e-b2a41ce46f01",
+        "listing_id": "P0232",
+        "item_id": "3000005983426718",
+        "item_name": "Fettuccine Alfredo",
+        "item_price": "19"
+       },
+       {
+        "delivery_uuid": "1e4d0590-d512-461e-856e-b2a41ce46f01",
+        "listing_id": "P0232",
+        "item_id": "27210123561",
+        "item_name": "Add Chicken",
+        "item_price": "6"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "d05de036-ab2b-11ed-a037-c3f006877d95",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "GRUBHUB",
+      "overall_order_review": "This is not really chicken marsala. It(@single_quotes@)s a mushrooms sauce on fettuccine, with a salty, dry, grilled chicken breast on the top.  I was duped. Now you know.",
+      "order_ratings": "1",
+      "predicted_items": [
+       "chicken marsala"
+      ],
+      "predicted_item_ids": [
+       
+      ],
+      "ordered_items": [
+       
+      ],
+      "all_ordered_item_details": [
+       
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "7bc7e08b-a920-4bc4-81bb-f8ad388eebbc",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "food was ice cold when it arrived 2 hours later  ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Pop(@single_quotes@)s Combo"
+      ],
+      "predicted_item_ids": [
+       "ff0367a7-9afe-41a1-9df7-ae8a053b2f6a"
+      ],
+      "ordered_items": [
+       "Pop(@single_quotes@)s Combo"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "7bc7e08b-a920-4bc4-81bb-f8ad388eebbc",
+        "listing_id": "P0273",
+        "item_id": "ff0367a7-9afe-41a1-9df7-ae8a053b2f6a",
+        "item_name": "Pop(@single_quotes@)s Combo",
+        "item_price": "21"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "4a9ef330-ccf6-4c4e-9d9e-5182fc69de99",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "the food was horrible!!! do not do it!!! the pasta wasn(@single_quotes@)t drained and it was watery and a 5 year old could have made that!",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Spicy Penne alla Vodka"
+      ],
+      "predicted_item_ids": [
+       "3000005790645641",
+       "3000005790645642"
+      ],
+      "ordered_items": [
+       "Spicy Penne alla Vodka",
+       "Spicy Penne alla Vodka"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "4a9ef330-ccf6-4c4e-9d9e-5182fc69de99",
+        "listing_id": "P0182",
+        "item_id": "3000005790645641",
+        "item_name": "Spicy Penne alla Vodka",
+        "item_price": "14"
+       },
+       {
+        "delivery_uuid": "4a9ef330-ccf6-4c4e-9d9e-5182fc69de99",
+        "listing_id": "P0182",
+        "item_id": "3000005790645642",
+        "item_name": "Spicy Penne alla Vodka",
+        "item_price": "14"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "8e8ed609-80d4-4e8c-8e02-2a2f58cd3ccc",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "didnt get the cookie didnt get the extra bacon or cheese on sandwich ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Extra Bacon",
+       "Cheese on Sandwich",
+       "Cookie"
+      ],
+      "predicted_item_ids": [
+       "27210162724",
+       "3000006401124321",
+       "3000006401124322"
+      ],
+      "ordered_items": [
+       "Side of Onion Rings",
+       "The Cajun Cluck",
+       "Add Bacon",
+       "Cookie"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "8e8ed609-80d4-4e8c-8e02-2a2f58cd3ccc",
+        "listing_id": "P0241",
+        "item_id": "27210162739",
+        "item_name": "Side of Onion Rings",
+        "item_price": "7"
+       },
+       {
+        "delivery_uuid": "8e8ed609-80d4-4e8c-8e02-2a2f58cd3ccc",
+        "listing_id": "P0241",
+        "item_id": "3000006401124321",
+        "item_name": "The Cajun Cluck",
+        "item_price": "26"
+       },
+       {
+        "delivery_uuid": "8e8ed609-80d4-4e8c-8e02-2a2f58cd3ccc",
+        "listing_id": "P0241",
+        "item_id": "27210162724",
+        "item_name": "Add Bacon",
+        "item_price": "3"
+       },
+       {
+        "delivery_uuid": "8e8ed609-80d4-4e8c-8e02-2a2f58cd3ccc",
+        "listing_id": "P0241",
+        "item_id": "3000006401124322",
+        "item_name": "Cookie",
+        "item_price": "3"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "7b9617a2-c482-11ed-97a3-4df605fe84b4",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "GRUBHUB",
+      "overall_order_review": "The pasta was flavorless \nYuck ",
+      "order_ratings": "3",
+      "predicted_items": [
+       "Rigatoni"
+      ],
+      "predicted_item_ids": [
+       "19525445644"
+      ],
+      "ordered_items": [
+       "Rigatoni"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "7b9617a2-c482-11ed-97a3-4df605fe84b4",
+        "listing_id": "P0312",
+        "item_id": "19525445644",
+        "item_name": "Rigatoni",
+        "item_price": "0"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "556f318d-aac7-47ce-bf91-d684696422ae",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "all i recieved were chciken wings",
+      "order_ratings": "1",
+      "predicted_items": [
+       "chicken wings"
+      ],
+      "predicted_item_ids": [
+       "25073822949"
+      ],
+      "ordered_items": [
+       "The Philly Style Meatball",
+       "The Frenchy Meatball",
+       "Side of Onion Rings"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "556f318d-aac7-47ce-bf91-d684696422ae",
+        "listing_id": "P0203",
+        "item_id": "3000005459344439",
+        "item_name": "The Philly Style Meatball",
+        "item_price": "16"
+       },
+       {
+        "delivery_uuid": "556f318d-aac7-47ce-bf91-d684696422ae",
+        "listing_id": "P0203",
+        "item_id": "3000005459344438",
+        "item_name": "The Frenchy Meatball",
+        "item_price": "23"
+       },
+       {
+        "delivery_uuid": "556f318d-aac7-47ce-bf91-d684696422ae",
+        "listing_id": "P0203",
+        "item_id": "25073822949",
+        "item_name": "Side of Onion Rings",
+        "item_price": "7"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "ba10e428-e0c8-4ac1-a669-5eceae03aa4d",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "forgot my cream cheese and the oj spilled all over everything so can(@single_quotes@)t even eat it. ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Cream Cheese",
+       "OJ"
+      ],
+      "predicted_item_ids": [
+       "3000006152231971",
+       "3000006152231970"
+      ],
+      "ordered_items": [
+       "The Classic Breakfast Bowl",
+       "Side Bagel & Cream Cheese"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "ba10e428-e0c8-4ac1-a669-5eceae03aa4d",
+        "listing_id": "P0231",
+        "item_id": "3000006152231971",
+        "item_name": "The Classic Breakfast Bowl",
+        "item_price": "18"
+       },
+       {
+        "delivery_uuid": "ba10e428-e0c8-4ac1-a669-5eceae03aa4d",
+        "listing_id": "P0231",
+        "item_id": "3000006152231970",
+        "item_name": "Side Bagel & Cream Cheese",
+        "item_price": "4"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "5f9f60ee-5b61-4f21-8755-bf966d442d05",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "way to expensive not even good ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "The Basic B*tch Burrito",
+       "The Hangover Burrito",
+       "Add Breakfast Sausage to my Burrito"
+      ],
+      "predicted_item_ids": [
+       "3000006010167285",
+       "3000006010167284",
+       "27210150618"
+      ],
+      "ordered_items": [
+       "The Basic B*tch Burrito",
+       "The Hangover Burrito",
+       "Add Breakfast Sausage to my Burrito"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "5f9f60ee-5b61-4f21-8755-bf966d442d05",
+        "listing_id": "P0271",
+        "item_id": "3000006010167285",
+        "item_name": "The Basic B*tch Burrito",
+        "item_price": "15"
+       },
+       {
+        "delivery_uuid": "5f9f60ee-5b61-4f21-8755-bf966d442d05",
+        "listing_id": "P0271",
+        "item_id": "3000006010167284",
+        "item_name": "The Hangover Burrito",
+        "item_price": "14"
+       },
+       {
+        "delivery_uuid": "5f9f60ee-5b61-4f21-8755-bf966d442d05",
+        "listing_id": "P0271",
+        "item_id": "27210150618",
+        "item_name": "Add Breakfast Sausage to my Burrito",
+        "item_price": "3"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "558fe36a-69f5-442d-a5ec-84b409be6bf3",
+      "order_date": "2023-03-08T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "food was really bad and i got it late , really just not worth the money was probably the worst meatball sub ive ever had",
+      "order_ratings": "1",
+      "predicted_items": [
+       
+      ],
+      "predicted_item_ids": [
+       
+      ],
+      "ordered_items": [
+       
+      ],
+      "all_ordered_item_details": [
+       
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "90d53a5f-bfc3-4995-b296-9cd96878901d",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "didn(@single_quotes@)t get the right order",
+      "order_ratings": "1",
+      "predicted_items": [
+       "The Cajun Cluck",
+       "Side of Fries"
+      ],
+      "predicted_item_ids": [
+       "3000005014335740",
+       "3000005014335741"
+      ],
+      "ordered_items": [
+       "The Cajun Cluck",
+       "Side of Fries"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "90d53a5f-bfc3-4995-b296-9cd96878901d",
+        "listing_id": "P0053",
+        "item_id": "3000005014335740",
+        "item_name": "The Cajun Cluck",
+        "item_price": "15"
+       },
+       {
+        "delivery_uuid": "90d53a5f-bfc3-4995-b296-9cd96878901d",
+        "listing_id": "P0053",
+        "item_id": "3000005014335741",
+        "item_name": "Side of Fries",
+        "item_price": "7"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "77f1f4a0-c260-4862-bebf-afccf942cb7a",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "too much cheese. taste like school lunch ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Pepperoni Pizza 1Ft"
+      ],
+      "predicted_item_ids": [
+       "8ae30342-86c3-4a70-858d-1a388e4f286b"
+      ],
+      "ordered_items": [
+       "Pepperoni Pizza 1Ft"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "77f1f4a0-c260-4862-bebf-afccf942cb7a",
+        "listing_id": "P03135",
+        "item_id": "8ae30342-86c3-4a70-858d-1a388e4f286b",
+        "item_name": "Pepperoni Pizza 1Ft",
+        "item_price": "19"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "a829bb06-83c4-4a7e-a74e-adb19d28b382",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "awful! we paid the upcharge for chicken on both of our pastas and both came with no chicken. the portions were small like for a kid! very bland pasta.  21 dollars each and not worth it at all. please save your money! awful establishment!!",
+      "order_ratings": "1",
+      "ordered_items": [
+       "Chicken Limone with Cavatappi",
+       "Fettuccine Alfredo"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "a829bb06-83c4-4a7e-a74e-adb19d28b382",
+        "listing_id": "P0252",
+        "item_id": "3000006317871458",
+        "item_name": "Chicken Limone with Cavatappi",
+        "item_price": "22"
+       },
+       {
+        "delivery_uuid": "a829bb06-83c4-4a7e-a74e-adb19d28b382",
+        "listing_id": "P0252",
+        "item_id": "3000006317871457",
+        "item_name": "Fettuccine Alfredo",
+        "item_price": "19"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "d44c80da-a4cf-4238-8691-278c174f174d",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "terrible!  we paid the $6 upcharge for two pasta dishes and no chicken was included. the pasta dishes were overcooked and bland. save your money and eat elsewhere.",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Spicy Penne alla Vodka",
+       "Fettuccine Alfredo"
+      ],
+      "predicted_item_ids": [
+       "3000006056398525",
+       "3000006056398524"
+      ],
+      "ordered_items": [
+       "Spicy Penne alla Vodka",
+       "Fettuccine Alfredo"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "d44c80da-a4cf-4238-8691-278c174f174d",
+        "listing_id": "P0252",
+        "item_id": "3000006056398525",
+        "item_name": "Spicy Penne alla Vodka",
+        "item_price": "20"
+       },
+       {
+        "delivery_uuid": "d44c80da-a4cf-4238-8691-278c174f174d",
+        "listing_id": "P0252",
+        "item_id": "3000006056398524",
+        "item_name": "Fettuccine Alfredo",
+        "item_price": "20"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "e8469f51-b5c4-44f1-8a74-7ffe7f991bb0",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "burnt onions rings hair in sandwich ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Cheesehead",
+       "Onion Rings"
+      ],
+      "predicted_item_ids": [
+       "3000005289190005",
+       "3000005289190006"
+      ],
+      "ordered_items": [
+       "The Cheesehead",
+       "Side of Onion Rings"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "e8469f51-b5c4-44f1-8a74-7ffe7f991bb0",
+        "listing_id": "P0051",
+        "item_id": "3000005289190005",
+        "item_name": "The Cheesehead",
+        "item_price": "15"
+       },
+       {
+        "delivery_uuid": "e8469f51-b5c4-44f1-8a74-7ffe7f991bb0",
+        "listing_id": "P0051",
+        "item_id": "3000005289190006",
+        "item_name": "Side of Onion Rings",
+        "item_price": "8"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "ce8c59b4-2ea4-430f-a019-e60b353019cc",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "The chicken was gross. I thought it would be white meat only. Too many dark pieces. It made the whole salad gross. I am very disappointed. I will not order from here again. Not good. ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "Chicken Caesar Salad"
+      ],
+      "predicted_item_ids": [
+       "83879f3b-7034-4df6-b905-520018a272bf"
+      ],
+      "ordered_items": [
+       "Chicken Caesar Salad"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "ce8c59b4-2ea4-430f-a019-e60b353019cc",
+        "listing_id": "P03125",
+        "item_id": "83879f3b-7034-4df6-b905-520018a272bf",
+        "item_name": "Chicken Caesar Salad",
+        "item_price": "19"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "3adde18c-dc7e-4ca5-adff-1a41383ee3e4",
+      "order_date": "2023-04-13T18:30:00.000Z",
+      "channel": "DOORDASH",
+      "overall_order_review": "the sandwich had half meet for some reason. very disappointed and the fries were bot cooked properly either ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "The Philly"
+      ],
+      "predicted_item_ids": [
+       "3000005175187582"
+      ],
+      "ordered_items": [
+       "The Philly ",
+       "Side of Fries"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "3adde18c-dc7e-4ca5-adff-1a41383ee3e4",
+        "listing_id": "P0051",
+        "item_id": "3000005175187582",
+        "item_name": "The Philly ",
+        "item_price": "14"
+       },
+       {
+        "delivery_uuid": "3adde18c-dc7e-4ca5-adff-1a41383ee3e4",
+        "listing_id": "P0051",
+        "item_id": "3000005175187583",
+        "item_name": "Side of Fries",
+        "item_price": "7"
+       }
+      ]
+     },
+     {
+      "listing_id": "P0051",
+      "delivery_uuid": "d92aa631-a5cd-400c-ac34-c7f14b923a08",
+      "order_date": "2023-03-08T18:30:00.000Z",
+      "channel": "UBEREATS",
+      "overall_order_review": "Order never arrived! ",
+      "order_ratings": "1",
+      "predicted_items": [
+       "The Philly ",
+       "The Philly Po(@single_quotes@) Boy"
+      ],
+      "predicted_item_ids": [
+       "7a69202e-9845-4e7e-9e04-2f8887b24f9a",
+       "9281d98c-8604-43ca-98f2-b5e8fbfdd6ab"
+      ],
+      "ordered_items": [
+       "The Philly ",
+       "The Philly Po(@single_quotes@) Boy"
+      ],
+      "all_ordered_item_details": [
+       {
+        "delivery_uuid": "d92aa631-a5cd-400c-ac34-c7f14b923a08",
+        "listing_id": "P0051",
+        "item_id": "7a69202e-9845-4e7e-9e04-2f8887b24f9a",
+        "item_name": "The Philly ",
+        "item_price": "14"
+       },
+       {
+        "delivery_uuid": "d92aa631-a5cd-400c-ac34-c7f14b923a08",
+        "listing_id": "P0051",
+        "item_id": "9281d98c-8604-43ca-98f2-b5e8fbfdd6ab",
+        "item_name": "The Philly Po(@single_quotes@) Boy",
+        "item_price": "15"
+       }
+      ]
+     }
+    ]
+   }

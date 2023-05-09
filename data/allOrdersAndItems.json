@@ -4454,7 +4454,7 @@
             "customer_id": "444618408",
             "customer_name": "Zachary P",
             "restaurant_id": "23621424",
-            "order_feedback": "it(@single_quotes@)s 14/10 everything about this establishment￼ wakes up in the morning￼ and just excretes excellence￼",
+            "order_feedback": "it's 14/10 everything about this establishment￼ wakes up in the morning￼ and just excretes excellence￼",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2023-01-24T01:49:04.000Z",
@@ -5896,7 +5896,7 @@
                 "delivery_uuid": "ca059b30-b290-46fa-bb27-91f08463780a",
                 "listing_id": "P03111",
                 "item_id": "779986f9-d550-46d2-a8fa-a92bc85148c0",
-                "item_name": "The Reaper - F(@single_quotes@)d Cajun Chicken Quesadilla",
+                "item_name": "The Reaper - F'd Cajun Chicken Quesadilla",
                 "item_price": "16",
                 "item_quantity": 1,
                 "item_category": null,
@@ -5910,7 +5910,7 @@
         ],
         "itemNames": [
             "Broccoli White Cheddar Soup",
-            "The Reaper - F(@single_quotes@)d Cajun Chicken Quesadilla"
+            "The Reaper - F'd Cajun Chicken Quesadilla"
         ],
         "review": {
             "delivery_uuid": "ca059b30-b290-46fa-bb27-91f08463780a",
@@ -6868,7 +6868,7 @@
                 "delivery_uuid": "76610003-5197-457d-8ee5-555032a1b834",
                 "listing_id": "P0112",
                 "item_id": "9782e464-6c2e-459d-9edc-7b4b81d2a239",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "21",
                 "item_quantity": 1,
                 "item_category": null,
@@ -6882,7 +6882,7 @@
         ],
         "itemNames": [
             "Side of Onion Rings",
-            "Pop(@single_quotes@)s Combo"
+            "Pop's Combo"
         ],
         "review": {
             "delivery_uuid": "76610003-5197-457d-8ee5-555032a1b834",
@@ -6912,7 +6912,7 @@
                 "delivery_uuid": "28187d92-b17f-11ed-bd93-3dc2249d1a60",
                 "listing_id": "P0112",
                 "item_id": "18343060791",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -6940,7 +6940,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Original",
+            "Pop's Original",
             "Side of Ranch"
         ],
         "review": {
@@ -6951,7 +6951,7 @@
             "customer_id": "887610c0-be54-11e9-9ffc-754035f6f8b3",
             "customer_name": "Kenneth",
             "restaurant_id": "3369090",
-            "order_feedback": "Driver was great...order was delivered very quickly and the driver was very courteous....5 stars for the delivery driver \n\nMeatball sub was ridiculously overpriced, 4 small meatballs that only partially filled the bun...Sandwich was delivered very quickly and yet it was somehow only slightly warm.   The garlic bread was slightly soggy and the cheese was only partially melted.  15 dollars for a 4 small meatballs sub...I could have gotten 2 meatball subs from Subway for less money and gotten 3-4x the food and probably a better quality.  1 star for the food...it was decent but it wasn(@single_quotes@)t anywhere near worth the cost.",
+            "order_feedback": "Driver was great...order was delivered very quickly and the driver was very courteous....5 stars for the delivery driver \n\nMeatball sub was ridiculously overpriced, 4 small meatballs that only partially filled the bun...Sandwich was delivered very quickly and yet it was somehow only slightly warm.   The garlic bread was slightly soggy and the cheese was only partially melted.  15 dollars for a 4 small meatballs sub...I could have gotten 2 meatball subs from Subway for less money and gotten 3-4x the food and probably a better quality.  1 star for the food...it was decent but it wasn't anywhere near worth the cost.",
             "order_ratings": "3",
             "order_tags": null,
             "data_updated_date": "2023-02-28T13:52:55.000Z",
@@ -7463,7 +7463,7 @@
                 "delivery_uuid": "346baad0-f678-4941-8b02-4f31306c60d6",
                 "listing_id": "P0011",
                 "item_id": "0c87538a-42d7-457b-9cf3-38740ee77cae",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -7477,7 +7477,7 @@
         ],
         "itemNames": [
             "The Frito Bandito",
-            "The Philly Po(@single_quotes@) Boy"
+            "The Philly Po' Boy"
         ],
         "review": {
             "delivery_uuid": "346baad0-f678-4941-8b02-4f31306c60d6",
@@ -7487,7 +7487,7 @@
             "customer_id": "0003ca73-45ec-4cec-993b-623f561e9b04",
             "customer_name": "Chase T",
             "restaurant_id": "c48698ce-2b92-5612-8d6d-341d0028ebd2",
-            "order_feedback": "   everything inside of the burrito tasted stale or rotten. i couldn(@single_quotes@)t even finish the first bite",
+            "order_feedback": "   everything inside of the burrito tasted stale or rotten. i couldn't even finish the first bite",
             "order_ratings": "2",
             "order_tags": null,
             "data_updated_date": "2023-01-31T02:10:19.000Z",
@@ -8111,7 +8111,7 @@
                 "delivery_uuid": "e378a3d1-4c11-444a-a986-22629fb3f44a",
                 "listing_id": "P0112",
                 "item_id": "7f6370c4-bbd8-4081-a1fd-865e5113dfbe",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "20",
                 "item_quantity": 1,
                 "item_category": null,
@@ -8124,7 +8124,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Combo"
+            "Pop's Combo"
         ],
         "review": {
             "delivery_uuid": "e378a3d1-4c11-444a-a986-22629fb3f44a",
@@ -10005,7 +10005,7 @@
                 "delivery_uuid": "fef4100b-6180-4835-8641-75657be5ef90",
                 "listing_id": "P03111",
                 "item_id": "1055a57f-e78f-404c-9f32-67801ed74960",
-                "item_name": "Nocturnal Tower - Buffalo Chicken Waffle F(@single_quotes@)d Fries",
+                "item_name": "Nocturnal Tower - Buffalo Chicken Waffle F'd Fries",
                 "item_price": "17",
                 "item_quantity": 1,
                 "item_category": null,
@@ -10034,7 +10034,7 @@
         ],
         "itemNames": [
             "The Blackstone Sandwich",
-            "Nocturnal Tower - Buffalo Chicken Waffle F(@single_quotes@)d Fries",
+            "Nocturnal Tower - Buffalo Chicken Waffle F'd Fries",
             "Buffalo Chicken Sandwich"
         ],
         "review": {
@@ -10929,7 +10929,7 @@
                 "delivery_uuid": "d023cc3f-5cb7-470b-8d99-caf9d469d1d4",
                 "listing_id": "P03111",
                 "item_id": "25aa6ad1-314c-4c32-bdca-1e299ffa9910",
-                "item_name": "The Reaper - F(@single_quotes@)d Cajun Chicken Quesadilla",
+                "item_name": "The Reaper - F'd Cajun Chicken Quesadilla",
                 "item_price": "16",
                 "item_quantity": 1,
                 "item_category": null,
@@ -10942,7 +10942,7 @@
             }
         ],
         "itemNames": [
-            "The Reaper - F(@single_quotes@)d Cajun Chicken Quesadilla"
+            "The Reaper - F'd Cajun Chicken Quesadilla"
         ],
         "review": {
             "delivery_uuid": "d023cc3f-5cb7-470b-8d99-caf9d469d1d4",
@@ -11272,7 +11272,7 @@
             "customer_id": "12330651",
             "customer_name": "Yogi S",
             "restaurant_id": "24205323",
-            "order_feedback": "the frito bandito was exceptional. can(@single_quotes@)t wait to order this place again. highly recommend.",
+            "order_feedback": "the frito bandito was exceptional. can't wait to order this place again. highly recommend.",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2022-12-23T18:30:00.000Z",
@@ -11331,7 +11331,7 @@
             "customer_id": "546428430",
             "customer_name": "Joel T",
             "restaurant_id": "24205323",
-            "order_feedback": "don(@single_quotes@)t pay for anything extra like extra cheese or toppings cause they won(@single_quotes@)t add it to your food.",
+            "order_feedback": "don't pay for anything extra like extra cheese or toppings cause they won't add it to your food.",
             "order_ratings": "1",
             "order_tags": null,
             "data_updated_date": "2022-12-23T18:30:00.000Z",
@@ -11366,7 +11366,7 @@
                 "delivery_uuid": "427dc5ea-cbbc-4835-a130-b0b2004edfa5",
                 "listing_id": "P0112",
                 "item_id": "a6445798-8d10-4af2-a7e3-ab5dcc716705",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "14",
                 "item_quantity": 1,
                 "item_category": null,
@@ -11380,7 +11380,7 @@
         ],
         "itemNames": [
             "Basket of Fries",
-            "Pop(@single_quotes@)s Original"
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "427dc5ea-cbbc-4835-a130-b0b2004edfa5",
@@ -11453,7 +11453,7 @@
                 "delivery_uuid": "cae1ec0f-740a-44b6-8724-754f223cb960",
                 "listing_id": "P0111",
                 "item_id": "6712ec0a-aa84-4338-ae84-89dad2588544",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -11483,7 +11483,7 @@
                 "delivery_uuid": "cae1ec0f-740a-44b6-8724-754f223cb960",
                 "listing_id": "P0111",
                 "item_id": "2270cc80-bf81-4997-8a62-3ee1fef33e22",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -11496,9 +11496,9 @@
             }
         ],
         "itemNames": [
-            "The Philly Po(@single_quotes@) Boy",
+            "The Philly Po' Boy",
             "The Frito Bandito",
-            "The Philly Po(@single_quotes@) Boy"
+            "The Philly Po' Boy"
         ],
         "review": {
             "delivery_uuid": "cae1ec0f-740a-44b6-8724-754f223cb960",
@@ -11567,7 +11567,7 @@
             "customer_id": "994535027",
             "customer_name": "Troy P",
             "restaurant_id": "23621424",
-            "order_feedback": "they put a cookie in the bag with the order :). haven(@single_quotes@)t tasted the food yet but i like it already ",
+            "order_feedback": "they put a cookie in the bag with the order :). haven't tasted the food yet but i like it already ",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2022-12-23T18:30:00.000Z",
@@ -11587,7 +11587,7 @@
                 "delivery_uuid": "a13e72c7-8feb-43c9-8834-c0b20404849c",
                 "listing_id": "P0111",
                 "item_id": "210a360b-cf89-48a6-8288-96b2a325ab5d",
-                "item_name": "Mac n(@single_quotes@) Cheese Wedges (5 pieces)",
+                "item_name": "Mac n' Cheese Wedges (5 pieces)",
                 "item_price": "6",
                 "item_quantity": 2,
                 "item_category": null,
@@ -11602,7 +11602,7 @@
                 "delivery_uuid": "a13e72c7-8feb-43c9-8834-c0b20404849c",
                 "listing_id": "P0111",
                 "item_id": "b2e80a21-be45-49d5-a659-ebc7d8d965ec",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "14",
                 "item_quantity": 1,
                 "item_category": null,
@@ -11615,8 +11615,8 @@
             }
         ],
         "itemNames": [
-            "Mac n(@single_quotes@) Cheese Wedges (5 pieces)",
-            "The Philly Po(@single_quotes@) Boy"
+            "Mac n' Cheese Wedges (5 pieces)",
+            "The Philly Po' Boy"
         ],
         "review": {
             "delivery_uuid": "a13e72c7-8feb-43c9-8834-c0b20404849c",
@@ -11661,7 +11661,7 @@
                 "delivery_uuid": "cc3146f1-105c-44a7-80bc-f3001c932963",
                 "listing_id": "P0112",
                 "item_id": "869528c1-572e-4554-82e1-c6d42516f037",
-                "item_name": "Mac n(@single_quotes@) Cheese Wedges (5 pieces)",
+                "item_name": "Mac n' Cheese Wedges (5 pieces)",
                 "item_price": "6",
                 "item_quantity": 2,
                 "item_category": null,
@@ -11675,7 +11675,7 @@
         ],
         "itemNames": [
             "The Frenchy Meatball",
-            "Mac n(@single_quotes@) Cheese Wedges (5 pieces)"
+            "Mac n' Cheese Wedges (5 pieces)"
         ],
         "review": {
             "delivery_uuid": "cc3146f1-105c-44a7-80bc-f3001c932963",
@@ -11764,7 +11764,7 @@
                 "delivery_uuid": "1d76355b-56a0-444c-a319-cca45b37d47b",
                 "listing_id": "P0111",
                 "item_id": "1df420ab-fe07-4182-89df-1754a14fcc1c",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -11792,7 +11792,7 @@
             }
         ],
         "itemNames": [
-            "The Philly Po(@single_quotes@) Boy",
+            "The Philly Po' Boy",
             "Side of Fries"
         ],
         "review": {
@@ -11881,7 +11881,7 @@
                 "delivery_uuid": "30568b6c-0fee-48d0-a16a-d48cef8e6249",
                 "listing_id": "P0111",
                 "item_id": "05f8c06f-993a-4d21-9f3d-c914aabc36c2",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -11895,7 +11895,7 @@
         ],
         "itemNames": [
             "The Pizza Steak",
-            "The Philly Po(@single_quotes@) Boy"
+            "The Philly Po' Boy"
         ],
         "review": {
             "delivery_uuid": "30568b6c-0fee-48d0-a16a-d48cef8e6249",
@@ -12172,7 +12172,7 @@
                 "delivery_uuid": "d7c52113-98f9-4109-b55b-41651a0309a1",
                 "listing_id": "P0183",
                 "item_id": "1cd33936-7c0a-467b-956b-d5979f438460",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "21",
                 "item_quantity": 1,
                 "item_category": null,
@@ -12185,7 +12185,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Combo"
+            "Pop's Combo"
         ],
         "review": {
             "delivery_uuid": "d7c52113-98f9-4109-b55b-41651a0309a1",
@@ -14240,7 +14240,7 @@
                 "delivery_uuid": "4d3cde76-e759-4844-a941-60e2f76b2f79",
                 "listing_id": "P0183",
                 "item_id": "a2d6c4f9-f93f-4fbd-b613-8fc41862520b",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "21",
                 "item_quantity": 1,
                 "item_category": null,
@@ -14253,7 +14253,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Combo"
+            "Pop's Combo"
         ],
         "review": {
             "delivery_uuid": "4d3cde76-e759-4844-a941-60e2f76b2f79",
@@ -14342,7 +14342,7 @@
                 "delivery_uuid": "63257372-86a3-4744-a574-1260986cfc52",
                 "listing_id": "P0183",
                 "item_id": "3000005885829660",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "26",
                 "item_quantity": 1,
                 "item_category": "Combos",
@@ -14385,7 +14385,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Combo",
+            "Pop's Combo",
             "The Frenchy Meatball",
             "Frings (half fries, half onion rings)"
         ],
@@ -14816,7 +14816,7 @@
                 "delivery_uuid": "ea70d15a-0227-4d85-8432-3b03dce9f86b",
                 "listing_id": "P0183",
                 "item_id": "3ebc397d-ae4e-4b32-983d-d48ad967f55d",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "21",
                 "item_quantity": 1,
                 "item_category": null,
@@ -14829,7 +14829,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Combo"
+            "Pop's Combo"
         ],
         "review": {
             "delivery_uuid": "ea70d15a-0227-4d85-8432-3b03dce9f86b",
@@ -15454,7 +15454,7 @@
             "customer_id": "77748529",
             "customer_name": "Jey Y",
             "restaurant_id": "22925841",
-            "order_feedback": "didn(@single_quotes@)t go ve me my side of sausage, didn(@single_quotes@)t give me utensils when i asked for them specifically. ",
+            "order_feedback": "didn't go ve me my side of sausage, didn't give me utensils when i asked for them specifically. ",
             "order_ratings": "1",
             "order_tags": null,
             "data_updated_date": "2023-04-04T06:34:03.000Z",
@@ -19870,7 +19870,7 @@
                 "delivery_uuid": "ad447489-fb26-4fae-bcd3-cdfee9f1ac10",
                 "listing_id": "P0183",
                 "item_id": "5d636c46-2fed-458d-b85f-d70b028c06b0",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -19884,7 +19884,7 @@
         ],
         "itemNames": [
             "The Frenchy Meatball",
-            "Pop(@single_quotes@)s Original"
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "ad447489-fb26-4fae-bcd3-cdfee9f1ac10",
@@ -20957,7 +20957,7 @@
             "customer_id": "12330651",
             "customer_name": "Yogi S",
             "restaurant_id": "24295819",
-            "order_feedback": " the frito bandito was so fire!!! try this spot immediately.. you won(@single_quotes@)t regret it.",
+            "order_feedback": " the frito bandito was so fire!!! try this spot immediately.. you won't regret it.",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2022-12-23T18:30:00.000Z",
@@ -21110,7 +21110,7 @@
                 "delivery_uuid": "aad547ec-db4d-4b5a-91b5-4f04de982f47",
                 "listing_id": "P0031",
                 "item_id": "3000004356695112",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "23",
                 "item_quantity": 1,
                 "item_category": "Cheesesteaks",
@@ -21124,7 +21124,7 @@
         ],
         "itemNames": [
             "Remove Grilled Onions",
-            "The Philly Po(@single_quotes@) Boy"
+            "The Philly Po' Boy"
         ],
         "review": {
             "delivery_uuid": "aad547ec-db4d-4b5a-91b5-4f04de982f47",
@@ -21263,7 +21263,7 @@
             "customer_id": "4b20d7e0-9bb0-4218-9df8-17527d0ccf5d",
             "customer_name": "Erin M",
             "restaurant_id": "b7c0f124-7e49-5239-b67c-7df7a43f3150",
-            "order_feedback": "ordered a combo with mac and cheese wedges didn(@single_quotes@)t get them. also order took so long the bread was hard and cold. sad I was really looking forward to trying here. , was also missing a item ",
+            "order_feedback": "ordered a combo with mac and cheese wedges didn't get them. also order took so long the bread was hard and cold. sad I was really looking forward to trying here. , was also missing a item ",
             "order_ratings": "3",
             "order_tags": null,
             "data_updated_date": "2022-12-23T18:30:00.000Z",
@@ -21388,7 +21388,7 @@
                 "delivery_uuid": "b2f57847-561c-40b7-86b0-d031ee4044e1",
                 "listing_id": "P0281",
                 "item_id": "7f26822e-3652-4f30-ae94-997d5315680b",
-                "item_name": "Let(@single_quotes@)s BBQ - Lamb Kebab Fried Rice",
+                "item_name": "Let's BBQ - Lamb Kebab Fried Rice",
                 "item_price": "22",
                 "item_quantity": 1,
                 "item_category": null,
@@ -21403,7 +21403,7 @@
         "itemNames": [
             "Back Yard Grilled thousand-sheet tofu",
             "Mouthwatering Grilled vegetable rolls (bean curd, enoki mushroom)",
-            "Let(@single_quotes@)s BBQ - Lamb Kebab Fried Rice"
+            "Let's BBQ - Lamb Kebab Fried Rice"
         ],
         "review": {
             "delivery_uuid": "b2f57847-561c-40b7-86b0-d031ee4044e1",
@@ -21700,7 +21700,7 @@
                 "delivery_uuid": "0b13abc4-9d83-4406-93a6-c85d5d8b62b5",
                 "listing_id": "P0203",
                 "item_id": "5dd7bb4e-04ef-4ccb-8902-391135548cfc",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -21714,7 +21714,7 @@
         ],
         "itemNames": [
             "Side of Ranch",
-            "Pop(@single_quotes@)s Original"
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "0b13abc4-9d83-4406-93a6-c85d5d8b62b5",
@@ -21744,7 +21744,7 @@
                 "delivery_uuid": "b713b3ea-afaf-41e9-9fc8-d75487e0571b",
                 "listing_id": "P0293",
                 "item_id": "3000005965134583",
-                "item_name": "Pop(@single_quotes@)s on Fire",
+                "item_name": "Pop's on Fire",
                 "item_price": "23",
                 "item_quantity": 1,
                 "item_category": "Meatball Sandwiches",
@@ -21772,7 +21772,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s on Fire",
+            "Pop's on Fire",
             "Frings (half fries, half onion rings)"
         ],
         "review": {
@@ -21783,7 +21783,7 @@
             "customer_id": "85278592",
             "customer_name": "N C",
             "restaurant_id": "24782825",
-            "order_feedback": "terrible. tasteless. no sauce at all. dryest sandwich i(@single_quotes@)ve ever had. the picture looks so amazing but it(@single_quotes@)s nothing like that image.\nhopefully this was a bad experience and not how everything is.\nyikes.",
+            "order_feedback": "terrible. tasteless. no sauce at all. dryest sandwich i've ever had. the picture looks so amazing but it's nothing like that image.\nhopefully this was a bad experience and not how everything is.\nyikes.",
             "order_ratings": "1",
             "order_tags": null,
             "data_updated_date": "2023-03-27T07:26:31.000Z",
@@ -22195,7 +22195,7 @@
             "customer_id": "96550104",
             "customer_name": "Yvette H",
             "restaurant_id": "24598169",
-            "order_feedback": "actually leo(@single_quotes@)s, overcooked, appetizer sized 20$ diner bull****",
+            "order_feedback": "actually leo's, overcooked, appetizer sized 20$ diner bull****",
             "order_ratings": "1",
             "order_tags": null,
             "data_updated_date": "2023-02-27T07:25:43.000Z",
@@ -23664,7 +23664,7 @@
             "customer_id": "9a0c0637-3b51-4abb-befb-588265533557",
             "customer_name": "Brittany R",
             "restaurant_id": "b5299f89-e7f5-5d11-bbd4-9ad84291f799",
-            "order_feedback": "The most disgusting fish I have eaten, so bitter that u cannot even taste a bit, wouldn(@single_quotes@)t recommend to anyone  , Worst dish on their menu ",
+            "order_feedback": "The most disgusting fish I have eaten, so bitter that u cannot even taste a bit, wouldn't recommend to anyone  , Worst dish on their menu ",
             "order_ratings": "1",
             "order_tags": null,
             "data_updated_date": "2023-03-18T07:18:18.000Z",
@@ -23714,7 +23714,7 @@
                 "delivery_uuid": "c22eaf38-947f-45e1-9277-b0d001295c57",
                 "listing_id": "P0273",
                 "item_id": "c0f69919-6121-437e-b54b-e9d453040ebd",
-                "item_name": "Pop(@single_quotes@)s on Fire",
+                "item_name": "Pop's on Fire",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -23729,7 +23729,7 @@
         "itemNames": [
             "Side of Onion Rings",
             "The Frenchy Meatball",
-            "Pop(@single_quotes@)s on Fire"
+            "Pop's on Fire"
         ],
         "review": {
             "delivery_uuid": "c22eaf38-947f-45e1-9277-b0d001295c57",
@@ -23888,7 +23888,7 @@
                 "delivery_uuid": "d7bbad46-54da-4066-b801-ca77f12cb01a",
                 "listing_id": "P0281",
                 "item_id": "74e99a60-4288-4653-be1d-c2425e88f815",
-                "item_name": "Let(@single_quotes@)s BBQ - Yakitori (5 skewers)",
+                "item_name": "Let's BBQ - Yakitori (5 skewers)",
                 "item_price": "14",
                 "item_quantity": 1,
                 "item_category": null,
@@ -24006,7 +24006,7 @@
             }
         ],
         "itemNames": [
-            "Let(@single_quotes@)s BBQ - Yakitori (5 skewers)",
+            "Let's BBQ - Yakitori (5 skewers)",
             "Soury Sweet Sichuan Potato Noodle (1 serving)",
             "Chinese Lamb Fried Rice",
             "Baked meat Buns (2 skewers)",
@@ -24131,7 +24131,7 @@
                 "delivery_uuid": "77b50b50-2350-49df-b91f-a7e103b1a5c4",
                 "listing_id": "P0281",
                 "item_id": "4a86d9ab-c8a5-4c68-b7aa-cddb0cdf8d6f",
-                "item_name": "Let(@single_quotes@)s BBQ - Seafood Lump Soup",
+                "item_name": "Let's BBQ - Seafood Lump Soup",
                 "item_price": "19",
                 "item_quantity": 1,
                 "item_category": null,
@@ -24147,7 +24147,7 @@
             "Tender Grilled Honey Grilled Chicken Wings (2 Skewers)",
             "Thick Fresh Grilled Beef Ribs (2 Skewers)",
             "Mouthwatering Grilled Taiwanese Sausage (2 skewers)",
-            "Let(@single_quotes@)s BBQ - Seafood Lump Soup"
+            "Let's BBQ - Seafood Lump Soup"
         ],
         "review": {
             "delivery_uuid": "77b50b50-2350-49df-b91f-a7e103b1a5c4",
@@ -24606,7 +24606,7 @@
             "customer_id": "62017704",
             "customer_name": "Savannah K",
             "restaurant_id": "24598169",
-            "order_feedback": "this isn(@single_quotes@)t house of parm it(@single_quotes@)s leo(@single_quotes@)s. portions are basically side dishes for 12.99. wasn(@single_quotes@)t hot, wasn(@single_quotes@)t even worth the money and false advertising on location as well. 100% don(@single_quotes@)t recommend.",
+            "order_feedback": "this isn't house of parm it's leo's. portions are basically side dishes for 12.99. wasn't hot, wasn't even worth the money and false advertising on location as well. 100% don't recommend.",
             "order_ratings": "1",
             "order_tags": null,
             "data_updated_date": "2023-04-16T06:31:59.000Z",
@@ -24626,7 +24626,7 @@
                 "delivery_uuid": "7b2ef49a-5b00-4760-b5cc-358ddae5f5d6",
                 "listing_id": "P0012",
                 "item_id": "cd078e22-77dc-4aa5-b7a8-38bc476aa07b",
-                "item_name": "Pop(@single_quotes@)s for 2 Combo",
+                "item_name": "Pop's for 2 Combo",
                 "item_price": "42",
                 "item_quantity": 1,
                 "item_category": null,
@@ -24639,7 +24639,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s for 2 Combo"
+            "Pop's for 2 Combo"
         ],
         "review": {
             "delivery_uuid": "7b2ef49a-5b00-4760-b5cc-358ddae5f5d6",
@@ -25008,7 +25008,7 @@
             "customer_id": "48219274",
             "customer_name": "Cassie T",
             "restaurant_id": "24732366",
-            "order_feedback": "wasn(@single_quotes@)t a fan. ",
+            "order_feedback": "wasn't a fan. ",
             "order_ratings": "2",
             "order_tags": null,
             "data_updated_date": "2023-03-04T07:21:57.000Z",
@@ -25088,7 +25088,7 @@
                 "delivery_uuid": "c94a62aa-92ef-4fb2-bef9-37440f9f57e2",
                 "listing_id": "P0271",
                 "item_id": "3000006009268721",
-                "item_name": "The Wake n(@single_quotes@) Bake Burrito",
+                "item_name": "The Wake n' Bake Burrito",
                 "item_price": "14",
                 "item_quantity": 1,
                 "item_category": "Breakfast Burritos",
@@ -25105,7 +25105,7 @@
             "Add Bacon to my Burrito",
             "The Classic Breakfast Bowl",
             "The Basic B*tch Burrito",
-            "The Wake n(@single_quotes@) Bake Burrito"
+            "The Wake n' Bake Burrito"
         ],
         "review": {
             "delivery_uuid": "c94a62aa-92ef-4fb2-bef9-37440f9f57e2",
@@ -25115,7 +25115,7 @@
             "customer_id": "397332352",
             "customer_name": "Whittney B",
             "restaurant_id": "24614289",
-            "order_feedback": "the burritos were not even what the description said. none of the promised ingredients. barely anything on them for the cost. it(@single_quotes@)s like a $5 burrito for $14. i paid for extra sausage for my son and maybe got a link(@single_quotes@)s worth cut up on top...for over $2 paid. way over priced and not what is advertised. ",
+            "order_feedback": "the burritos were not even what the description said. none of the promised ingredients. barely anything on them for the cost. it's like a $5 burrito for $14. i paid for extra sausage for my son and maybe got a link's worth cut up on top...for over $2 paid. way over priced and not what is advertised. ",
             "order_ratings": "1",
             "order_tags": null,
             "data_updated_date": "2023-03-13T07:23:50.000Z",
@@ -25499,7 +25499,7 @@
                 "delivery_uuid": "41195295-2a3a-46e6-b2bf-e7cc54ad509b",
                 "listing_id": "P0072",
                 "item_id": "3000005090668458",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": "Meatball Sandwiches",
@@ -25528,7 +25528,7 @@
         ],
         "itemNames": [
             "Brownie",
-            "Pop(@single_quotes@)s Original",
+            "Pop's Original",
             "Side of Fries"
         ],
         "review": {
@@ -25598,7 +25598,7 @@
             "customer_id": "776d1ff1-f40f-4db7-85bb-cbc598573b79",
             "customer_name": "Cassandra G",
             "restaurant_id": "b3c3c1cf-8a18-50b3-aa84-0e30db870656",
-            "order_feedback": "   I didn(@single_quotes@)t like the texture. I think this is just personal preference.",
+            "order_feedback": "   I didn't like the texture. I think this is just personal preference.",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2023-01-29T02:08:38.000Z",
@@ -25618,7 +25618,7 @@
                 "delivery_uuid": "4d22a7d1-6046-408d-bff7-4d8e0ea5f1d9",
                 "listing_id": "P0271",
                 "item_id": "3000005900310455",
-                "item_name": "The Wake n(@single_quotes@) Bake Burrito",
+                "item_name": "The Wake n' Bake Burrito",
                 "item_price": "14",
                 "item_quantity": 1,
                 "item_category": "Breakfast Burritos",
@@ -25631,7 +25631,7 @@
             }
         ],
         "itemNames": [
-            "The Wake n(@single_quotes@) Bake Burrito"
+            "The Wake n' Bake Burrito"
         ],
         "review": {
             "delivery_uuid": "4d22a7d1-6046-408d-bff7-4d8e0ea5f1d9",
@@ -25641,7 +25641,7 @@
             "customer_id": "79934620",
             "customer_name": "Robert B",
             "restaurant_id": "24614289",
-            "order_feedback": "i(@single_quotes@)ve ordered from here twice and and haven(@single_quotes@)t gotten meat on my burrito either time. lot of potential if they can get their orders right",
+            "order_feedback": "i've ordered from here twice and and haven't gotten meat on my burrito either time. lot of potential if they can get their orders right",
             "order_ratings": "2",
             "order_tags": null,
             "data_updated_date": "2023-03-06T07:24:29.000Z",
@@ -26574,7 +26574,7 @@
                 "delivery_uuid": "84c56b5b-9289-4647-9c4d-4991d9f22dcc",
                 "listing_id": "P0233",
                 "item_id": "cada9676-1f88-4135-b350-9b344378c87a",
-                "item_name": "Pop(@single_quotes@)s for 2 Combo",
+                "item_name": "Pop's for 2 Combo",
                 "item_price": "42",
                 "item_quantity": 1,
                 "item_category": null,
@@ -26602,7 +26602,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s for 2 Combo",
+            "Pop's for 2 Combo",
             "Side of Fries"
         ],
         "review": {
@@ -26648,7 +26648,7 @@
                 "delivery_uuid": "9d42180b-cbd6-4863-89a3-c7a49dc45dc9",
                 "listing_id": "P0231",
                 "item_id": "3000006139052552",
-                "item_name": "The Wake n(@single_quotes@) Bake Burrito",
+                "item_name": "The Wake n' Bake Burrito",
                 "item_price": "23",
                 "item_quantity": 1,
                 "item_category": "Breakfast Burritos",
@@ -26662,7 +26662,7 @@
         ],
         "itemNames": [
             "Side of Cheese Sauce",
-            "The Wake n(@single_quotes@) Bake Burrito"
+            "The Wake n' Bake Burrito"
         ],
         "review": {
             "delivery_uuid": "9d42180b-cbd6-4863-89a3-c7a49dc45dc9",
@@ -26672,7 +26672,7 @@
             "customer_id": "67422592",
             "customer_name": "Gage T",
             "restaurant_id": "24732568",
-            "order_feedback": "the wake n(@single_quotes@) bake burrito slapped hard. definitely a good snack for after a sesh! really lives up to its name!",
+            "order_feedback": "the wake n' bake burrito slapped hard. definitely a good snack for after a sesh! really lives up to its name!",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2023-03-24T07:18:33.000Z",
@@ -27002,7 +27002,7 @@
                 "delivery_uuid": "4ae0992b-e9f3-4562-8d37-be0d205c8830",
                 "listing_id": "P0271",
                 "item_id": "705b7343-9849-414e-9c4e-81d161ab176d",
-                "item_name": "The Wake n(@single_quotes@) Bake Bowl",
+                "item_name": "The Wake n' Bake Bowl",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -27016,7 +27016,7 @@
         ],
         "itemNames": [
             "Side of Cheese Sauce",
-            "The Wake n(@single_quotes@) Bake Bowl"
+            "The Wake n' Bake Bowl"
         ],
         "review": {
             "delivery_uuid": "4ae0992b-e9f3-4562-8d37-be0d205c8830",
@@ -27026,7 +27026,7 @@
             "customer_id": "f3209dfa-85e1-47ae-8d75-58672ca90cb3",
             "customer_name": "Samantha S",
             "restaurant_id": "2bd50fd7-46f1-523d-a6e5-5fe8f535a2e4",
-            "order_feedback": "I wasn(@single_quotes@)t given the correct meal. I order a $17.35 bowl not a 9.99 burrito.  ",
+            "order_feedback": "I wasn't given the correct meal. I order a $17.35 bowl not a 9.99 burrito.  ",
             "order_ratings": "1",
             "order_tags": null,
             "data_updated_date": "2023-02-20T07:46:56.000Z",
@@ -27277,7 +27277,7 @@
                 "delivery_uuid": "d644efc5-3539-4438-918a-e67c16d12457",
                 "listing_id": "P0231",
                 "item_id": "bd4706ac-f5e6-41a9-8103-cfe8c6c2ee55",
-                "item_name": "The Wake n(@single_quotes@) Bake Burrito",
+                "item_name": "The Wake n' Bake Burrito",
                 "item_price": "14",
                 "item_quantity": 1,
                 "item_category": null,
@@ -27305,7 +27305,7 @@
             }
         ],
         "itemNames": [
-            "The Wake n(@single_quotes@) Bake Burrito",
+            "The Wake n' Bake Burrito",
             "The Classic Breakfast Burrito"
         ],
         "review": {
@@ -27422,7 +27422,7 @@
                 "delivery_uuid": "a1f8d1f2-b315-4a31-9830-e3be697324a6",
                 "listing_id": "P0062",
                 "item_id": "91a3fddf-5b65-4f92-a10c-de01f6f93104",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -27435,7 +27435,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Original"
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "a1f8d1f2-b315-4a31-9830-e3be697324a6",
@@ -27465,7 +27465,7 @@
                 "delivery_uuid": "dbc5dc12-c5cc-4daa-9508-264d1eef6114",
                 "listing_id": "P0293",
                 "item_id": "c4ddd705-29e7-4758-b3bb-1f03aad6eda6",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -27478,7 +27478,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Original"
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "dbc5dc12-c5cc-4daa-9508-264d1eef6114",
@@ -28130,7 +28130,7 @@
                 "delivery_uuid": "946643c0-3922-4dca-9648-9b4de2c6a596",
                 "listing_id": "P0042",
                 "item_id": "ecd0447b-af8b-4bde-a21c-cd93c4a2d707",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -28144,7 +28144,7 @@
         ],
         "itemNames": [
             "Coca-Cola",
-            "Pop(@single_quotes@)s Original"
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "946643c0-3922-4dca-9648-9b4de2c6a596",
@@ -28621,7 +28621,7 @@
                 "delivery_uuid": "355d902b-32cd-47f2-b0a8-2ed9e30b1d2a",
                 "listing_id": "P03126",
                 "item_id": "0fcc3a8e-777c-4f9d-a158-5338f8ee25d0",
-                "item_name": "Nocturnal Tower - Buffalo Chicken Waffle F(@single_quotes@)d Fries",
+                "item_name": "Nocturnal Tower - Buffalo Chicken Waffle F'd Fries",
                 "item_price": "17",
                 "item_quantity": 1,
                 "item_category": null,
@@ -28649,7 +28649,7 @@
             }
         ],
         "itemNames": [
-            "Nocturnal Tower - Buffalo Chicken Waffle F(@single_quotes@)d Fries",
+            "Nocturnal Tower - Buffalo Chicken Waffle F'd Fries",
             "Buffalo Chicken Wrap"
         ],
         "review": {
@@ -28695,7 +28695,7 @@
                 "delivery_uuid": "57eadb43-ac06-41a3-8fd6-5758efadb321",
                 "listing_id": "P0281",
                 "item_id": "16c69e89-3b1f-4f07-924a-b5cda3f30b61",
-                "item_name": "Let(@single_quotes@)s BBQ - Yakitori (5 skewers)",
+                "item_name": "Let's BBQ - Yakitori (5 skewers)",
                 "item_price": "14",
                 "item_quantity": 1,
                 "item_category": null,
@@ -28710,7 +28710,7 @@
                 "delivery_uuid": "57eadb43-ac06-41a3-8fd6-5758efadb321",
                 "listing_id": "P0281",
                 "item_id": "e4bd2f53-7b29-47b3-99f1-64820b528085",
-                "item_name": "Let(@single_quotes@)s BBQ - Seafood Lump Soup",
+                "item_name": "Let's BBQ - Seafood Lump Soup",
                 "item_price": "19",
                 "item_quantity": 1,
                 "item_category": null,
@@ -28724,8 +28724,8 @@
         ],
         "itemNames": [
             "Thick Fresh Grilled Beef Ribs (2 Skewers)",
-            "Let(@single_quotes@)s BBQ - Yakitori (5 skewers)",
-            "Let(@single_quotes@)s BBQ - Seafood Lump Soup"
+            "Let's BBQ - Yakitori (5 skewers)",
+            "Let's BBQ - Seafood Lump Soup"
         ],
         "review": {
             "delivery_uuid": "57eadb43-ac06-41a3-8fd6-5758efadb321",
@@ -29025,7 +29025,7 @@
             "customer_id": "329673952",
             "customer_name": "Ethan P",
             "restaurant_id": "24589188",
-            "order_feedback": "great sandwich. didn(@single_quotes@)t get my cookie",
+            "order_feedback": "great sandwich. didn't get my cookie",
             "order_ratings": "3",
             "order_tags": null,
             "data_updated_date": "2023-02-20T08:06:19.000Z",
@@ -29587,7 +29587,7 @@
             "customer_id": "164363289",
             "customer_name": "Mallory D",
             "restaurant_id": "24614289",
-            "order_feedback": "no buffalo sauce. definitely no double bacon. eggs didn(@single_quotes@)t taste great.",
+            "order_feedback": "no buffalo sauce. definitely no double bacon. eggs didn't taste great.",
             "order_ratings": "2",
             "order_tags": null,
             "data_updated_date": "2023-02-22T10:10:44.000Z",
@@ -29854,7 +29854,7 @@
                 "delivery_uuid": "9f81586b-144a-43ce-b8d4-ee1aabdd26fe",
                 "listing_id": "P0271",
                 "item_id": "3000005697686730",
-                "item_name": "The Wake n(@single_quotes@) Bake Burrito",
+                "item_name": "The Wake n' Bake Burrito",
                 "item_price": "28",
                 "item_quantity": 2,
                 "item_category": "Breakfast Burritos",
@@ -29867,7 +29867,7 @@
             }
         ],
         "itemNames": [
-            "The Wake n(@single_quotes@) Bake Burrito"
+            "The Wake n' Bake Burrito"
         ],
         "review": {
             "delivery_uuid": "9f81586b-144a-43ce-b8d4-ee1aabdd26fe",
@@ -29877,7 +29877,7 @@
             "customer_id": "65402485",
             "customer_name": "Arica C",
             "restaurant_id": "24614289",
-            "order_feedback": "ordered two wake n bake burritos, did not come with ground beef like listed, what(@single_quotes@)s going on??",
+            "order_feedback": "ordered two wake n bake burritos, did not come with ground beef like listed, what's going on??",
             "order_ratings": "3",
             "order_tags": null,
             "data_updated_date": "2023-02-21T07:00:59.000Z",
@@ -30106,7 +30106,7 @@
                 "delivery_uuid": "6f1c8f06-47ae-4398-966a-691b75c5f899",
                 "listing_id": "P0021",
                 "item_id": "3000004976298380",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": "Cheesesteaks",
@@ -30134,7 +30134,7 @@
             }
         ],
         "itemNames": [
-            "The Philly Po(@single_quotes@) Boy",
+            "The Philly Po' Boy",
             "The Philly "
         ],
         "review": {
@@ -30256,7 +30256,7 @@
                 "delivery_uuid": "0d81799b-f55d-447d-b84c-3a775b859985",
                 "listing_id": "P0022",
                 "item_id": "d7773437-591a-4910-8b32-feeff8e4480a",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -30269,7 +30269,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Original"
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "0d81799b-f55d-447d-b84c-3a775b859985",
@@ -30285,7 +30285,7 @@
             "data_updated_date": "2023-03-28T14:14:37.000Z",
             "review_reply_created": "2023-03-28T01:23:26.000Z",
             "review_created": "2023-03-27T22:23:25.000Z",
-            "review_reply_comment": "Hey David, thank you for the review. I am sorry we let you down. We really hope we can make this up to you and that you give us another chance. Here(@single_quotes@)s $5 on us for your next Pop(@single_quotes@)s Meatball Sandwich order.\n",
+            "review_reply_comment": "Hey David, thank you for the review. I am sorry we let you down. We really hope we can make this up to you and that you give us another chance. Here's $5 on us for your next Pop's Meatball Sandwich order.\n",
             "review_reply_promo_value": "5",
             "review_replied": true,
             "__hevo__database_name": "prod",
@@ -30608,7 +30608,7 @@
                 "delivery_uuid": "abc948b9-54e9-420d-b948-d0e639a5ba9c",
                 "listing_id": "P0271",
                 "item_id": "3000006026417457",
-                "item_name": "The Wake n(@single_quotes@) Bake Burrito",
+                "item_name": "The Wake n' Bake Burrito",
                 "item_price": "17",
                 "item_quantity": 1,
                 "item_category": "Breakfast Burritos",
@@ -30638,7 +30638,7 @@
         "itemNames": [
             "Side of Hashbrowns",
             "The Hangover Burrito",
-            "The Wake n(@single_quotes@) Bake Burrito",
+            "The Wake n' Bake Burrito",
             "Add Breakfast Sausage to my Burrito"
         ],
         "review": {
@@ -31092,7 +31092,7 @@
                 "delivery_uuid": "9453fe25-933c-4ab2-9973-406cd34d4c04",
                 "listing_id": "P0281",
                 "item_id": "8d06721c-08e7-474c-a35f-fcf541400a78",
-                "item_name": "Let(@single_quotes@)s BBQ - Lamb Kebab Fried Rice",
+                "item_name": "Let's BBQ - Lamb Kebab Fried Rice",
                 "item_price": "18",
                 "item_quantity": 1,
                 "item_category": null,
@@ -31152,7 +31152,7 @@
                 "delivery_uuid": "9453fe25-933c-4ab2-9973-406cd34d4c04",
                 "listing_id": "P0281",
                 "item_id": "bc1faff5-e0b4-435e-8c8c-d19f5198e0bd",
-                "item_name": "Let(@single_quotes@)s BBQ - Yakitori (5 skewers)",
+                "item_name": "Let's BBQ - Yakitori (5 skewers)",
                 "item_price": "3",
                 "item_quantity": 1,
                 "item_category": null,
@@ -31166,11 +31166,11 @@
         ],
         "itemNames": [
             "Rosy Roast Beef Tendon (5 skewers)",
-            "Let(@single_quotes@)s BBQ - Lamb Kebab Fried Rice",
+            "Let's BBQ - Lamb Kebab Fried Rice",
             "Smoked Roast Beef Tendon (5 Skewers)",
             "Unique outdoor Grilled heart meat (5 skewers)\t",
             "Massively Delicious Grilled Honey Grilled Chicken Wings (2 Skewers)",
-            "Let(@single_quotes@)s BBQ - Yakitori (5 skewers)"
+            "Let's BBQ - Yakitori (5 skewers)"
         ],
         "review": {
             "delivery_uuid": "9453fe25-933c-4ab2-9973-406cd34d4c04",
@@ -31404,7 +31404,7 @@
                 "delivery_uuid": "20daf57c-547f-4f7b-ad59-0d0da5d14629",
                 "listing_id": "P0012",
                 "item_id": "76719acc-758f-4181-a02c-b000aaa83d9b",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -31417,7 +31417,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Original"
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "20daf57c-547f-4f7b-ad59-0d0da5d14629",
@@ -31462,7 +31462,7 @@
                 "delivery_uuid": "882fee31-efba-499d-a5e1-39b54c386b88",
                 "listing_id": "P0012",
                 "item_id": "849276a2-d0f0-4093-afd4-5e412e87f1ba",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -31476,7 +31476,7 @@
         ],
         "itemNames": [
             "The Frenchy Meatball",
-            "Pop(@single_quotes@)s Original"
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "882fee31-efba-499d-a5e1-39b54c386b88",
@@ -31506,7 +31506,7 @@
                 "delivery_uuid": "c8c5340e-cca9-4675-bcf1-f9877aa1432f",
                 "listing_id": "P0012",
                 "item_id": "0473415f-b39a-44b8-98c4-cf99fa7d6e24",
-                "item_name": "The Mac n(@single_quotes@) Meatball",
+                "item_name": "The Mac n' Meatball",
                 "item_price": "17",
                 "item_quantity": 1,
                 "item_category": null,
@@ -31519,7 +31519,7 @@
             }
         ],
         "itemNames": [
-            "The Mac n(@single_quotes@) Meatball"
+            "The Mac n' Meatball"
         ],
         "review": {
             "delivery_uuid": "c8c5340e-cca9-4675-bcf1-f9877aa1432f",
@@ -31549,7 +31549,7 @@
                 "delivery_uuid": "8a701b5d-f699-47f6-9299-777aea6217f3",
                 "listing_id": "P0012",
                 "item_id": "3000003973869319",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "21",
                 "item_quantity": 1,
                 "item_category": "Meatball Sandwiches",
@@ -31562,7 +31562,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Original"
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "8a701b5d-f699-47f6-9299-777aea6217f3",
@@ -31615,7 +31615,7 @@
             "customer_id": "59643402",
             "customer_name": "Drew S",
             "restaurant_id": "23978829",
-            "order_feedback": "tried this new local business out and i(@single_quotes@)msure glad i did this is one of my new favorites! great food!  ",
+            "order_feedback": "tried this new local business out and i'msure glad i did this is one of my new favorites! great food!  ",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2022-12-23T18:30:00.000Z",
@@ -31635,7 +31635,7 @@
                 "delivery_uuid": "6f7a2b05-1c7a-4f56-8546-a10dd9e3aeed",
                 "listing_id": "P0142",
                 "item_id": "6aefd43d-45cf-496f-90a0-846a6fdf0347",
-                "item_name": "The Mac n(@single_quotes@) Meatball",
+                "item_name": "The Mac n' Meatball",
                 "item_price": "17",
                 "item_quantity": 1,
                 "item_category": null,
@@ -31648,7 +31648,7 @@
             }
         ],
         "itemNames": [
-            "The Mac n(@single_quotes@) Meatball"
+            "The Mac n' Meatball"
         ],
         "review": {
             "delivery_uuid": "6f7a2b05-1c7a-4f56-8546-a10dd9e3aeed",
@@ -31769,7 +31769,7 @@
                 "delivery_uuid": "733b9f94-556a-44fc-94ff-be7520376253",
                 "listing_id": "P0122",
                 "item_id": "3000003591378423",
-                "item_name": "The Mac n(@single_quotes@) Meatball",
+                "item_name": "The Mac n' Meatball",
                 "item_price": "23",
                 "item_quantity": 1,
                 "item_category": "Meatball Sandwiches",
@@ -31782,7 +31782,7 @@
             }
         ],
         "itemNames": [
-            "The Mac n(@single_quotes@) Meatball"
+            "The Mac n' Meatball"
         ],
         "review": {
             "delivery_uuid": "733b9f94-556a-44fc-94ff-be7520376253",
@@ -31812,7 +31812,7 @@
                 "delivery_uuid": "7686cb73-3c29-4584-a4fe-054881a7a8b5",
                 "listing_id": "P0102",
                 "item_id": "3000004555036724",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "22",
                 "item_quantity": 1,
                 "item_category": "Combos",
@@ -31840,7 +31840,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Combo",
+            "Pop's Combo",
             "Side of Onion Rings"
         ],
         "review": {
@@ -31851,7 +31851,7 @@
             "customer_id": "109136545",
             "customer_name": "Susan S",
             "restaurant_id": "24079382",
-            "order_feedback": "the absolutely largest, thickest onion rings i(@single_quotes@)ve ever seen and they were delicious! ",
+            "order_feedback": "the absolutely largest, thickest onion rings i've ever seen and they were delicious! ",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2022-12-23T18:30:00.000Z",
@@ -31914,7 +31914,7 @@
                 "delivery_uuid": "ea7cb5d3-9efc-4df4-b161-4f31ca6e0998",
                 "listing_id": "P0102",
                 "item_id": "3000003681200223",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "21",
                 "item_quantity": 1,
                 "item_category": "Meatball Sandwiches",
@@ -31927,7 +31927,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Original"
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "ea7cb5d3-9efc-4df4-b161-4f31ca6e0998",
@@ -31937,7 +31937,7 @@
             "customer_id": "12330651",
             "customer_name": "Yogi S",
             "restaurant_id": "24079382",
-            "order_feedback": "the pop(@single_quotes@)s original was perfect! best meatball sandwich i have ever had!! thank you pop!",
+            "order_feedback": "the pop's original was perfect! best meatball sandwich i have ever had!! thank you pop!",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2022-12-23T18:30:00.000Z",
@@ -31960,7 +31960,7 @@
                 "item_name": "1 Sandwich and Side",
                 "item_price": "19",
                 "item_quantity": 1,
-                "item_category": "Pop(@single_quotes@)s Combos",
+                "item_category": "Pop's Combos",
                 "voosh_item_id": null,
                 "data_updated_date": "2023-04-07T12:30:00.000Z",
                 "common_id": null,
@@ -31975,7 +31975,7 @@
                 "item_name": "The Mexican Chipotle Meatball",
                 "item_price": "0",
                 "item_quantity": 1,
-                "item_category": "Pop(@single_quotes@)s Combos",
+                "item_category": "Pop's Combos",
                 "voosh_item_id": null,
                 "data_updated_date": "2023-04-07T12:30:00.000Z",
                 "common_id": null,
@@ -32031,7 +32031,7 @@
                 "delivery_uuid": "20cffe5c-34e0-4859-a867-8ffa2dd445cc",
                 "listing_id": "P0042",
                 "item_id": "3000004370082357",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "23",
                 "item_quantity": 1,
                 "item_category": "Combos",
@@ -32046,7 +32046,7 @@
                 "delivery_uuid": "20cffe5c-34e0-4859-a867-8ffa2dd445cc",
                 "listing_id": "P0042",
                 "item_id": "21523187312",
-                "item_name": "The Mac n(@single_quotes@) Meatball",
+                "item_name": "The Mac n' Meatball",
                 "item_price": "2",
                 "item_quantity": 1,
                 "item_category": "Combos",
@@ -32060,8 +32060,8 @@
         ],
         "itemNames": [
             "Side of Fries",
-            "Pop(@single_quotes@)s Combo",
-            "The Mac n(@single_quotes@) Meatball"
+            "Pop's Combo",
+            "The Mac n' Meatball"
         ],
         "review": {
             "delivery_uuid": "20cffe5c-34e0-4859-a867-8ffa2dd445cc",
@@ -32071,7 +32071,7 @@
             "customer_id": "795410487",
             "customer_name": "Andrew W",
             "restaurant_id": "24243506",
-            "order_feedback": "one of the best meatball subs i(@single_quotes@)ve ever had!!",
+            "order_feedback": "one of the best meatball subs i've ever had!!",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2022-12-23T18:30:00.000Z",
@@ -32193,7 +32193,7 @@
                 "delivery_uuid": "11eb424f-4183-4aef-9e15-7300ce40328f",
                 "listing_id": "P0042",
                 "item_id": "3000004021777160",
-                "item_name": "The Mac n(@single_quotes@) Meatball",
+                "item_name": "The Mac n' Meatball",
                 "item_price": "22",
                 "item_quantity": 1,
                 "item_category": "Meatball Sandwiches",
@@ -32221,7 +32221,7 @@
             }
         ],
         "itemNames": [
-            "The Mac n(@single_quotes@) Meatball",
+            "The Mac n' Meatball",
             "Side of Onion Rings"
         ],
         "review": {
@@ -32232,7 +32232,7 @@
             "customer_id": "12330651",
             "customer_name": "Yogi S",
             "restaurant_id": "24243506",
-            "order_feedback": "holy meatball! the mac n(@single_quotes@) the mac n(@single_quotes@) meatball was the tastiest sandwich i have ever eaten!!! super fresh and huge portion! love this place.",
+            "order_feedback": "holy meatball! the mac n' the mac n' meatball was the tastiest sandwich i have ever eaten!!! super fresh and huge portion! love this place.",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2022-12-23T18:30:00.000Z",
@@ -32252,7 +32252,7 @@
                 "delivery_uuid": "81ac5b8c-6479-470a-8d94-7bde02743f0e",
                 "listing_id": "P0082",
                 "item_id": "3000003579258434",
-                "item_name": "The Mac n(@single_quotes@) Meatball",
+                "item_name": "The Mac n' Meatball",
                 "item_price": "17",
                 "item_quantity": 1,
                 "item_category": "Meatball Sandwiches",
@@ -32280,7 +32280,7 @@
             }
         ],
         "itemNames": [
-            "The Mac n(@single_quotes@) Meatball",
+            "The Mac n' Meatball",
             "The Frenchy Meatball"
         ],
         "review": {
@@ -32291,7 +32291,7 @@
             "customer_id": "12330651",
             "customer_name": "Yogi S",
             "restaurant_id": "24056752",
-            "order_feedback": "tried the the frenchy meatball and the mac n(@single_quotes@) the mac n(@single_quotes@) meatball sandwiches. outstanding!!! so fresh. super fast delivery! absolutely loved the experience. thank you pop!!",
+            "order_feedback": "tried the the frenchy meatball and the mac n' the mac n' meatball sandwiches. outstanding!!! so fresh. super fast delivery! absolutely loved the experience. thank you pop!!",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2022-12-23T18:30:00.000Z",
@@ -32356,7 +32356,7 @@
                 "delivery_uuid": "6f38cda3-0e57-4e1d-80c6-ac63fe8da6ef",
                 "listing_id": "P0121",
                 "item_id": "212a4f4a-d5e4-4436-86ca-0392b523056f",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -32372,7 +32372,7 @@
             "Side of Cheese Sauce",
             "Cookie",
             "The Cheesehead Philly",
-            "The Philly Po(@single_quotes@) Boy"
+            "The Philly Po' Boy"
         ],
         "review": {
             "delivery_uuid": "6f38cda3-0e57-4e1d-80c6-ac63fe8da6ef",
@@ -32461,7 +32461,7 @@
                 "delivery_uuid": "ebad1f52-debf-4609-84ca-feb0b260755c",
                 "listing_id": "P0121",
                 "item_id": "3000003932456616",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": "Cheesesteaks",
@@ -32489,7 +32489,7 @@
             }
         ],
         "itemNames": [
-            "The Philly Po(@single_quotes@) Boy",
+            "The Philly Po' Boy",
             "Remove Tiger Horseradish"
         ],
         "review": {
@@ -32520,7 +32520,7 @@
                 "delivery_uuid": "ec5673a6-b319-48d7-8a3d-17a4bdae497d",
                 "listing_id": "P0072",
                 "item_id": "3000004125456439",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "21",
                 "item_quantity": 1,
                 "item_category": "Meatball Sandwiches",
@@ -32533,7 +32533,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Original"
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "ec5673a6-b319-48d7-8a3d-17a4bdae497d",
@@ -32563,7 +32563,7 @@
                 "delivery_uuid": "46076bdc-8ecc-46cd-abe7-4064eb2a7dd0",
                 "listing_id": "P0102",
                 "item_id": "e6dd456f-d1ea-4377-8e7d-45eee7ebff2e",
-                "item_name": "Pop(@single_quotes@)s for 2 Combo",
+                "item_name": "Pop's for 2 Combo",
                 "item_price": "42",
                 "item_quantity": 1,
                 "item_category": null,
@@ -32576,7 +32576,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s for 2 Combo"
+            "Pop's for 2 Combo"
         ],
         "review": {
             "delivery_uuid": "46076bdc-8ecc-46cd-abe7-4064eb2a7dd0",
@@ -32649,7 +32649,7 @@
                 "delivery_uuid": "adac883c-2482-4510-8552-a530e35e8b76",
                 "listing_id": "P0072",
                 "item_id": "3000004396482145",
-                "item_name": "The Mac n(@single_quotes@) Meatball",
+                "item_name": "The Mac n' Meatball",
                 "item_price": "17",
                 "item_quantity": 1,
                 "item_category": "Meatball Sandwiches",
@@ -32662,7 +32662,7 @@
             }
         ],
         "itemNames": [
-            "The Mac n(@single_quotes@) Meatball"
+            "The Mac n' Meatball"
         ],
         "review": {
             "delivery_uuid": "adac883c-2482-4510-8552-a530e35e8b76",
@@ -32672,7 +32672,7 @@
             "customer_id": "103720927",
             "customer_name": "Joe P",
             "restaurant_id": "24269974",
-            "order_feedback": "ordered the mac and meatball. didn(@single_quotes@)t receive any mac and cheese wedges, but the sandwich was alright. sauce has a nice spicy kick to it ",
+            "order_feedback": "ordered the mac and meatball. didn't receive any mac and cheese wedges, but the sandwich was alright. sauce has a nice spicy kick to it ",
             "order_ratings": "4",
             "order_tags": null,
             "data_updated_date": "2022-12-23T18:30:00.000Z",
@@ -32707,7 +32707,7 @@
                 "delivery_uuid": "5107e31b-29cc-42f8-a9dc-27e800f738f1",
                 "listing_id": "P0121",
                 "item_id": "142e5eb6-c21c-431c-b2b8-626411e8bfe8",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -32721,7 +32721,7 @@
         ],
         "itemNames": [
             "The Frito Bandito",
-            "The Philly Po(@single_quotes@) Boy"
+            "The Philly Po' Boy"
         ],
         "review": {
             "delivery_uuid": "5107e31b-29cc-42f8-a9dc-27e800f738f1",
@@ -32766,7 +32766,7 @@
                 "delivery_uuid": "08c690a8-4347-4722-b6d3-62ca92208712",
                 "listing_id": "P0022",
                 "item_id": "3881dac2-c199-4d6c-bfd9-3671ac6c7947",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -32795,7 +32795,7 @@
         ],
         "itemNames": [
             "The Philly Style Meatball",
-            "Pop(@single_quotes@)s Original",
+            "Pop's Original",
             "The Spicy Buffalo Meatball"
         ],
         "review": {
@@ -32849,7 +32849,7 @@
             "customer_id": "216083313",
             "customer_name": "Michael S",
             "restaurant_id": "23978829",
-            "order_feedback": "best food i(@single_quotes@)ve had in a very long time. love this place!!",
+            "order_feedback": "best food i've had in a very long time. love this place!!",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2022-12-23T18:30:00.000Z",
@@ -32908,7 +32908,7 @@
             "customer_id": "763273320",
             "customer_name": "Jason L",
             "restaurant_id": "23978829",
-            "order_feedback": "hands down best cheesesteak i(@single_quotes@)ve ever had. i(@single_quotes@)ve been to philly and this blows it out of the water. better than lefty(@single_quotes@)s. better than penn station. better than tubbys. if you are ever considering getting a cheesteak it would be fiscally irresponsible not to get this one. ",
+            "order_feedback": "hands down best cheesesteak i've ever had. i've been to philly and this blows it out of the water. better than lefty's. better than penn station. better than tubbys. if you are ever considering getting a cheesteak it would be fiscally irresponsible not to get this one. ",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2022-12-23T18:30:00.000Z",
@@ -32928,7 +32928,7 @@
                 "delivery_uuid": "48566d50-dff7-4807-b81f-1c324cf66430",
                 "listing_id": "P0132",
                 "item_id": "d145d2cc-977a-456d-b4de-dfc000f8b343",
-                "item_name": "The Mac n(@single_quotes@) Meatball",
+                "item_name": "The Mac n' Meatball",
                 "item_price": "17",
                 "item_quantity": 1,
                 "item_category": null,
@@ -32941,7 +32941,7 @@
             }
         ],
         "itemNames": [
-            "The Mac n(@single_quotes@) Meatball"
+            "The Mac n' Meatball"
         ],
         "review": {
             "delivery_uuid": "48566d50-dff7-4807-b81f-1c324cf66430",
@@ -33029,7 +33029,7 @@
                 "delivery_uuid": "db2f96aa-bb8c-4c6b-a073-55cd4b36b5af",
                 "listing_id": "P0042",
                 "item_id": "7672db7b-78ee-41b2-be37-c1d9ea0c8ef0",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "20",
                 "item_quantity": 1,
                 "item_category": null,
@@ -33043,7 +33043,7 @@
         ],
         "itemNames": [
             "Brownie",
-            "Pop(@single_quotes@)s Combo"
+            "Pop's Combo"
         ],
         "review": {
             "delivery_uuid": "db2f96aa-bb8c-4c6b-a073-55cd4b36b5af",
@@ -33073,7 +33073,7 @@
                 "delivery_uuid": "35c033a2-0495-48e0-be4f-099d7f881522",
                 "listing_id": "P0072",
                 "item_id": "9040d88b-8631-4e1b-868a-a5deecd7018e",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "20",
                 "item_quantity": 1,
                 "item_category": null,
@@ -33086,7 +33086,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Combo"
+            "Pop's Combo"
         ],
         "review": {
             "delivery_uuid": "35c033a2-0495-48e0-be4f-099d7f881522",
@@ -33116,7 +33116,7 @@
                 "delivery_uuid": "544966c0-0460-4046-b744-c3f94be1e43b",
                 "listing_id": "P0122",
                 "item_id": "3000003779500179",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "21",
                 "item_quantity": 1,
                 "item_category": "Meatball Sandwiches",
@@ -33131,7 +33131,7 @@
                 "delivery_uuid": "544966c0-0460-4046-b744-c3f94be1e43b",
                 "listing_id": "P0122",
                 "item_id": "3000003779500178",
-                "item_name": "Side of Mac n(@single_quotes@) Cheese Wedges",
+                "item_name": "Side of Mac n' Cheese Wedges",
                 "item_price": "6",
                 "item_quantity": 1,
                 "item_category": "Sides",
@@ -33144,8 +33144,8 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Original",
-            "Side of Mac n(@single_quotes@) Cheese Wedges"
+            "Pop's Original",
+            "Side of Mac n' Cheese Wedges"
         ],
         "review": {
             "delivery_uuid": "544966c0-0460-4046-b744-c3f94be1e43b",
@@ -33175,7 +33175,7 @@
                 "delivery_uuid": "c0941eff-ed53-4a67-8b0f-e9fde85a4c43",
                 "listing_id": "P0122",
                 "item_id": "fa360a54-de3c-4d2a-a712-b5aefc7ba771",
-                "item_name": "Pop(@single_quotes@)s for 2 Combo",
+                "item_name": "Pop's for 2 Combo",
                 "item_price": "42",
                 "item_quantity": 1,
                 "item_category": null,
@@ -33188,7 +33188,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s for 2 Combo"
+            "Pop's for 2 Combo"
         ],
         "review": {
             "delivery_uuid": "c0941eff-ed53-4a67-8b0f-e9fde85a4c43",
@@ -33233,7 +33233,7 @@
                 "delivery_uuid": "35fc44cb-cab9-49ab-a13c-acdd9ca9f6ff",
                 "listing_id": "P0132",
                 "item_id": "3000003885853734",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "23",
                 "item_quantity": 1,
                 "item_category": "Combos",
@@ -33247,7 +33247,7 @@
         ],
         "itemNames": [
             "Side of Fries",
-            "Pop(@single_quotes@)s Combo"
+            "Pop's Combo"
         ],
         "review": {
             "delivery_uuid": "35fc44cb-cab9-49ab-a13c-acdd9ca9f6ff",
@@ -33277,7 +33277,7 @@
                 "delivery_uuid": "2017d878-41c2-46eb-904d-aa9fdc0d9483",
                 "listing_id": "P0082",
                 "item_id": "3cbfc540-e731-4644-8ed4-34939461a6cd",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "20",
                 "item_quantity": 1,
                 "item_category": null,
@@ -33290,7 +33290,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Combo"
+            "Pop's Combo"
         ],
         "review": {
             "delivery_uuid": "2017d878-41c2-46eb-904d-aa9fdc0d9483",
@@ -33320,7 +33320,7 @@
                 "delivery_uuid": "b53fb412-86f9-40b4-9de0-fe248b946ab4",
                 "listing_id": "P0022",
                 "item_id": "ccfd713c-5cbc-4241-b55a-38f2ac5a9797",
-                "item_name": "The Mac n(@single_quotes@) Meatball",
+                "item_name": "The Mac n' Meatball",
                 "item_price": "17",
                 "item_quantity": 1,
                 "item_category": null,
@@ -33333,7 +33333,7 @@
             }
         ],
         "itemNames": [
-            "The Mac n(@single_quotes@) Meatball"
+            "The Mac n' Meatball"
         ],
         "review": {
             "delivery_uuid": "b53fb412-86f9-40b4-9de0-fe248b946ab4",
@@ -33363,7 +33363,7 @@
                 "delivery_uuid": "b1bf3f12-cac8-42f6-b6c8-adea2c4c5298",
                 "listing_id": "P0082",
                 "item_id": "33b14913-0a8b-45c4-bfe7-dfc7387356f1",
-                "item_name": "The Mac n(@single_quotes@) Meatball",
+                "item_name": "The Mac n' Meatball",
                 "item_price": "17",
                 "item_quantity": 1,
                 "item_category": null,
@@ -33376,7 +33376,7 @@
             }
         ],
         "itemNames": [
-            "The Mac n(@single_quotes@) Meatball"
+            "The Mac n' Meatball"
         ],
         "review": {
             "delivery_uuid": "b1bf3f12-cac8-42f6-b6c8-adea2c4c5298",
@@ -33406,7 +33406,7 @@
                 "delivery_uuid": "feb5b5a8-6b4b-4356-ad57-7f9af66f99f5",
                 "listing_id": "P0092",
                 "item_id": "cd27d1ce-8bfa-46c4-a260-2e341c58e41b",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -33419,7 +33419,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Original"
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "feb5b5a8-6b4b-4356-ad57-7f9af66f99f5",
@@ -33449,7 +33449,7 @@
                 "delivery_uuid": "455a61e4-cd28-4b6a-a73d-e354c1bc8b78",
                 "listing_id": "P0121",
                 "item_id": "003c3b55-5124-4238-9eed-96ad58eb673b",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -33462,7 +33462,7 @@
             }
         ],
         "itemNames": [
-            "The Philly Po(@single_quotes@) Boy"
+            "The Philly Po' Boy"
         ],
         "review": {
             "delivery_uuid": "455a61e4-cd28-4b6a-a73d-e354c1bc8b78",
@@ -33492,7 +33492,7 @@
                 "delivery_uuid": "68caf8b2-8ce0-48c9-9a80-e06ae8a88bce",
                 "listing_id": "P0102",
                 "item_id": "431e8cba-7131-443c-8311-69a48497a503",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "21",
                 "item_quantity": 1,
                 "item_category": null,
@@ -33505,7 +33505,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Combo"
+            "Pop's Combo"
         ],
         "review": {
             "delivery_uuid": "68caf8b2-8ce0-48c9-9a80-e06ae8a88bce",
@@ -33578,7 +33578,7 @@
                 "delivery_uuid": "a45681cd-02cb-477b-9295-a28df5f53465",
                 "listing_id": "P0142",
                 "item_id": "9fcea1c4-1eeb-4750-9664-d317a54daabb",
-                "item_name": "The Mac n(@single_quotes@) Meatball",
+                "item_name": "The Mac n' Meatball",
                 "item_price": "17",
                 "item_quantity": 1,
                 "item_category": null,
@@ -33591,7 +33591,7 @@
             }
         ],
         "itemNames": [
-            "The Mac n(@single_quotes@) Meatball"
+            "The Mac n' Meatball"
         ],
         "review": {
             "delivery_uuid": "a45681cd-02cb-477b-9295-a28df5f53465",
@@ -33782,7 +33782,7 @@
                 "delivery_uuid": "f7d2779a-53c3-4887-9f7a-f08edc506cb5",
                 "listing_id": "P0092",
                 "item_id": "4224e091-fa5c-4d4f-9f19-a1d091d4d2c9",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "20",
                 "item_quantity": 1,
                 "item_category": null,
@@ -33795,7 +33795,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Combo"
+            "Pop's Combo"
         ],
         "review": {
             "delivery_uuid": "f7d2779a-53c3-4887-9f7a-f08edc506cb5",
@@ -33805,7 +33805,7 @@
             "customer_id": "95aa5afc-68f0-411c-86f5-ca4c663a45f8",
             "customer_name": "adam y",
             "restaurant_id": "b7bbb222-bdbd-5a9c-bf73-4a944f1e0180",
-            "order_feedback": "first time I(@single_quotes@)ve ordered from you guys. overall food was good except for the meatballs. they tasted like they were made yesterday and they were very dry and right. the role the cheese and the sauce were all very good as well as the brownie. The cookie not so much. ",
+            "order_feedback": "first time I've ordered from you guys. overall food was good except for the meatballs. they tasted like they were made yesterday and they were very dry and right. the role the cheese and the sauce were all very good as well as the brownie. The cookie not so much. ",
             "order_ratings": "3",
             "order_tags": null,
             "data_updated_date": "2022-12-23T18:30:00.000Z",
@@ -33825,7 +33825,7 @@
                 "delivery_uuid": "bfd80acf-5317-4ad9-99df-213f56602a49",
                 "listing_id": "P0051",
                 "item_id": "5a7c10b1-a881-4048-a2a3-609cfbd0c37c",
-                "item_name": "Side of Mac n(@single_quotes@) Cheese Wedges",
+                "item_name": "Side of Mac n' Cheese Wedges",
                 "item_price": "6",
                 "item_quantity": 1,
                 "item_category": null,
@@ -33853,7 +33853,7 @@
             }
         ],
         "itemNames": [
-            "Side of Mac n(@single_quotes@) Cheese Wedges",
+            "Side of Mac n' Cheese Wedges",
             "The Cheesehead"
         ],
         "review": {
@@ -34087,7 +34087,7 @@
                 "delivery_uuid": "bf5fc3dd-ff87-4df3-9697-76b7f28ae2cc",
                 "listing_id": "P0051",
                 "item_id": "1c86015e-1424-4b37-9616-c081b0bbeb01",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -34101,7 +34101,7 @@
         ],
         "itemNames": [
             "The Cheesehead",
-            "The Philly Po(@single_quotes@) Boy"
+            "The Philly Po' Boy"
         ],
         "review": {
             "delivery_uuid": "bf5fc3dd-ff87-4df3-9697-76b7f28ae2cc",
@@ -34621,7 +34621,7 @@
             "customer_id": "12330651",
             "customer_name": "Yogi S",
             "restaurant_id": "24732569",
-            "order_feedback": "the basic b*tch bowl was outstanding! fresh and tastyyy! can(@single_quotes@)t wait to try some of the other options.",
+            "order_feedback": "the basic b*tch bowl was outstanding! fresh and tastyyy! can't wait to try some of the other options.",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2023-02-23T07:19:58.000Z",
@@ -34684,7 +34684,7 @@
                 "delivery_uuid": "7a81e642-9025-4197-8905-3aa56936d42e",
                 "listing_id": "P0253",
                 "item_id": "a3e2b7b0-b9b6-4a6c-9bdf-cb074636d0ef",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -34697,7 +34697,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Original"
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "7a81e642-9025-4197-8905-3aa56936d42e",
@@ -35815,7 +35815,7 @@
             "listing_id": "P0051",
             "channel": "UBEREATS",
             "customer_id": "21013769-40dc-4407-bb9f-001928ca7865",
-            "customer_name": "dee(@single_quotes@) C",
+            "customer_name": "dee' C",
             "restaurant_id": "bf6b164b-a2e4-4802-a582-f4baa702a6c8",
             "order_feedback": null,
             "order_ratings": "5",
@@ -35823,7 +35823,7 @@
             "data_updated_date": "2023-04-04T07:06:57.000Z",
             "review_reply_created": "2023-03-07T00:46:09.000Z",
             "review_created": "2023-03-06T21:46:09.000Z",
-            "review_reply_comment": "Hi dee(@single_quotes@), Thank you for your review and supporting our local business! We look forward to serving you again soon!",
+            "review_reply_comment": "Hi dee', Thank you for your review and supporting our local business! We look forward to serving you again soon!",
             "review_reply_promo_value": null,
             "review_replied": true,
             "__hevo__database_name": "prod",
@@ -36607,7 +36607,7 @@
                 "delivery_uuid": "778554da-2cfe-468a-91f9-8a0917e7c517",
                 "listing_id": "P0251",
                 "item_id": "df0b8af7-bce2-4528-856f-a0ee4638243a",
-                "item_name": "The Wake n(@single_quotes@) Bake Bowl",
+                "item_name": "The Wake n' Bake Bowl",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -36621,7 +36621,7 @@
         ],
         "itemNames": [
             "The Classic Breakfast Burrito",
-            "The Wake n(@single_quotes@) Bake Bowl"
+            "The Wake n' Bake Bowl"
         ],
         "review": {
             "delivery_uuid": "778554da-2cfe-468a-91f9-8a0917e7c517",
@@ -37850,7 +37850,7 @@
             "customer_id": "1022519964",
             "customer_name": "salene b",
             "restaurant_id": "24269959",
-            "order_feedback": "if i can rate a 0 i would don(@single_quotes@)t order this bro ",
+            "order_feedback": "if i can rate a 0 i would don't order this bro ",
             "order_ratings": "1",
             "order_tags": null,
             "data_updated_date": "2023-01-17T01:49:48.000Z",
@@ -37893,7 +37893,7 @@
             "customer_id": "143136722",
             "customer_name": "Sam G",
             "restaurant_id": "24487979",
-            "order_feedback": "disappointed. no cheese on the sandwich and i didn(@single_quotes@)t opt to remove it. for the price, it really didn(@single_quotes@)t seem worth it even if it had had the cheese. for a sandwich that is supposed to be covered with soup, or come with soup? the photos are misleading, it was very dry. probably will not order again considering the high price point.",
+            "order_feedback": "disappointed. no cheese on the sandwich and i didn't opt to remove it. for the price, it really didn't seem worth it even if it had had the cheese. for a sandwich that is supposed to be covered with soup, or come with soup? the photos are misleading, it was very dry. probably will not order again considering the high price point.",
             "order_ratings": "2",
             "order_tags": null,
             "data_updated_date": "2023-03-03T07:28:17.000Z",
@@ -37956,7 +37956,7 @@
                 "delivery_uuid": "2f99d8b0-e209-4b36-9963-e377528086cc",
                 "listing_id": "P0051",
                 "item_id": "3000004911690635",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": "Cheesesteaks",
@@ -37969,7 +37969,7 @@
             }
         ],
         "itemNames": [
-            "The Philly Po(@single_quotes@) Boy"
+            "The Philly Po' Boy"
         ],
         "review": {
             "delivery_uuid": "2f99d8b0-e209-4b36-9963-e377528086cc",
@@ -38422,7 +38422,7 @@
                 "delivery_uuid": "251b1044-7bb8-4bd4-8489-c055164b2b8e",
                 "listing_id": "P0051",
                 "item_id": "50ded7b9-7f72-44e9-a421-eee72e3f4df0",
-                "item_name": "Side of Mac n(@single_quotes@) Cheese Wedges",
+                "item_name": "Side of Mac n' Cheese Wedges",
                 "item_price": "6",
                 "item_quantity": 1,
                 "item_category": null,
@@ -38436,7 +38436,7 @@
         ],
         "itemNames": [
             "The Philly ",
-            "Side of Mac n(@single_quotes@) Cheese Wedges"
+            "Side of Mac n' Cheese Wedges"
         ],
         "review": {
             "delivery_uuid": "251b1044-7bb8-4bd4-8489-c055164b2b8e",
@@ -38552,7 +38552,7 @@
                 "delivery_uuid": "4e78b7c4-42ab-45ba-b4bc-70a3bc5c793f",
                 "listing_id": "P0051",
                 "item_id": "bf5bc2d9-eace-4fb7-aec1-5e2b9a264a4b",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -38565,7 +38565,7 @@
             }
         ],
         "itemNames": [
-            "The Philly Po(@single_quotes@) Boy"
+            "The Philly Po' Boy"
         ],
         "review": {
             "delivery_uuid": "4e78b7c4-42ab-45ba-b4bc-70a3bc5c793f",
@@ -38610,7 +38610,7 @@
                 "delivery_uuid": "625165bc-d2c2-4db2-9b5b-ea51b8a18d21",
                 "listing_id": "P0051",
                 "item_id": "86e3b90f-1dee-41c3-aee6-d81eda958469",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -38624,7 +38624,7 @@
         ],
         "itemNames": [
             "The Cheesehead",
-            "The Philly Po(@single_quotes@) Boy"
+            "The Philly Po' Boy"
         ],
         "review": {
             "delivery_uuid": "625165bc-d2c2-4db2-9b5b-ea51b8a18d21",
@@ -38669,7 +38669,7 @@
                 "delivery_uuid": "781f3bfd-9f98-471e-9a1e-ac690766bdc4",
                 "listing_id": "P0051",
                 "item_id": "5cfb5a43-118d-450a-9394-b9e0d4756506",
-                "item_name": "Side of Mac n(@single_quotes@) Cheese Wedges",
+                "item_name": "Side of Mac n' Cheese Wedges",
                 "item_price": "6",
                 "item_quantity": 1,
                 "item_category": null,
@@ -38773,7 +38773,7 @@
         ],
         "itemNames": [
             "BYO Cheesesteak",
-            "Side of Mac n(@single_quotes@) Cheese Wedges",
+            "Side of Mac n' Cheese Wedges",
             "The Frito Bandito",
             "The Philly ",
             "Side of Ketchup",
@@ -38809,7 +38809,7 @@
                 "delivery_uuid": "82c4a8ab-1738-47eb-a3a3-b297fdcfd399",
                 "listing_id": "P0051",
                 "item_id": "dbb4a542-5cae-4207-aa17-6034e29af16c",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -38852,7 +38852,7 @@
             }
         ],
         "itemNames": [
-            "The Philly Po(@single_quotes@) Boy",
+            "The Philly Po' Boy",
             "The Philly ",
             "The Philly "
         ],
@@ -38884,7 +38884,7 @@
                 "delivery_uuid": "aeeaff62-53bb-43b1-a95f-01e3357f474f",
                 "listing_id": "P0051",
                 "item_id": "23af43e3-64a9-4400-a162-a439216e2977",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -38927,7 +38927,7 @@
             }
         ],
         "itemNames": [
-            "The Philly Po(@single_quotes@) Boy",
+            "The Philly Po' Boy",
             "Side of Onion Rings",
             "The Philly "
         ],
@@ -39017,7 +39017,7 @@
                 "delivery_uuid": "cfd7d9e3-cc2d-4613-822a-2ee0abd9075c",
                 "listing_id": "P0051",
                 "item_id": "2b90b4af-de9a-423a-a4a6-e590f21f2efb",
-                "item_name": "Side of Mac n(@single_quotes@) Cheese Wedges",
+                "item_name": "Side of Mac n' Cheese Wedges",
                 "item_price": "6",
                 "item_quantity": 1,
                 "item_category": null,
@@ -39031,7 +39031,7 @@
         ],
         "itemNames": [
             "Only Me Combo",
-            "Side of Mac n(@single_quotes@) Cheese Wedges"
+            "Side of Mac n' Cheese Wedges"
         ],
         "review": {
             "delivery_uuid": "cfd7d9e3-cc2d-4613-822a-2ee0abd9075c",
@@ -39106,7 +39106,7 @@
                 "delivery_uuid": "e6c507a6-063f-489e-8477-d779149104fc",
                 "listing_id": "P0051",
                 "item_id": "24085364-7053-44d2-83bc-4fc82790828a",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -39137,7 +39137,7 @@
             "Sprite",
             "Cookie",
             "Brownie",
-            "The Philly Po(@single_quotes@) Boy",
+            "The Philly Po' Boy",
             "Coca-Cola"
         ],
         "review": {
@@ -39254,7 +39254,7 @@
                 "delivery_uuid": "083fb9d4-a876-474a-8ea6-7deea89181a1",
                 "listing_id": "P0052",
                 "item_id": "1e435bcb-e19d-4ca8-bb12-45ef79638002",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "20",
                 "item_quantity": 1,
                 "item_category": null,
@@ -39282,7 +39282,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Combo",
+            "Pop's Combo",
             "Side of Onion Rings"
         ],
         "review": {
@@ -39401,7 +39401,7 @@
                 "delivery_uuid": "65c98585-470f-44d8-a6df-af2816015616",
                 "listing_id": "P0052",
                 "item_id": "4fbdb516-dfb9-4464-878f-08f4fd1d99ec",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -39416,7 +39416,7 @@
                 "delivery_uuid": "65c98585-470f-44d8-a6df-af2816015616",
                 "listing_id": "P0052",
                 "item_id": "9936a669-f00d-43a7-b637-bc2a1e56b32d",
-                "item_name": "Side of Mac n(@single_quotes@) Cheese Wedges",
+                "item_name": "Side of Mac n' Cheese Wedges",
                 "item_price": "6",
                 "item_quantity": 1,
                 "item_category": null,
@@ -39432,8 +39432,8 @@
             "Coca-Cola",
             "Sprite",
             "The Philly Style Meatball",
-            "Pop(@single_quotes@)s Original",
-            "Side of Mac n(@single_quotes@) Cheese Wedges"
+            "Pop's Original",
+            "Side of Mac n' Cheese Wedges"
         ],
         "review": {
             "delivery_uuid": "65c98585-470f-44d8-a6df-af2816015616",
@@ -39463,7 +39463,7 @@
                 "delivery_uuid": "7c3d9b3c-7869-4b5e-826d-b1d34ff99113",
                 "listing_id": "P0052",
                 "item_id": "a8ebf83d-500a-4118-9f5c-045ccdb848e5",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -39491,7 +39491,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Original",
+            "Pop's Original",
             "Coca-Cola"
         ],
         "review": {
@@ -39522,7 +39522,7 @@
                 "delivery_uuid": "b9bb92c2-3c4a-41d4-9d53-ae61990b0073",
                 "listing_id": "P0052",
                 "item_id": "e45eb3d0-a84a-4087-8b2e-118af4276585",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "20",
                 "item_quantity": 1,
                 "item_category": null,
@@ -39537,7 +39537,7 @@
                 "delivery_uuid": "b9bb92c2-3c4a-41d4-9d53-ae61990b0073",
                 "listing_id": "P0052",
                 "item_id": "aa6c13b0-e9d3-4923-98c6-f38eacf527b1",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -39550,8 +39550,8 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Combo",
-            "Pop(@single_quotes@)s Original"
+            "Pop's Combo",
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "b9bb92c2-3c4a-41d4-9d53-ae61990b0073",
@@ -39581,7 +39581,7 @@
                 "delivery_uuid": "d4f19fdb-c080-4acc-b2c7-9f32cf9d7840",
                 "listing_id": "P0052",
                 "item_id": "f40be5d4-ebab-4372-8da8-81042feafc25",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "20",
                 "item_quantity": 1,
                 "item_category": null,
@@ -39594,7 +39594,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Combo"
+            "Pop's Combo"
         ],
         "review": {
             "delivery_uuid": "d4f19fdb-c080-4acc-b2c7-9f32cf9d7840",
@@ -39722,7 +39722,7 @@
             "customer_id": "12330651",
             "customer_name": "Yogi S",
             "restaurant_id": "24269959",
-            "order_feedback": "whoa daddy! i(@single_quotes@)m officially addicted! best sandwiches in town. this place slaps so hard!",
+            "order_feedback": "whoa daddy! i'm officially addicted! best sandwiches in town. this place slaps so hard!",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2022-12-23T18:30:00.000Z",
@@ -39765,7 +39765,7 @@
             "customer_id": "12330651",
             "customer_name": "Yogi S",
             "restaurant_id": "24269959",
-            "order_feedback": "wow! the philly was outstanding! hot, fresh, super fast and such a nice size sandwich! can(@single_quotes@)t wait to try this place again. highly recommend trying cheesesteak daddy!",
+            "order_feedback": "wow! the philly was outstanding! hot, fresh, super fast and such a nice size sandwich! can't wait to try this place again. highly recommend trying cheesesteak daddy!",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2022-12-23T18:30:00.000Z",
@@ -39800,7 +39800,7 @@
                 "delivery_uuid": "1779996c-849c-4d3b-9303-8f5762fc4b37",
                 "listing_id": "P0051",
                 "item_id": "3000004259001567",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "22",
                 "item_quantity": 1,
                 "item_category": "Cheesesteaks",
@@ -39814,7 +39814,7 @@
         ],
         "itemNames": [
             "Sprite",
-            "The Philly Po(@single_quotes@) Boy"
+            "The Philly Po' Boy"
         ],
         "review": {
             "delivery_uuid": "1779996c-849c-4d3b-9303-8f5762fc4b37",
@@ -39867,7 +39867,7 @@
             "customer_id": "59669797",
             "customer_name": "Michael F",
             "restaurant_id": "24269959",
-            "order_feedback": "the bomb! order now you won(@single_quotes@)t regret it",
+            "order_feedback": "the bomb! order now you won't regret it",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2022-12-23T18:30:00.000Z",
@@ -39910,7 +39910,7 @@
             "customer_id": "332985475",
             "customer_name": "Dhlal R",
             "restaurant_id": "24269959",
-            "order_feedback": "lowkey wasn(@single_quotes@)t that good, made me wanna finish it as fast as i can .",
+            "order_feedback": "lowkey wasn't that good, made me wanna finish it as fast as i can .",
             "order_ratings": "1",
             "order_tags": null,
             "data_updated_date": "2022-12-23T18:30:00.000Z",
@@ -40082,7 +40082,7 @@
             "customer_id": "925181915",
             "customer_name": "Shanna R",
             "restaurant_id": "24269959",
-            "order_feedback": "way to salty! waaayy to salty and the fries are plain. they tasted like mcdonald(@single_quotes@)s fries with no salt left over night. ",
+            "order_feedback": "way to salty! waaayy to salty and the fries are plain. they tasted like mcdonald's fries with no salt left over night. ",
             "order_ratings": "1",
             "order_tags": null,
             "data_updated_date": "2022-12-23T18:30:00.000Z",
@@ -40117,7 +40117,7 @@
                 "delivery_uuid": "4f184611-7617-4cdc-9766-4796ff1f337a",
                 "listing_id": "P0051",
                 "item_id": "3000004709438804",
-                "item_name": "Side of Mac n(@single_quotes@) Cheese Wedges",
+                "item_name": "Side of Mac n' Cheese Wedges",
                 "item_price": "6",
                 "item_quantity": 1,
                 "item_category": "Sides",
@@ -40161,7 +40161,7 @@
         ],
         "itemNames": [
             "Me and a Friend Combo",
-            "Side of Mac n(@single_quotes@) Cheese Wedges",
+            "Side of Mac n' Cheese Wedges",
             "Cookie",
             "BYO Cheesesteak"
         ],
@@ -40193,7 +40193,7 @@
                 "delivery_uuid": "e0b6d0f9-1b54-420f-9292-39bce7416181",
                 "listing_id": "P0052",
                 "item_id": "3000004731258486",
-                "item_name": "The Mac n(@single_quotes@) Meatball",
+                "item_name": "The Mac n' Meatball",
                 "item_price": "17",
                 "item_quantity": 1,
                 "item_category": "Meatball Sandwiches",
@@ -40206,7 +40206,7 @@
             }
         ],
         "itemNames": [
-            "The Mac n(@single_quotes@) Meatball"
+            "The Mac n' Meatball"
         ],
         "review": {
             "delivery_uuid": "e0b6d0f9-1b54-420f-9292-39bce7416181",
@@ -40259,7 +40259,7 @@
             "customer_id": "12330651",
             "customer_name": "Yogi S",
             "restaurant_id": "24474075",
-            "order_feedback": "the deluxe clucks was fantastic! try this place asap! it(@single_quotes@)s sooo fire",
+            "order_feedback": "the deluxe clucks was fantastic! try this place asap! it's sooo fire",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2022-12-23T18:30:00.000Z",
@@ -40279,7 +40279,7 @@
                 "delivery_uuid": "27604aaf-5567-4624-b533-b67e8c04e3f9",
                 "listing_id": "P0051",
                 "item_id": "2c076c95-3924-4aa3-9012-83e5d01f79d9",
-                "item_name": "Side of Mac n(@single_quotes@) Cheese Wedges",
+                "item_name": "Side of Mac n' Cheese Wedges",
                 "item_price": "6",
                 "item_quantity": 1,
                 "item_category": null,
@@ -40322,7 +40322,7 @@
             }
         ],
         "itemNames": [
-            "Side of Mac n(@single_quotes@) Cheese Wedges",
+            "Side of Mac n' Cheese Wedges",
             "Side of Fries",
             "The Cheesehead"
         ],
@@ -40384,7 +40384,7 @@
                 "delivery_uuid": "7aef0d75-acc3-461c-8230-fd04458995e2",
                 "listing_id": "P0051",
                 "item_id": "914aa017-69b4-44c6-bcb6-3d6ef36ce681",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -40399,7 +40399,7 @@
         "itemNames": [
             "The Pizza Steak",
             "The Philly ",
-            "The Philly Po(@single_quotes@) Boy"
+            "The Philly Po' Boy"
         ],
         "review": {
             "delivery_uuid": "7aef0d75-acc3-461c-8230-fd04458995e2",
@@ -40472,7 +40472,7 @@
                 "delivery_uuid": "5810d0de-2d73-40f5-abdd-3cfa0b75a1f9",
                 "listing_id": "P0052",
                 "item_id": "79b10ef7-f951-4c00-8ec8-cedcecda49cd",
-                "item_name": "The Mac n(@single_quotes@) Meatball",
+                "item_name": "The Mac n' Meatball",
                 "item_price": "17",
                 "item_quantity": 1,
                 "item_category": null,
@@ -40485,7 +40485,7 @@
             }
         ],
         "itemNames": [
-            "The Mac n(@single_quotes@) Meatball"
+            "The Mac n' Meatball"
         ],
         "review": {
             "delivery_uuid": "5810d0de-2d73-40f5-abdd-3cfa0b75a1f9",
@@ -40632,7 +40632,7 @@
                 "delivery_uuid": "6732e308-1776-4291-84fd-abb69f4de1c2",
                 "listing_id": "P0052",
                 "item_id": "f28fcbd6-7902-4301-966c-1a051efa75a0",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "20",
                 "item_quantity": 1,
                 "item_category": null,
@@ -40646,7 +40646,7 @@
         ],
         "itemNames": [
             "Sprite",
-            "Pop(@single_quotes@)s Combo"
+            "Pop's Combo"
         ],
         "review": {
             "delivery_uuid": "6732e308-1776-4291-84fd-abb69f4de1c2",
@@ -40751,7 +40751,7 @@
                 "delivery_uuid": "bc3563cf-7ba6-4919-8169-4f96fc8657f0",
                 "listing_id": "P0052",
                 "item_id": "32874b0f-e758-400b-be76-a35bcbe7f79d",
-                "item_name": "The Mac n(@single_quotes@) Meatball",
+                "item_name": "The Mac n' Meatball",
                 "item_price": "17",
                 "item_quantity": 1,
                 "item_category": null,
@@ -40796,7 +40796,7 @@
                 "delivery_uuid": "bc3563cf-7ba6-4919-8169-4f96fc8657f0",
                 "listing_id": "P0052",
                 "item_id": "90a84a78-adc0-43e1-9ca2-85c71f7a8666",
-                "item_name": "Side of Mac n(@single_quotes@) Cheese Wedges",
+                "item_name": "Side of Mac n' Cheese Wedges",
                 "item_price": "6",
                 "item_quantity": 1,
                 "item_category": null,
@@ -40824,10 +40824,10 @@
             }
         ],
         "itemNames": [
-            "The Mac n(@single_quotes@) Meatball",
+            "The Mac n' Meatball",
             "Cookie",
             "The Spicy Buffalo Meatball",
-            "Side of Mac n(@single_quotes@) Cheese Wedges",
+            "Side of Mac n' Cheese Wedges",
             "The Philly Style Meatball"
         ],
         "review": {
@@ -40858,7 +40858,7 @@
                 "delivery_uuid": "e5a34169-c531-43a8-b7b6-5c368afac6bc",
                 "listing_id": "P0051",
                 "item_id": "ec2aee80-ca94-4155-80d2-738409daad28",
-                "item_name": "Side of Mac n(@single_quotes@) Cheese Wedges",
+                "item_name": "Side of Mac n' Cheese Wedges",
                 "item_price": "6",
                 "item_quantity": 1,
                 "item_category": null,
@@ -40916,7 +40916,7 @@
             }
         ],
         "itemNames": [
-            "Side of Mac n(@single_quotes@) Cheese Wedges",
+            "Side of Mac n' Cheese Wedges",
             "Brownie",
             "The Cheesehead",
             "Side of Ranch"
@@ -41453,7 +41453,7 @@
                 "delivery_uuid": "b536de31-90c7-449a-a843-4300aa6e6eb2",
                 "listing_id": "P03111",
                 "item_id": "9c881923-0716-4341-9849-160d5d509e3a",
-                "item_name": "The Reaper - F(@single_quotes@)d Cajun Chicken Quesadilla",
+                "item_name": "The Reaper - F'd Cajun Chicken Quesadilla",
                 "item_price": "16",
                 "item_quantity": 1,
                 "item_category": null,
@@ -41466,7 +41466,7 @@
             }
         ],
         "itemNames": [
-            "The Reaper - F(@single_quotes@)d Cajun Chicken Quesadilla"
+            "The Reaper - F'd Cajun Chicken Quesadilla"
         ],
         "review": {
             "delivery_uuid": "b536de31-90c7-449a-a843-4300aa6e6eb2",
@@ -46920,7 +46920,7 @@
                 "delivery_uuid": "54fc260a-3da1-4ee3-b509-24af881f3ff2",
                 "listing_id": "P03113",
                 "item_id": "930785b9-ed4a-4e09-8553-af3827a3ebb3",
-                "item_name": "The Reaper - F(@single_quotes@)d Cajun Chicken Quesadilla",
+                "item_name": "The Reaper - F'd Cajun Chicken Quesadilla",
                 "item_price": "16",
                 "item_quantity": 1,
                 "item_category": null,
@@ -46937,7 +46937,7 @@
             "Nashville Chicken Fingers (3) + Fries",
             "Whole Free Range Chicken (8 Pcs) with 2 Waffles + Syrup",
             "1/2 Free Range Chicken (4 Pcs) with Waffle + Syrup",
-            "The Reaper - F(@single_quotes@)d Cajun Chicken Quesadilla"
+            "The Reaper - F'd Cajun Chicken Quesadilla"
         ],
         "review": {
             "delivery_uuid": "54fc260a-3da1-4ee3-b509-24af881f3ff2",
@@ -47734,7 +47734,7 @@
                 "delivery_uuid": "09e6213b-63e7-4b3c-b5a1-81611a868483",
                 "listing_id": "P0111",
                 "item_id": "3000005412071938",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": "Cheesesteaks",
@@ -47807,7 +47807,7 @@
             }
         ],
         "itemNames": [
-            "The Philly Po(@single_quotes@) Boy",
+            "The Philly Po' Boy",
             "The Pizza Steak",
             "Grilled Onion",
             "Side of Onion Rings",
@@ -49245,7 +49245,7 @@
                 "delivery_uuid": "768ea1e2-2c18-4ef6-96e8-ab09f9d64720",
                 "listing_id": "P0111",
                 "item_id": "442f5ecf-94d2-4fb1-a4c3-33aeaabf8230",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -49259,7 +49259,7 @@
         ],
         "itemNames": [
             "The Frito Bandito",
-            "The Philly Po(@single_quotes@) Boy"
+            "The Philly Po' Boy"
         ],
         "review": {
             "delivery_uuid": "768ea1e2-2c18-4ef6-96e8-ab09f9d64720",
@@ -49407,7 +49407,7 @@
                 "delivery_uuid": "6404c19b-88dc-449c-987b-55d55c3a9431",
                 "listing_id": "P0112",
                 "item_id": "27363d61-0d4b-445d-9135-2930f1c424b0",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "14",
                 "item_quantity": 1,
                 "item_category": null,
@@ -49422,7 +49422,7 @@
                 "delivery_uuid": "6404c19b-88dc-449c-987b-55d55c3a9431",
                 "listing_id": "P0112",
                 "item_id": "e36195dd-583e-4999-8a24-447f031e662b",
-                "item_name": "Mac n(@single_quotes@) Cheese Wedges (5 pieces)",
+                "item_name": "Mac n' Cheese Wedges (5 pieces)",
                 "item_price": "6",
                 "item_quantity": 2,
                 "item_category": null,
@@ -49435,8 +49435,8 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Original",
-            "Mac n(@single_quotes@) Cheese Wedges (5 pieces)"
+            "Pop's Original",
+            "Mac n' Cheese Wedges (5 pieces)"
         ],
         "review": {
             "delivery_uuid": "6404c19b-88dc-449c-987b-55d55c3a9431",
@@ -49509,7 +49509,7 @@
                 "delivery_uuid": "c8913396-38c7-44ed-ba09-65617f815e5d",
                 "listing_id": "P0112",
                 "item_id": "e035f06c-f3a3-464f-9ff6-788abb26631b",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "20",
                 "item_quantity": 1,
                 "item_category": null,
@@ -49522,7 +49522,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Combo"
+            "Pop's Combo"
         ],
         "review": {
             "delivery_uuid": "c8913396-38c7-44ed-ba09-65617f815e5d",
@@ -51329,7 +51329,7 @@
                 "delivery_uuid": "ebbc92b4-a519-4331-b48b-eff0963b58bb",
                 "listing_id": "P0183",
                 "item_id": "2f469859-613f-4037-a53e-dda475b2c437",
-                "item_name": "Pop(@single_quotes@)s for 2 Combo",
+                "item_name": "Pop's for 2 Combo",
                 "item_price": "42",
                 "item_quantity": 1,
                 "item_category": null,
@@ -51342,7 +51342,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s for 2 Combo"
+            "Pop's for 2 Combo"
         ],
         "review": {
             "delivery_uuid": "ebbc92b4-a519-4331-b48b-eff0963b58bb",
@@ -53911,7 +53911,7 @@
                 "delivery_uuid": "ffa7a35d-6752-4b65-a9b4-4490c23c8b3e",
                 "listing_id": "P0183",
                 "item_id": "da6f2772-9d9b-4730-96d1-43698bf65be4",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "21",
                 "item_quantity": 1,
                 "item_category": null,
@@ -53924,7 +53924,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Combo"
+            "Pop's Combo"
         ],
         "review": {
             "delivery_uuid": "ffa7a35d-6752-4b65-a9b4-4490c23c8b3e",
@@ -56951,7 +56951,7 @@
                 "item_name": "12 Pcs All Natural Wings",
                 "item_price": "27",
                 "item_quantity": 1,
-                "item_category": "Angel(@single_quotes@)s Wings",
+                "item_category": "Angel's Wings",
                 "voosh_item_id": null,
                 "data_updated_date": "2023-04-07T12:30:00.000Z",
                 "common_id": null,
@@ -56966,7 +56966,7 @@
                 "item_name": "Waffle Fries",
                 "item_price": "5",
                 "item_quantity": 1,
-                "item_category": "Angel(@single_quotes@)s Wings",
+                "item_category": "Angel's Wings",
                 "voosh_item_id": null,
                 "data_updated_date": "2023-04-07T12:30:00.000Z",
                 "common_id": null,
@@ -56987,7 +56987,7 @@
             "customer_id": "15075407",
             "customer_name": "Allan C",
             "restaurant_id": "544328",
-            "order_feedback": "well, the flavors were great, but the wings were really small. i(@single_quotes@)ve ordered from here before, and the wings were a lot larger, than this most recent batch. tasted great, though.\n\ni(@single_quotes@)m a bit disappointed.",
+            "order_feedback": "well, the flavors were great, but the wings were really small. i've ordered from here before, and the wings were a lot larger, than this most recent batch. tasted great, though.\n\ni'm a bit disappointed.",
             "order_ratings": "4",
             "order_tags": null,
             "data_updated_date": "2023-04-04T06:31:21.000Z",
@@ -57768,7 +57768,7 @@
                 "delivery_uuid": "f8420081-d7ab-486e-bba9-718c0c79e788",
                 "listing_id": "P0131",
                 "item_id": "1fab1b34-5c35-4c14-971f-96d6ceea706e",
-                "item_name": "Side of Mac n(@single_quotes@) Cheese Wedges",
+                "item_name": "Side of Mac n' Cheese Wedges",
                 "item_price": "6",
                 "item_quantity": 2,
                 "item_category": null,
@@ -57782,7 +57782,7 @@
         ],
         "itemNames": [
             "The Frito Bandito",
-            "Side of Mac n(@single_quotes@) Cheese Wedges"
+            "Side of Mac n' Cheese Wedges"
         ],
         "review": {
             "delivery_uuid": "f8420081-d7ab-486e-bba9-718c0c79e788",
@@ -57842,7 +57842,7 @@
                 "delivery_uuid": "8ce1d77f-9e31-49f0-a757-9c52d0710e75",
                 "listing_id": "P0131",
                 "item_id": "3ff5e3bf-fbfd-417d-99e5-a7f1e4d091d6",
-                "item_name": "Side of Mac n(@single_quotes@) Cheese Wedges",
+                "item_name": "Side of Mac n' Cheese Wedges",
                 "item_price": "6",
                 "item_quantity": 2,
                 "item_category": null,
@@ -57872,7 +57872,7 @@
         "itemNames": [
             "The Philly ",
             "The Philly ",
-            "Side of Mac n(@single_quotes@) Cheese Wedges",
+            "Side of Mac n' Cheese Wedges",
             "Side of Ranch"
         ],
         "review": {
@@ -58047,7 +58047,7 @@
                 "delivery_uuid": "3ad5f033-01ca-45fe-90ff-6d99b2617e69",
                 "listing_id": "P0131",
                 "item_id": "be9bdaae-a20c-4063-af30-100d034f1841",
-                "item_name": "Side of Mac n(@single_quotes@) Cheese Wedges",
+                "item_name": "Side of Mac n' Cheese Wedges",
                 "item_price": "6",
                 "item_quantity": 1,
                 "item_category": null,
@@ -58061,7 +58061,7 @@
         ],
         "itemNames": [
             "Only Me Combo",
-            "Side of Mac n(@single_quotes@) Cheese Wedges"
+            "Side of Mac n' Cheese Wedges"
         ],
         "review": {
             "delivery_uuid": "3ad5f033-01ca-45fe-90ff-6d99b2617e69",
@@ -58134,7 +58134,7 @@
                 "delivery_uuid": "0bc6d60b-14a9-450e-a089-814c14269904",
                 "listing_id": "P0203",
                 "item_id": "3000005137826270",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": "Meatball Sandwiches",
@@ -58147,7 +58147,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Original"
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "0bc6d60b-14a9-450e-a089-814c14269904",
@@ -58157,7 +58157,7 @@
             "customer_id": "12330651",
             "customer_name": "Yogi S",
             "restaurant_id": "24597972",
-            "order_feedback": "the pop(@single_quotes@)s original was so fire! my new go-to sandwich! thanks pop!!",
+            "order_feedback": "the pop's original was so fire! my new go-to sandwich! thanks pop!!",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2023-02-20T08:20:02.000Z",
@@ -58366,7 +58366,7 @@
             "customer_id": "112149741",
             "customer_name": "Eugene D",
             "restaurant_id": "24589202",
-            "order_feedback": "first time i ordered everything was great but after that my food has been prepared poorly my fries are extremely low for the price i paid i(@single_quotes@)m very dissatisfied with what i received lately",
+            "order_feedback": "first time i ordered everything was great but after that my food has been prepared poorly my fries are extremely low for the price i paid i'm very dissatisfied with what i received lately",
             "order_ratings": "1",
             "order_tags": null,
             "data_updated_date": "2023-02-20T08:22:20.000Z",
@@ -58386,7 +58386,7 @@
                 "delivery_uuid": "9aef5827-5d5f-469e-8027-ac3a4fb81919",
                 "listing_id": "P0271",
                 "item_id": "e53dde48-f459-48d2-a40b-5509ffc832fe",
-                "item_name": "The Wake n(@single_quotes@) Bake Bowl",
+                "item_name": "The Wake n' Bake Bowl",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -58399,7 +58399,7 @@
             }
         ],
         "itemNames": [
-            "The Wake n(@single_quotes@) Bake Bowl"
+            "The Wake n' Bake Bowl"
         ],
         "review": {
             "delivery_uuid": "9aef5827-5d5f-469e-8027-ac3a4fb81919",
@@ -58468,7 +58468,7 @@
             "customer_id": "216083313",
             "customer_name": "John R",
             "restaurant_id": "24614249",
-            "order_feedback": "honestly really good, was surprised because i(@single_quotes@)m picky with my pasta but it was actually great. give this pasta a try!",
+            "order_feedback": "honestly really good, was surprised because i'm picky with my pasta but it was actually great. give this pasta a try!",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2023-02-20T08:12:07.000Z",
@@ -58488,7 +58488,7 @@
                 "delivery_uuid": "5633aa84-7279-4df7-968f-20cb532bc691",
                 "listing_id": "P0102",
                 "item_id": "f5806d72-37c5-4bb8-aa7f-0691ccef132e",
-                "item_name": "The Mac n(@single_quotes@) Meatball",
+                "item_name": "The Mac n' Meatball",
                 "item_price": "17",
                 "item_quantity": 1,
                 "item_category": null,
@@ -58501,7 +58501,7 @@
             }
         ],
         "itemNames": [
-            "The Mac n(@single_quotes@) Meatball"
+            "The Mac n' Meatball"
         ],
         "review": {
             "delivery_uuid": "5633aa84-7279-4df7-968f-20cb532bc691",
@@ -58665,7 +58665,7 @@
                 "delivery_uuid": "5695d8bd-edf1-4eb8-81db-2102ecf77d99",
                 "listing_id": "P0271",
                 "item_id": "3000005491478439",
-                "item_name": "The Wake n(@single_quotes@) Bake Burrito",
+                "item_name": "The Wake n' Bake Burrito",
                 "item_price": "26",
                 "item_quantity": 1,
                 "item_category": "Breakfast Burritos",
@@ -58678,7 +58678,7 @@
             }
         ],
         "itemNames": [
-            "The Wake n(@single_quotes@) Bake Burrito"
+            "The Wake n' Bake Burrito"
         ],
         "review": {
             "delivery_uuid": "5695d8bd-edf1-4eb8-81db-2102ecf77d99",
@@ -58905,7 +58905,7 @@
                 "delivery_uuid": "a5ee0acf-0ea9-4d3e-be83-6f5a084531f3",
                 "listing_id": "P0201",
                 "item_id": "532555ce-2a74-4740-95ef-f852d9276f9d",
-                "item_name": "The Wake n(@single_quotes@) Bake Bowl",
+                "item_name": "The Wake n' Bake Bowl",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -58948,7 +58948,7 @@
             }
         ],
         "itemNames": [
-            "The Wake n(@single_quotes@) Bake Bowl",
+            "The Wake n' Bake Bowl",
             "Side of BBQ Sauce",
             "The Classic Breakfast Bowl"
         ],
@@ -58995,7 +58995,7 @@
                 "delivery_uuid": "c4f3db6a-d216-40d8-bdab-302441a2a899",
                 "listing_id": "P0281",
                 "item_id": "040f14e7-7d28-4f53-8fcd-1e5168ca0455",
-                "item_name": "Let(@single_quotes@)s BBQ - Yakitori (5 skewers)",
+                "item_name": "Let's BBQ - Yakitori (5 skewers)",
                 "item_price": "14",
                 "item_quantity": 1,
                 "item_category": null,
@@ -59009,7 +59009,7 @@
         ],
         "itemNames": [
             "Delicious Roast Beef Tendon (5 skewers)",
-            "Let(@single_quotes@)s BBQ - Yakitori (5 skewers)"
+            "Let's BBQ - Yakitori (5 skewers)"
         ],
         "review": {
             "delivery_uuid": "c4f3db6a-d216-40d8-bdab-302441a2a899",
@@ -59271,7 +59271,7 @@
             "customer_id": "62614456",
             "customer_name": "David D",
             "restaurant_id": "24614289",
-            "order_feedback": "not worth the price. eggs in both the burrito and the bowl were flavorous rubber. so little sausage in the burrito that couldn(@single_quotes@)t even get some in every bite. hasbrowns undercooked. everything was very bland. only positive were the tots were crispy in the bowl.",
+            "order_feedback": "not worth the price. eggs in both the burrito and the bowl were flavorous rubber. so little sausage in the burrito that couldn't even get some in every bite. hasbrowns undercooked. everything was very bland. only positive were the tots were crispy in the bowl.",
             "order_ratings": "2",
             "order_tags": null,
             "data_updated_date": "2023-03-02T07:25:08.000Z",
@@ -59416,7 +59416,7 @@
             "customer_id": "12330651",
             "customer_name": "Yogi S",
             "restaurant_id": "24614249",
-            "order_feedback": "the cavatappi with creamy pesto was delicious! flavorful and all i can say is sheeeeeesh, you gotta try this place. nuff said. its flame sauce f(@single_quotes@)real f(@single_quotes@)real.",
+            "order_feedback": "the cavatappi with creamy pesto was delicious! flavorful and all i can say is sheeeeeesh, you gotta try this place. nuff said. its flame sauce f'real f'real.",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2023-02-20T08:12:07.000Z",
@@ -59568,7 +59568,7 @@
                 "delivery_uuid": "7973d193-45cf-4aa3-9336-72b3a360593c",
                 "listing_id": "P0281",
                 "item_id": "1b5b6ae2-89b9-4ea2-8141-4e36704bf210",
-                "item_name": "Let(@single_quotes@)s BBQ - Yakitori (5 skewers)",
+                "item_name": "Let's BBQ - Yakitori (5 skewers)",
                 "item_price": "3",
                 "item_quantity": 1,
                 "item_category": null,
@@ -59658,7 +59658,7 @@
         "itemNames": [
             "Smoked Roast Beef Tendon (5 Skewers)",
             "Massively Delicious Grilled Chicken Heart Skewers (5 skewers)",
-            "Let(@single_quotes@)s BBQ - Yakitori (5 skewers)",
+            "Let's BBQ - Yakitori (5 skewers)",
             "Unique outdoor Grilled heart meat (5 skewers)\t",
             "Rosy Roast Beef Tendon (5 skewers)",
             "Simple & Traditonal Grilled pork belly (5 skewers)",
@@ -60065,7 +60065,7 @@
             "customer_id": "579217163",
             "customer_name": "Kelly C",
             "restaurant_id": "24614289",
-            "order_feedback": "unfortunately they gave me two of the same tacos. we didn(@single_quotes@)t get our hangover the hangover burrito ",
+            "order_feedback": "unfortunately they gave me two of the same tacos. we didn't get our hangover the hangover burrito ",
             "order_ratings": "2",
             "order_tags": null,
             "data_updated_date": "2023-04-11T06:32:28.000Z",
@@ -60328,7 +60328,7 @@
             "customer_id": "772268935",
             "customer_name": "Thomas H",
             "restaurant_id": "544767",
-            "order_feedback": "the fish and fries were good. i didn(@single_quotes@)t like the tartar sauce that they sent me. it was a bit on the spicy side. could they send me the regular tartar sauce?",
+            "order_feedback": "the fish and fries were good. i didn't like the tartar sauce that they sent me. it was a bit on the spicy side. could they send me the regular tartar sauce?",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2023-04-04T06:34:19.000Z",
@@ -60589,7 +60589,7 @@
                 "delivery_uuid": "07390fb0-2348-43aa-b2ea-29531ac4132c",
                 "listing_id": "P0082",
                 "item_id": "3000005147086349",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": "Meatball Sandwiches",
@@ -60602,7 +60602,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Original"
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "07390fb0-2348-43aa-b2ea-29531ac4132c",
@@ -60612,7 +60612,7 @@
             "customer_id": "84735870",
             "customer_name": "Brian W",
             "restaurant_id": "24056752",
-            "order_feedback": "ordered a pop(@single_quotes@)s original and it should have had tomato sauce and provolone cheese.  sub came plain with some kind of yellow cheese.  not what i ordered at all!",
+            "order_feedback": "ordered a pop's original and it should have had tomato sauce and provolone cheese.  sub came plain with some kind of yellow cheese.  not what i ordered at all!",
             "order_ratings": "1",
             "order_tags": null,
             "data_updated_date": "2023-01-14T01:51:08.000Z",
@@ -61027,7 +61027,7 @@
                 "delivery_uuid": "6cb8dac2-1136-4db6-89a2-cc0f6970d770",
                 "listing_id": "P0293",
                 "item_id": "3000005934103202",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": "Meatball Sandwiches",
@@ -61040,7 +61040,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Original"
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "6cb8dac2-1136-4db6-89a2-cc0f6970d770",
@@ -61208,7 +61208,7 @@
                 "delivery_uuid": "c129d6e5-daf4-4cc3-ac54-c54edef994d8",
                 "listing_id": "P0242",
                 "item_id": "3000005250188460",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": "Cheesesteaks",
@@ -61237,7 +61237,7 @@
         ],
         "itemNames": [
             "The Philly ",
-            "The Philly Po(@single_quotes@) Boy",
+            "The Philly Po' Boy",
             "Remove white American cheese"
         ],
         "review": {
@@ -61268,7 +61268,7 @@
                 "delivery_uuid": "af717b29-4533-4bda-94b5-01f70efdd0d7",
                 "listing_id": "P0203",
                 "item_id": "094d5d81-4d7f-45a7-b97f-ca50ecba3047",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "21",
                 "item_quantity": 1,
                 "item_category": null,
@@ -61296,7 +61296,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Combo",
+            "Pop's Combo",
             "Coca-Cola"
         ],
         "review": {
@@ -61342,7 +61342,7 @@
                 "delivery_uuid": "ed7e5eb4-3b07-4db5-a5a2-6f95acc9ccf1",
                 "listing_id": "P0281",
                 "item_id": "f2cd45d2-6b5a-464a-a04e-2c8f594c16d9",
-                "item_name": "Let(@single_quotes@)s BBQ - Baked buns (2 skewers)",
+                "item_name": "Let's BBQ - Baked buns (2 skewers)",
                 "item_price": "4",
                 "item_quantity": 1,
                 "item_category": null,
@@ -61386,7 +61386,7 @@
         ],
         "itemNames": [
             "Back Yard Grilled lamb skewers (10 skewers)",
-            "Let(@single_quotes@)s BBQ - Baked buns (2 skewers)",
+            "Let's BBQ - Baked buns (2 skewers)",
             "Unique outdoor Grilled thousand-sheet tofu",
             "Surprising Grilled Chicken Skin (2 skewers)"
         ],
@@ -62104,7 +62104,7 @@
                 "delivery_uuid": "270b4630-3d9b-415e-883e-b91601c368a0",
                 "listing_id": "P0242",
                 "item_id": "eadc1602-0a16-4e2a-964d-6e947095f3b1",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -62117,7 +62117,7 @@
             }
         ],
         "itemNames": [
-            "The Philly Po(@single_quotes@) Boy"
+            "The Philly Po' Boy"
         ],
         "review": {
             "delivery_uuid": "270b4630-3d9b-415e-883e-b91601c368a0",
@@ -62133,7 +62133,7 @@
             "data_updated_date": "2023-04-12T06:31:37.000Z",
             "review_reply_created": "2023-04-11T17:48:26.000Z",
             "review_created": "2023-04-11T14:48:25.000Z",
-            "review_reply_comment": "Hey Keya, thank you for the review. I am sorry we let you down. We really hope we can make this up to you and that you give us another chance. Here(@single_quotes@)s $10 on us for your next Cheesesteak Daddy order.",
+            "review_reply_comment": "Hey Keya, thank you for the review. I am sorry we let you down. We really hope we can make this up to you and that you give us another chance. Here's $10 on us for your next Cheesesteak Daddy order.",
             "review_reply_promo_value": "10",
             "review_replied": true,
             "__hevo__database_name": "prod",
@@ -62881,7 +62881,7 @@
             "customer_id": "55c9fa22-b6b7-11e7-83d7-3f8be6a32af9",
             "customer_name": "Judith",
             "restaurant_id": "5536896",
-            "order_feedback": "This is not really chicken marsala. It(@single_quotes@)s a mushrooms sauce on fettuccine, with a salty, dry, grilled chicken breast on the top.  I was duped. Now you know.",
+            "order_feedback": "This is not really chicken marsala. It's a mushrooms sauce on fettuccine, with a salty, dry, grilled chicken breast on the top.  I was duped. Now you know.",
             "order_ratings": "1",
             "order_tags": null,
             "data_updated_date": "2023-03-27T06:39:48.000Z",
@@ -63091,7 +63091,7 @@
             "data_updated_date": "2023-04-13T06:31:54.000Z",
             "review_reply_created": "2023-04-12T20:13:06.000Z",
             "review_created": "2023-04-12T17:13:05.000Z",
-            "review_reply_comment": "Hey Phillip, thank you for the review. I am sorry we let you down. We really hope we can make this up to you and that you give us another chance. Here(@single_quotes@)s $10 on us for your next Cheesesteak Daddy order.",
+            "review_reply_comment": "Hey Phillip, thank you for the review. I am sorry we let you down. We really hope we can make this up to you and that you give us another chance. Here's $10 on us for your next Cheesesteak Daddy order.",
             "review_reply_promo_value": "10",
             "review_replied": true,
             "__hevo__database_name": "prod",
@@ -63105,7 +63105,7 @@
                 "delivery_uuid": "7bc7e08b-a920-4bc4-81bb-f8ad388eebbc",
                 "listing_id": "P0273",
                 "item_id": "ff0367a7-9afe-41a1-9df7-ae8a053b2f6a",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "21",
                 "item_quantity": 1,
                 "item_category": null,
@@ -63118,7 +63118,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Combo"
+            "Pop's Combo"
         ],
         "review": {
             "delivery_uuid": "7bc7e08b-a920-4bc4-81bb-f8ad388eebbc",
@@ -63454,7 +63454,7 @@
                 "delivery_uuid": "93de393f-d149-4e3e-8cc9-0ac39e26ba71",
                 "listing_id": "P0281",
                 "item_id": "5d6f7710-e367-4d20-a103-21d48a346320",
-                "item_name": "Let(@single_quotes@)s BBQ - toast (2 skewers)",
+                "item_name": "Let's BBQ - toast (2 skewers)",
                 "item_price": "2",
                 "item_quantity": 1,
                 "item_category": null,
@@ -63467,7 +63467,7 @@
             }
         ],
         "itemNames": [
-            "Let(@single_quotes@)s BBQ - toast (2 skewers)"
+            "Let's BBQ - toast (2 skewers)"
         ],
         "review": {
             "delivery_uuid": "93de393f-d149-4e3e-8cc9-0ac39e26ba71",
@@ -63792,7 +63792,7 @@
                 "delivery_uuid": "b3dc4628-d53c-4da4-acdf-1361191ab7f0",
                 "listing_id": "P0082",
                 "item_id": "acc5c918-da4d-469f-8666-9b762c29e9d4",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "21",
                 "item_quantity": 1,
                 "item_category": null,
@@ -63805,7 +63805,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Combo"
+            "Pop's Combo"
         ],
         "review": {
             "delivery_uuid": "b3dc4628-d53c-4da4-acdf-1361191ab7f0",
@@ -64223,7 +64223,7 @@
             "customer_id": "344310300",
             "customer_name": "Taylor G",
             "restaurant_id": "24614249",
-            "order_feedback": "the food was horrible!!! do not do it!!! the pasta wasn(@single_quotes@)t drained and it was watery and a 5 year old could have made that!",
+            "order_feedback": "the food was horrible!!! do not do it!!! the pasta wasn't drained and it was watery and a 5 year old could have made that!",
             "order_ratings": "1",
             "order_tags": null,
             "data_updated_date": "2023-02-27T07:24:53.000Z",
@@ -64243,7 +64243,7 @@
                 "delivery_uuid": "e1ab989c-5aa6-4f81-8f46-e10a067a536d",
                 "listing_id": "P0233",
                 "item_id": "1c89b8af-dbce-47da-9c49-f4d9c9f0b7d3",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -64271,7 +64271,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Original",
+            "Pop's Original",
             "Frings (half fries, half onion rings)"
         ],
         "review": {
@@ -64971,7 +64971,7 @@
                 "delivery_uuid": "626b066e-61c5-4635-b696-436fe590f568",
                 "listing_id": "P0281",
                 "item_id": "e7138b0e-b8e2-40ea-a787-cb9653c0b069",
-                "item_name": "Let(@single_quotes@)s BBQ - Three fresh dumplings (12pcs)",
+                "item_name": "Let's BBQ - Three fresh dumplings (12pcs)",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -64999,7 +64999,7 @@
             }
         ],
         "itemNames": [
-            "Let(@single_quotes@)s BBQ - Three fresh dumplings (12pcs)",
+            "Let's BBQ - Three fresh dumplings (12pcs)",
             "Simple & Traditonal Grilled pork belly (5 skewers)"
         ],
         "review": {
@@ -65446,7 +65446,7 @@
                 "delivery_uuid": "af63758a-d30f-4490-bfa8-895d0218d7e5",
                 "listing_id": "P0203",
                 "item_id": "339a201d-d385-46b1-84cf-0b48ed172e8f",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -65460,7 +65460,7 @@
         ],
         "itemNames": [
             "The Frenchy Meatball",
-            "Pop(@single_quotes@)s Original"
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "af63758a-d30f-4490-bfa8-895d0218d7e5",
@@ -65490,7 +65490,7 @@
                 "delivery_uuid": "2638d7f8-2d00-4180-a7b8-4187e9378caa",
                 "listing_id": "P0072",
                 "item_id": "88b19860-06d1-4747-8e5a-fd9784b6be4a",
-                "item_name": "Pop(@single_quotes@)s for 2 Combo",
+                "item_name": "Pop's for 2 Combo",
                 "item_price": "42",
                 "item_quantity": 1,
                 "item_category": null,
@@ -65503,7 +65503,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s for 2 Combo"
+            "Pop's for 2 Combo"
         ],
         "review": {
             "delivery_uuid": "2638d7f8-2d00-4180-a7b8-4187e9378caa",
@@ -65956,7 +65956,7 @@
                 "delivery_uuid": "6f829676-4c9b-4598-a5f5-a349456f5cd2",
                 "listing_id": "P0142",
                 "item_id": "f7305678-3b94-4111-8390-4d0bec964ddc",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -65970,7 +65970,7 @@
         ],
         "itemNames": [
             "Side of Ranch",
-            "Pop(@single_quotes@)s Original"
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "6f829676-4c9b-4598-a5f5-a349456f5cd2",
@@ -65986,7 +65986,7 @@
             "data_updated_date": "2023-04-15T06:31:20.000Z",
             "review_reply_created": "2023-04-14T10:48:55.000Z",
             "review_created": "2023-04-14T07:48:54.000Z",
-            "review_reply_comment": "Hey Wendy, thank you for the review! We really hope to give you a 5 Star Experience next time! Here(@single_quotes@)s $5 on us for your next Pop(@single_quotes@)s Meatball Sandwich order. Thanks again!\n",
+            "review_reply_comment": "Hey Wendy, thank you for the review! We really hope to give you a 5 Star Experience next time! Here's $5 on us for your next Pop's Meatball Sandwich order. Thanks again!\n",
             "review_reply_promo_value": "5",
             "review_replied": true,
             "__hevo__database_name": "prod",
@@ -66189,7 +66189,7 @@
             "customer_id": "1133159687",
             "customer_name": "Hannah  M",
             "restaurant_id": "24732568",
-            "order_feedback": "forgot my cream cheese and the oj spilled all over everything so can(@single_quotes@)t even eat it. ",
+            "order_feedback": "forgot my cream cheese and the oj spilled all over everything so can't even eat it. ",
             "order_ratings": "1",
             "order_tags": null,
             "data_updated_date": "2023-03-22T07:19:16.000Z",
@@ -66969,7 +66969,7 @@
                 "delivery_uuid": "00d74ce6-4beb-4347-b87d-1c568c77e547",
                 "listing_id": "P0021",
                 "item_id": "171a1a25-d1b6-4d42-8d2b-1e9db1b5ead0",
-                "item_name": "Side of Mac n(@single_quotes@) Cheese Wedges",
+                "item_name": "Side of Mac n' Cheese Wedges",
                 "item_price": "6",
                 "item_quantity": 2,
                 "item_category": null,
@@ -67012,7 +67012,7 @@
             }
         ],
         "itemNames": [
-            "Side of Mac n(@single_quotes@) Cheese Wedges",
+            "Side of Mac n' Cheese Wedges",
             "Coca-Cola",
             "The Frito Bandito"
         ],
@@ -67044,7 +67044,7 @@
                 "delivery_uuid": "4d3c7248-0986-45ff-9dac-b79baddc955f",
                 "listing_id": "P0201",
                 "item_id": "3000005148105211",
-                "item_name": "The Wake n(@single_quotes@) Bake Burrito",
+                "item_name": "The Wake n' Bake Burrito",
                 "item_price": "18",
                 "item_quantity": 1,
                 "item_category": "Breakfast Burritos",
@@ -67072,7 +67072,7 @@
             }
         ],
         "itemNames": [
-            "The Wake n(@single_quotes@) Bake Burrito",
+            "The Wake n' Bake Burrito",
             "Side of Bacon (2 Pieces)"
         ],
         "review": {
@@ -67083,7 +67083,7 @@
             "customer_id": "86901641",
             "customer_name": "Jake S",
             "restaurant_id": "24597649",
-            "order_feedback": "food was really tasty!! i had the wake n(@single_quotes@) bake burrito - onions were really flavorful",
+            "order_feedback": "food was really tasty!! i had the wake n' bake burrito - onions were really flavorful",
             "order_ratings": "5",
             "order_tags": null,
             "data_updated_date": "2023-02-20T08:14:34.000Z",
@@ -67365,7 +67365,7 @@
                 "delivery_uuid": "8c5573a5-8f33-4bdf-a63e-dc70ebb585d8",
                 "listing_id": "P0012",
                 "item_id": "ff2db7b9-99b8-4c16-906b-ab68c6f3007c",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -67379,7 +67379,7 @@
         ],
         "itemNames": [
             "Side of Ranch",
-            "Pop(@single_quotes@)s Original"
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "8c5573a5-8f33-4bdf-a63e-dc70ebb585d8",
@@ -67452,7 +67452,7 @@
                 "delivery_uuid": "5a5c7f5b-46f5-4d7e-aecc-7850c098fdba",
                 "listing_id": "P0021",
                 "item_id": "d1229ede-3c00-44e2-bdde-defb7c32a994",
-                "item_name": "Mac n(@single_quotes@) Cheese Wedges (5 pieces)",
+                "item_name": "Mac n' Cheese Wedges (5 pieces)",
                 "item_price": "6",
                 "item_quantity": 2,
                 "item_category": null,
@@ -67480,7 +67480,7 @@
             }
         ],
         "itemNames": [
-            "Mac n(@single_quotes@) Cheese Wedges (5 pieces)",
+            "Mac n' Cheese Wedges (5 pieces)",
             "The Philly"
         ],
         "review": {
@@ -67511,7 +67511,7 @@
                 "delivery_uuid": "96bb3b3e-1799-4d05-b243-c0a5c81cfe0a",
                 "listing_id": "P0032",
                 "item_id": "0cffc003-2f97-418a-bc49-085b8664501d",
-                "item_name": "Pop(@single_quotes@)s for 2 Combo",
+                "item_name": "Pop's for 2 Combo",
                 "item_price": "40",
                 "item_quantity": 1,
                 "item_category": null,
@@ -67524,7 +67524,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s for 2 Combo"
+            "Pop's for 2 Combo"
         ],
         "review": {
             "delivery_uuid": "96bb3b3e-1799-4d05-b243-c0a5c81cfe0a",
@@ -67554,7 +67554,7 @@
                 "delivery_uuid": "e7df7b04-b842-4d4c-855f-e1f267c6c76d",
                 "listing_id": "P0042",
                 "item_id": "a03c3b0a-098b-4a3b-9c33-9e750ee526b6",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -67569,7 +67569,7 @@
                 "delivery_uuid": "e7df7b04-b842-4d4c-855f-e1f267c6c76d",
                 "listing_id": "P0042",
                 "item_id": "9ec51d35-41fe-4db3-961e-aeb9f9c4dbe7",
-                "item_name": "Pop(@single_quotes@)s for 2 Combo",
+                "item_name": "Pop's for 2 Combo",
                 "item_price": "40",
                 "item_quantity": 1,
                 "item_category": null,
@@ -67582,8 +67582,8 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Original",
-            "Pop(@single_quotes@)s for 2 Combo"
+            "Pop's Original",
+            "Pop's for 2 Combo"
         ],
         "review": {
             "delivery_uuid": "e7df7b04-b842-4d4c-855f-e1f267c6c76d",
@@ -67613,7 +67613,7 @@
                 "delivery_uuid": "48b0d84d-e4ab-4b1c-9ca8-576bd21b064d",
                 "listing_id": "P0132",
                 "item_id": "d9ecffae-9aa0-47ad-bcef-7452adf6206d",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -67626,7 +67626,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Original"
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "48b0d84d-e4ab-4b1c-9ca8-576bd21b064d",
@@ -67714,7 +67714,7 @@
                 "delivery_uuid": "bd3064b5-bde2-4b4f-af45-66d70fab0d7b",
                 "listing_id": "P0082",
                 "item_id": "db9531a9-757d-4ff7-aa32-e1b78126c71c",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "20",
                 "item_quantity": 1,
                 "item_category": null,
@@ -67728,7 +67728,7 @@
         ],
         "itemNames": [
             "Side of Onion Rings",
-            "Pop(@single_quotes@)s Combo"
+            "Pop's Combo"
         ],
         "review": {
             "delivery_uuid": "bd3064b5-bde2-4b4f-af45-66d70fab0d7b",
@@ -67826,7 +67826,7 @@
                 "delivery_uuid": "ff852b71-97dc-4b1f-a115-06d8afc9cada",
                 "listing_id": "P0142",
                 "item_id": "588472c3-5416-4830-8db2-011c27b37899",
-                "item_name": "Side of Mac n(@single_quotes@) Cheese Wedges",
+                "item_name": "Side of Mac n' Cheese Wedges",
                 "item_price": "6",
                 "item_quantity": 1,
                 "item_category": null,
@@ -67871,7 +67871,7 @@
                 "delivery_uuid": "ff852b71-97dc-4b1f-a115-06d8afc9cada",
                 "listing_id": "P0142",
                 "item_id": "e9243930-5e8b-475f-a254-18adce2e61ef",
-                "item_name": "The Mac n(@single_quotes@) Meatball",
+                "item_name": "The Mac n' Meatball",
                 "item_price": "17",
                 "item_quantity": 1,
                 "item_category": null,
@@ -67884,10 +67884,10 @@
             }
         ],
         "itemNames": [
-            "Side of Mac n(@single_quotes@) Cheese Wedges",
+            "Side of Mac n' Cheese Wedges",
             "Side of BBQ Sauce",
             "Cookie",
-            "The Mac n(@single_quotes@) Meatball"
+            "The Mac n' Meatball"
         ],
         "review": {
             "delivery_uuid": "ff852b71-97dc-4b1f-a115-06d8afc9cada",
@@ -67960,7 +67960,7 @@
                 "delivery_uuid": "8041265d-db98-4cae-96e0-245ae4916130",
                 "listing_id": "P0042",
                 "item_id": "ce3416f5-6272-40d3-9180-c3f60e4925be",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "20",
                 "item_quantity": 1,
                 "item_category": null,
@@ -67973,7 +67973,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Combo"
+            "Pop's Combo"
         ],
         "review": {
             "delivery_uuid": "8041265d-db98-4cae-96e0-245ae4916130",
@@ -68003,7 +68003,7 @@
                 "delivery_uuid": "71f16aea-3658-4898-9858-10b6e4b1121f",
                 "listing_id": "P0142",
                 "item_id": "0320764d-4b1d-4bed-b994-98b9409d07ca",
-                "item_name": "The Mac n(@single_quotes@) Meatball",
+                "item_name": "The Mac n' Meatball",
                 "item_price": "17",
                 "item_quantity": 1,
                 "item_category": null,
@@ -68018,7 +68018,7 @@
                 "delivery_uuid": "71f16aea-3658-4898-9858-10b6e4b1121f",
                 "listing_id": "P0142",
                 "item_id": "2343e112-e2b7-4949-8f5f-98cfccb4f0a3",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -68031,8 +68031,8 @@
             }
         ],
         "itemNames": [
-            "The Mac n(@single_quotes@) Meatball",
-            "Pop(@single_quotes@)s Original"
+            "The Mac n' Meatball",
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "71f16aea-3658-4898-9858-10b6e4b1121f",
@@ -68077,7 +68077,7 @@
                 "delivery_uuid": "7c7b1ce8-02c2-4d8b-a25b-290c065a5eea",
                 "listing_id": "P0122",
                 "item_id": "2cff6be5-5852-413e-bc24-ee85e5a469b0",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -68121,7 +68121,7 @@
         ],
         "itemNames": [
             "Side of Onion Rings",
-            "Pop(@single_quotes@)s Original",
+            "Pop's Original",
             "Cookie",
             "Diet Coke"
         ],
@@ -68153,7 +68153,7 @@
                 "delivery_uuid": "267463e7-765d-40cc-a06d-a7f807e9142d",
                 "listing_id": "P0082",
                 "item_id": "5c7a4074-3bbe-4d0e-a565-9eb4ea47e8ef",
-                "item_name": "Pop(@single_quotes@)s for 2 Combo",
+                "item_name": "Pop's for 2 Combo",
                 "item_price": "40",
                 "item_quantity": 1,
                 "item_category": null,
@@ -68166,7 +68166,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s for 2 Combo"
+            "Pop's for 2 Combo"
         ],
         "review": {
             "delivery_uuid": "267463e7-765d-40cc-a06d-a7f807e9142d",
@@ -68264,7 +68264,7 @@
                 "delivery_uuid": "f5cf4a8d-800b-4fd8-9ae9-057772ac0159",
                 "listing_id": "P0142",
                 "item_id": "3cd8dd5f-d60d-4282-8dba-7031e7f77cb6",
-                "item_name": "Mac n(@single_quotes@) Cheese Wedges (5 pieces)",
+                "item_name": "Mac n' Cheese Wedges (5 pieces)",
                 "item_price": "6",
                 "item_quantity": 1,
                 "item_category": null,
@@ -68279,7 +68279,7 @@
                 "delivery_uuid": "f5cf4a8d-800b-4fd8-9ae9-057772ac0159",
                 "listing_id": "P0142",
                 "item_id": "e03dcdd3-516f-4a1a-903d-2fa72cf73713",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "14",
                 "item_quantity": 1,
                 "item_category": null,
@@ -68292,8 +68292,8 @@
             }
         ],
         "itemNames": [
-            "Mac n(@single_quotes@) Cheese Wedges (5 pieces)",
-            "Pop(@single_quotes@)s Original"
+            "Mac n' Cheese Wedges (5 pieces)",
+            "Pop's Original"
         ],
         "review": {
             "delivery_uuid": "f5cf4a8d-800b-4fd8-9ae9-057772ac0159",
@@ -68323,7 +68323,7 @@
                 "delivery_uuid": "b1a736cb-f422-4c72-9e09-aa0be967952a",
                 "listing_id": "P0022",
                 "item_id": "31f61e03-85ae-4b62-be21-3841a0f7f876",
-                "item_name": "Pop(@single_quotes@)s Combo",
+                "item_name": "Pop's Combo",
                 "item_price": "20",
                 "item_quantity": 1,
                 "item_category": null,
@@ -68336,7 +68336,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Combo"
+            "Pop's Combo"
         ],
         "review": {
             "delivery_uuid": "b1a736cb-f422-4c72-9e09-aa0be967952a",
@@ -68424,7 +68424,7 @@
                 "delivery_uuid": "a73d0f03-f749-4c81-ab2d-81f7c21075ee",
                 "listing_id": "P0051",
                 "item_id": "ee6d3945-ca24-4416-82f2-656fcc8815c3",
-                "item_name": "Side of Mac n(@single_quotes@) Cheese Wedges",
+                "item_name": "Side of Mac n' Cheese Wedges",
                 "item_price": "6",
                 "item_quantity": 1,
                 "item_category": null,
@@ -68453,7 +68453,7 @@
         ],
         "itemNames": [
             "The Philly ",
-            "Side of Mac n(@single_quotes@) Cheese Wedges",
+            "Side of Mac n' Cheese Wedges",
             "The Cheesehead"
         ],
         "review": {
@@ -68979,7 +68979,7 @@
             "customer_id": "55723890",
             "customer_name": "Keitha B",
             "restaurant_id": "24474075",
-            "order_feedback": "didn(@single_quotes@)t get the right order",
+            "order_feedback": "didn't get the right order",
             "order_ratings": "1",
             "order_tags": null,
             "data_updated_date": "2023-01-09T01:55:09.000Z",
@@ -69348,7 +69348,7 @@
                 "delivery_uuid": "aa4c5ddf-c8a2-4df8-9abe-e36b84a38f62",
                 "listing_id": "P0051",
                 "item_id": "ff8acabd-dde0-4062-a3ef-fdf37613f9ce",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -69376,7 +69376,7 @@
             }
         ],
         "itemNames": [
-            "The Philly Po(@single_quotes@) Boy",
+            "The Philly Po' Boy",
             "Sprite"
         ],
         "review": {
@@ -70345,7 +70345,7 @@
                 "delivery_uuid": "5a7b780d-d4da-4782-ae54-493a726acbf6",
                 "listing_id": "P0253",
                 "item_id": "71117b23-18f4-4769-b146-45ec35d23e1f",
-                "item_name": "Pop(@single_quotes@)s Original",
+                "item_name": "Pop's Original",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -70373,7 +70373,7 @@
             }
         ],
         "itemNames": [
-            "Pop(@single_quotes@)s Original",
+            "Pop's Original",
             "The Frenchy Meatball"
         ],
         "review": {
@@ -72369,7 +72369,7 @@
                 "delivery_uuid": "220687bf-416b-465f-a424-ce880e2c28ed",
                 "listing_id": "P0051",
                 "item_id": "65158f3e-b1a5-48cf-b0ab-aafe0acdeaa2",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -72382,7 +72382,7 @@
             }
         ],
         "itemNames": [
-            "The Philly Po(@single_quotes@) Boy"
+            "The Philly Po' Boy"
         ],
         "review": {
             "delivery_uuid": "220687bf-416b-465f-a424-ce880e2c28ed",
@@ -72679,7 +72679,7 @@
                 "delivery_uuid": "d92aa631-a5cd-400c-ac34-c7f14b923a08",
                 "listing_id": "P0051",
                 "item_id": "9281d98c-8604-43ca-98f2-b5e8fbfdd6ab",
-                "item_name": "The Philly Po(@single_quotes@) Boy",
+                "item_name": "The Philly Po' Boy",
                 "item_price": "15",
                 "item_quantity": 1,
                 "item_category": null,
@@ -72693,7 +72693,7 @@
         ],
         "itemNames": [
             "The Philly ",
-            "The Philly Po(@single_quotes@) Boy"
+            "The Philly Po' Boy"
         ],
         "review": {
             "delivery_uuid": "d92aa631-a5cd-400c-ac34-c7f14b923a08",
