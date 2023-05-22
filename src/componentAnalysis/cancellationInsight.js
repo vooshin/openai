@@ -1,6 +1,6 @@
 const { getOpenAIResponse } = require("../openai/fetchResponse");
 
-const PROMPT_CANCELATION = `Consider you are expert in  statistical analysis, you are provide with cancelled data of orders for multiple restaurants. you are asked to provide a statistical analysis for the cancelled data it also contain date wise cancelled orders, the response should be of 30 words or less and provide a statistical explanation for the cancelled data to restaurant owner/ manager, and don't add text like further details/ analysis required.`;
+const PROMPT_CANCELATION = `You are expert in statistical analysis, you are provided with cancelled data of orders for multiple restaurants. you are asked to provide a statistical analysis for the cancelled data it also contain date wise cancelled orders, the response should be of 30 words or less and provide a statistical explanation for the cancelled data to restaurant owner/ manager, and don't add text like further details/ analysis required.`;
 
 // const PROMPT_CANCELATION = `Consider you are expert in  statistical analysis, you are provide with cancelled data of orders for multiple restaurants. you are asked to provide a statistical analysis for the cancelled data, for cancelled orders, provide a list of reasons why the order is cancelled, and also check how many times same reason is repeated. the response should be of 30 words or less. make it like i am asking you to provide a report on the cancelled data and im restaurant owner.
 // `;
