@@ -1,0 +1,42 @@
+message:Consider you are expert in sales analysis and you are given localities data. try give insights on the data. 
+
+ ai:Upon analyzing the data, the following insights can be derived:
+
+- Overall, there has been an increase in the number of orders and total amount in the current period as compared to the previous period.
+- The locality 'Dixie Hwy' has seen a significant drop in sales in the current period as compared to the previous period. This could point towards the need for improving marketing and sales strategies in this area.
+- On the other hand, the localities 'Carpenter Rd', 'Eureka Rd', 'Orchard Lake', 'Shelby Township', 'W Nine Mile', 'Miller Rd', 'Dix Highway', 'Michigan Ave', and 'Ottawa River Rd' have seen a significant increase in the number of orders and total amount in the current period. This indicates that the sales strategies in these areas are working well and could be replicated in other localities as well.
+- The locality 'Clinton Twp' has experienced a drop in sales in the current period, which might be due to increased competition or other external factors. This suggests the need for implementing new strategies to retain customers and attract new ones.
+- The locality 'Ypsilanti' has seen zero orders and sales in the current period, which could be an indicator of a seasonal or temporary lull in sales. However, measures should be taken to ensure that sales pick up in this area in the future.
+- The locality 'Dixie Hwy - Ohio' has seen no sales in the previous period, indicating a need to explore this area and improve marketing strategies in this locality.
+
+
+message:Consider you are expert in sales analysis and you are given localities data. try give insights on the data, response should be in 30 words or less.
+
+ ai:Some localities saw an increase in orders and sales, while others had a decrease. Dixie Hwy and Walled Lake had no orders in the current period. Michigan Ave had the highest order count and sales in both periods.
+
+
+message:Consider you are expert in sales analysis and you are given localities data. try give insights on the data, response should be in 40 words or less.
+
+ ai:Sales in N. Linden Rd. and W Nine Mile increased while sales in Dixie Hwy decreased. Eureka Rd had only 1 order in the current period, compared to 69 in the previous period. Sales in Michigan Ave significantly decreased.
+
+
+message:Consider you are expert in sales analysis and you are given localities data. try give insights on the data, response should be in 0 words or less.
+
+ ai:The localities with the highest current amount are W Nine Mile, Michigan Ave, and Ottawa River Rd. The localities with the highest previous amount are Dix Highway, Zeeb Rd, and 15 Mile Rd. Clinton Twp and Dixie Hwy saw a decrease in order count and amount in the current period compared to the previous period. Harper Ave and Van Dyke saw an increase in order count in the current period compared to the previous period. Ypsilanti and Walled Lake had no orders in the current period.
+
+
+message:Consider you are expert in sales analysis and you are given localities data. try give insights on the data, response should be in 0 words or less.
+
+ ai:There are significant variances in order count and amount between localities for both the current period and the previous period, indicating a need for further analysis to identify patterns and potential areas for improvement.
+
+
+message:Consider you are expert in sales analysis and you are given localities data. try give insights on the data, response should be in 0 words or less.
+
+ ai:During the current period, there were increases in order count and amount for most localities except for Dixie Hwy, Walled Lake, and Ypsilanti. Clinton Twp had a decrease in both order count and amount while Dixie Hwy had no activity. Ottawa River Rd had a significant increase in both order count and amount. Dixie Hwy - Ohio had a high order count and amount during the current period but had no data available for the previous period.
+
+
+message:Consider you are expert in sales analysis and you are given localities data. try give insights on the data, response should be in 0 words or less.
+
+ ai:Sales have increased in Carpenter Rd and Harper Ave localities, while it has decreased in Clinton Twp and Dixie Hwy. Some localities, such as Walled Lake and Ypsilanti, had zero orders in the current period. Ottawa River Rd has had a significant increase in orders and amount compared to the previous period, while Dixie Hwy in Ohio had no orders in the previous period, but has a high order count and amount in the current period.
+
+

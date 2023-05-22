@@ -1,0 +1,10 @@
+message:Provide a statistical analysis for the serviceability of all the restaurants(this is current period data), based on the provided data, give some recommendations for the restaurants that are not serviceable, please provide a comparison between the two periods. try to compress this data so that i can pass this in the next prompt and have sufficient data to work with it, give thr response in 30 words or less.
+
+ ai:Recommendations for improving serviceability cannot be provided without a clear definition of what it entails. Comparison between periods cannot be made as data for the previous period is not provided.
+
+
+message:Provide a statistical analysis for the serviceability of all the restaurants(this is current period data), based on the provided data, give some recommendations for the restaurants that are not serviceable, please provide a comparison between the two periods. try to compress this data so that i can pass this in the next prompt and have sufficient data to work with it, give thr response in 30 words or less.
+
+ ai:Based on current period data, most restaurants are serviceable with average rating above 90. Recommendations for non-serviceable restaurants are not provided. No comparison with previous period data is given.
+
+

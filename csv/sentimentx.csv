@@ -1,0 +1,132 @@
+"review","sentiment positive","sentiment negative","sentiment neutral","sentiment isPositive","sentiment isNegative","sentiment isNeutral","Quality Issue","Quantity Issue","Taste Issue","Packaging Issue","Delivery Timing Issue","Price Issue","Cooking Issue","Freshness Issue","Staleness Issue","Hardness Issue","Spice Issue","Temperature Issue","Wrong Food Issue","Hygiene Issue","Missing Food Issue","Oiliness Issue","Out of Stock Issue","Foreign Object Issue"
+"don(@single_quotes@)t pay for anything extra like extra cheese or toppings cause they won(@single_quotes@)t add it to your food.",0,0.5,0.5,false,true,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+"cheesesteaks were good, but would have preferred plain bread instead of buttered bread. there was confusion with the order and computer system so took much longer than expected. ",0.2,0.4,0.4,false,true,false,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0
+"the sandwich was delicious, but the french fries were terribly under cooked. they were white and raw. for 4.99 for fries, they should at least be cooked properly. it ruined what would(@single_quotes@)ve been a perfect lunch",0.2,0.8,0,false,true,false,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0
+"i didn(@single_quotes@)t get my food i didn(@single_quotes@)t even get the right restaurant ",0,0.8,0.2,false,true,false,0,0,0,0,100,0,0,0,0,0,0,0,100,0,0,0,0,0
+"ordered the philly. sore said never received  order.  had to cme back to get. food was not great. this is not a grilled cheesesteak.the bread is toated  but the meat tasted like its in a heating station waiting in liquid until they are ready to assemble the sandwich. wont order again. ",0,0.8,0.2,false,true,false,100,0,100,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0
+"way to salty! waaayy to salty and the fries are plain. they tasted like mcdonald(@single_quotes@)s fries with no salt left over night. ",0.1,0.9,0,false,true,false,50,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"nothing was right and got no refund",0,1,0,false,true,false,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"siklovin was very upset he said the sandwaich was bland. ",0,0.8,0.2,false,true,false,100,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"food was horrible sandwitch was ashes and my fries was frozen ",0,1,0,false,true,false,100,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"sent the wrong order and doordash now takes 24 hours to even fix it this is a complete joke
+",0,1,0,false,true,false,0,0,0,0,100,0,0,0,0,0,0,0,100,0,0,0,0,0
+"it was too salty never will order from this place again",0,1,0,false,true,false,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"frito bandito and cheesesteak daddy were terrible ",0,1,0,false,true,false,100,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"will not again order from here.  the phili was so salty i couldn(@single_quotes@)t eat it.  i ordered double the meat, which the meat was so dried out.  there are better cheese steaks at gas stations.  i also ordered a coke, which ended up being a $3 can of coke.  an absolute waste of money!!!",0,0.9,0.1,false,true,false,100,100,100,0,0,100,0,0,100,0,0,0,0,0,0,0,0,0
+"coulda been cheesier",0,0.6,0.4,false,true,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"order was wrong, $60 but $13 refund. garbage. save y money.",0,0.6,0.4,false,true,false,0,0,0,0,0,100,0,0,0,0,0,0,100,0,0,0,0,0
+"wants expecting it to be so spicy. it was good but to spicy for me ",0.2,0.5,0.3,false,true,false,0,0,50,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0
+"dry as heck not seasoned enough bland ",0,0.8,0.2,false,true,false,100,0,100,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0
+"more onions than meat. fixings fell out of bottom of bun when picked up. not worth the price.",0,0.75,0.25,false,true,false,0,100,0,100,0,100,0,0,0,0,0,0,0,0,0,0,0,0
+"they made the wrong sandwich no lettuce no tomatoe no extra cheese.. and wayyyyy to much garlic",0,0.8,0.2,false,true,false,100,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0
+"overall the sandwich was good. the only issue i had with the sandwich was the spring lettuce salad that was placed on top of it. it made the sandwich hard to eat . i suggest chopping up your greens a little.",0.2,0.5,0.3,false,true,false,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0
+"ordered a pop(@single_quotes@)s original and it should have had tomato sauce and provolone cheese.  sub came plain with some kind of yellow cheese.  not what i ordered at all!",0,0.8,0.2,false,true,false,100,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0
+"the sandwich had half meet for some reason. very disappointed and the fries were bot cooked properly either ",0,0.8,0.2,false,true,false,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"if i can rate a 0 i would don(@single_quotes@)t order this bro ",0,1,0,false,true,false,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0
+"half of the order was wrong, and the food was terrible ",0,0.8,0.2,false,true,false,100,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"i ordered a brownie and cheese sauce and didn(@single_quotes@)t get either",0,1,0,false,true,false,0,0,0,0,100,0,0,0,0,0,0,0,0,0,100,0,0,0
+"hair in my food, too much onions",0,0.8,0.2,false,true,false,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,100
+"chicken was nasty and meal for the price was tiny!",0,0.9,0.1,false,true,false,100,100,100,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0
+"the spaghetti was broken down to vermicelli length! sauce is subpar. ",0,0.8,0.2,false,true,false,100,0,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"all i recieved were chciken wings",0,0.6,0.4,false,true,false,0,100,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+"mostly egg. barely any sauce. bland sausage",0,0.8,0.2,false,true,false,50,0,70,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0
+"the sheesehead had no cheese and extra things were added that were not listed as included toppings. what a shame",0,0.8,0.2,false,true,false,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100
+"ordered two wake n bake burritos, did not come with ground beef like listed, what(@single_quotes@)s going on??",0,0.6,0.4,false,true,false,0,100,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0
+"food was really bad and i got it late , really just not worth the money was probably the worst meatball sub ive ever had",0,1,0,false,true,false,100,0,100,0,100,100,0,0,0,0,0,0,0,0,0,0,0,0
+"Only a few meatballs and little sauce. The second time was not as good as the first  ",0,0.8,0.2,false,true,false,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"everything was cold :( we threw everything out wont be back again ",0,1,0,false,true,false,100,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0
+"food was dry over cook ",0,0.7,0.3,false,true,false,100,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0
+"Order never arrived! ",0,1,0,false,true,false,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ordered a combo with mac and cheese wedges didn(@single_quotes@)t get them. also order took so long the bread was hard and cold. sad I was really looking forward to trying here. , was also missing a item ",0,0.8,0.2,false,true,false,0,0,0,0,100,0,0,0,0,100,0,0,0,0,100,0,0,0
+"   everything inside of the burrito tasted stale or rotten. i couldn(@single_quotes@)t even finish the first bite",0,1,0,false,true,false,100,0,100,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0
+"I wasn(@single_quotes@)t given the correct meal. I order a $17.35 bowl not a 9.99 burrito.  ",0,0.8,0.2,false,true,false,0,100,0,0,0,100,0,0,0,0,0,0,100,0,0,0,0,0
+"no buffalo sauce. definitely no double bacon. eggs didn(@single_quotes@)t taste great.",0,0.7,0.3,false,true,false,50,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"the food was horrible!!! do not do it!!! the pasta wasn(@single_quotes@)t drained and it was watery and a 5 year old could have made that!",0,1,0,false,true,false,100,0,100,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0
+"i received the wrong item. the item i received was terrible. the side of cheese sauce was canned nacho cheese. i would not recommend.",0,1,0,false,true,false,100,0,100,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0
+"just not what i thought it would look like or taste like.",0,0.6,0.4,false,true,false,50,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Horrible food I couldn(@single_quotes@)t even eat my sandwich it tasted like a dirty grill",0,1,0,false,true,false,100,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"would never order again. the food tasted okay, but not worth the amount money at all. there was also a plastic bread tie in the burrito.",0,0.7,0.3,false,true,false,50,0,50,0,0,100,0,0,0,0,0,0,0,0,0,0,0,100
+"the fettuccine alfredo cost almost $20 and was the size of a lean cuisine. it was tiny.  ",0,0.8,0.2,false,true,false,0,100,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0
+"disappointed. no cheese on the sandwich and i didn(@single_quotes@)t opt to remove it. for the price, it really didn(@single_quotes@)t seem worth it even if it had had the cheese. for a sandwich that is supposed to be covered with soup, or come with soup? the photos are misleading, it was very dry. probably will not order again considering the high price point.",0,0.8,0.2,false,true,false,100,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0
+"both burritos were supposed to have tots in them and we did not receive extra order of hash browns",0,0.6,0.4,false,true,false,0,100,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+"eggs were dry. eggs came with hot sauce, which was not in the description. very disappointing ",0,0.8,0.2,false,true,false,100,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0
+"small portion, bland, added bacon and barely had 5 bacon bit sized pieces",0,0.7,0.3,false,true,false,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"way to expensive not even good ",0,0.8,0.2,false,true,false,100,0,100,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0
+"terrible!  we paid the $6 upcharge for two pasta dishes and no chicken was included. the pasta dishes were overcooked and bland. save your money and eat elsewhere.",0,1,0,false,true,false,100,100,100,0,0,100,100,0,0,0,0,0,0,0,0,0,0,0
+"forgot my cream cheese and the oj spilled all over everything so can(@single_quotes@)t even eat it. ",0,0.8,0.2,false,true,false,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"paid $3.49 for orange juice have the tiniest cup in the world and with apple juice. i want my money back this is ridiculous.",0,0.6,0.4,false,true,false,0,100,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0
+"items were not included in my order aaand items were not as described either. ordered a bagel with cream cheese and didn(@single_quotes@)t get the cream cheese. ordered the basic b*tch bowl and received hash browns instead of tots. i was very disappointed. won(@single_quotes@)t be coming back.",0,0.8,0.2,false,true,false,0,0,0,0,0,0,0,0,0,0,0,0,100,0,100,0,0,0
+"no marinara sauce on my chicken parm.  no drink either. , No marinara sauce.",0,0.8,0.2,false,true,false,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"part of my order did not arrive and no one answered when i called for a refund on that part of the order. ",0,0.5,0.5,false,true,false,0,0,0,0,100,0,0,0,0,0,0,0,0,0,100,0,0,0
+"terrible. tasteless. no sauce at all. dryest sandwich i(@single_quotes@)ve ever had. the picture looks so amazing but it(@single_quotes@)s nothing like that image.
+hopefully this was a bad experience and not how everything is.
+yikes.",0,1,0,false,true,false,100,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The cheese steaks had minimal meat and did not include the bacon on the sandwiches as ordered. It was like a vegan sandwich with meat sprinkles. ",0.1,0.8,0.1,false,true,false,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"awful! we paid the upcharge for chicken on both of our pastas and both came with no chicken. the portions were small like for a kid! very bland pasta.  21 dollars each and not worth it at all. please save your money! awful establishment!!",0,1,0,false,true,false,100,100,100,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0
+"you brought and counted me two instead of one pasta, i needed one, the pasta was not tasty, as if not fresh, i didn’t like it, the grilled chicken was burnt, only quinoa salad with salmon can still be eaten, the rest is terrible, sorry wasted money",0.1,0.7,0.2,false,true,false,100,100,100,0,0,100,100,100,0,0,0,0,0,0,0,0,0,0
+"really not very good :/",0,0.6,0.4,false,true,false,100,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"didn(@single_quotes@)t go ve me my side of sausage, didn(@single_quotes@)t give me utensils when i asked for them specifically. ",0,0.8,0.2,false,true,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+"pretty meh. the ""blackberry preserves"" is just a packaged snickers jam. the french toast was pretty soggy. i added a banana for extra $$ and got half a brown banana, sliced.",0,0.6,0.4,false,true,false,50,0,50,0,0,0,50,0,0,0,0,0,0,0,50,0,0,0
+"   no calamari, all breading , just lettuce",0,0.8,0.2,false,true,false,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"   never received ",0,1,0,false,true,false,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0
+"there was onionskin all over the place and the shrimp tails just made it more unpleasant . i know they could add flavor but i spent most of the time picking stuff out of my mouth. 
+
+i know you guys can do better ",0,0.8,0.2,false,true,false,100,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0
+"The chicken was gross. I thought it would be white meat only. Too many dark pieces. It made the whole salad gross. I am very disappointed. I will not order from here again. Not good. ",0,1,0,false,true,false,100,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"it was a mess ,not enough toppings ,potatoes hard, ",0,1,0,false,true,false,100,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0
+"didnt get the cookie didnt get the extra bacon or cheese on sandwich ",0,0.8,0.2,false,true,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+"way overpriced and over seasoned! save your money and buy taco bell. ",0,0.9,0.1,false,true,false,0,0,100,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0
+"Meat was overcooked, and dry bread was tough",0,0.8,0.2,false,true,false,100,0,100,0,0,0,100,0,0,100,0,0,0,0,0,0,0,0
+"this isn(@single_quotes@)t house of parm it(@single_quotes@)s leo(@single_quotes@)s. portions are basically side dishes for 12.99. wasn(@single_quotes@)t hot, wasn(@single_quotes@)t even worth the money and false advertising on location as well. 100% don(@single_quotes@)t recommend.",0,1,0,false,true,false,0,100,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0
+"lowkey wasn(@single_quotes@)t that good, made me wanna finish it as fast as i can .",0,0.6,0.4,false,true,false,100,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"hard and dry ",0,1,0,false,true,false,100,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0
+"the sandwiches were average.  hardly any cheese and didn(@single_quotes@)t taste fresh. ",0,0.8,0.2,false,true,false,50,0,50,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0
+"didn(@single_quotes@)t get the right order",0,0.6,0.4,false,true,false,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0
+"only me combo does  not match description. small portion size no cheese i literally got the one with cheese and it has no cheese trying to get them to pick up i want refund",0,1,0,false,true,false,0,100,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+"burnt onions rings hair in sandwich ",0,1,0,false,true,false,100,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,100
+"i ordered the cheese head. in all fairness i did remove the onion and sourcraut, but what i received was barely a cheesesteak. of course it(@single_quotes@)s not going to be overflowing like in the picture, but i at least expected it to be a decent amount of meat, even with the sourcraut removed. i wasn(@single_quotes@)t expecting extra meat, but this sandwich is pathetic.",0,1,0,false,true,false,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"cheesehead came with no kraut, no onions, no whiz, pretty much nothing that was in the description. it did come with macaroni bites on the sandwhich. so kudos for trying",0.2,0.6,0.2,false,true,false,100,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0
+"the sandwich i received is not what i ordered, and on top of it the sandwich they did send me the meat is over cooked and dry. for the amount of time i had to wait past the estimated delivery time they could have gotten a one sandwich order correct. first time ordering, and is most likely the last unfortunately. ",0,0.8,0.2,false,true,false,100,0,100,0,100,0,0,0,0,0,0,0,100,0,0,0,0,0
+"meat and buns were way overcooked.  entire meal was ruined, had to pick out what was edible off the top of the packs of meat.",0,1,0,false,true,false,100,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0
+"it would be nice if we knew we were ordering from leos ciney island instead of ""house of parm""....",0,0.6,0.4,false,true,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"first time i ordered everything was great but after that my food has been prepared poorly my fries are extremely low for the price i paid i(@single_quotes@)m very dissatisfied with what i received lately",0,0.8,0.2,false,true,false,100,100,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0
+"there was no meat in the burrito and the bagel was super super dry :/",0,0.8,0.2,false,true,false,100,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+"i upgraded to Onion rings and still got fries ",0,0.5,0.5,false,true,true,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+"to cold.  , need to be freshly made",0,0.8,0.2,false,true,false,0,0,0,0,0,0,0,100,100,0,0,100,0,0,0,0,0,0
+"Absolutely awful  ",0,1,0,false,true,false,100,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"not the right cheese steak  ",0,0.8,0.2,false,true,false,100,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0
+"   only got 1 of my 3 sandwhiches",0,0.5,0.5,false,true,true,0,100,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+"food was ice cold when it arrived 2 hours later  ",0,0.8,0.2,false,true,false,50,0,0,0,100,0,0,0,0,0,0,100,0,0,0,0,0,0
+"food cane cold and they did not even care to remake and sent hour hold??!! ",0,1,0,false,true,false,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0
+"   the promotion didnt work ",0,1,0,false,true,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"the meals were all sent vegetarian and what we chose was all supposed to have meat. not worthy the price paid and very disappointing  ",0,0.8,0.2,false,true,false,100,0,0,0,0,100,0,0,0,0,0,0,100,0,0,0,0,0
+"   madr a chicken gizzard instead of lamb i was furious ",0,0.9,0.1,false,true,false,100,0,0,0,0,0,100,0,0,0,0,0,100,0,0,0,0,0
+"burrito had no eggs, beef, or cheese. came with just tots and onions. was so disappointing after they took an extra 20 minutes beyond what was promised.",0,0.8,0.2,false,true,false,100,100,0,0,100,0,0,0,0,0,0,0,100,0,0,0,0,0
+"alfredo was bland but better than the green stuff ",0.3,0.5,0.2,false,true,false,50,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"actually leo(@single_quotes@)s, overcooked, appetizer sized 20$ diner bull****",0,1,0,false,true,false,100,100,100,0,0,100,100,0,0,0,0,0,0,0,0,0,0,0
+"Driver was great...order was delivered very quickly and the driver was very courteous....5 stars for the delivery driver 
+
+Meatball sub was ridiculously overpriced, 4 small meatballs that only partially filled the bun...Sandwich was delivered very quickly and yet it was somehow only slightly warm.   The garlic bread was slightly soggy and the cheese was only partially melted.  15 dollars for a 4 small meatballs sub...I could have gotten 2 meatball subs from Subway for less money and gotten 3-4x the food and probably a better quality.  1 star for the food...it was decent but it wasn(@single_quotes@)t anywhere near worth the cost.",0.2,0.6,0.2,false,true,false,50,100,0,0,0,100,0,0,0,0,0,50,0,0,0,0,0,0
+"not worth the price. eggs in both the burrito and the bowl were flavorous rubber. so little sausage in the burrito that couldn(@single_quotes@)t even get some in every bite. hasbrowns undercooked. everything was very bland. only positive were the tots were crispy in the bowl.",0.1,0.8,0.1,false,true,false,100,100,100,0,0,100,100,0,0,0,0,0,0,0,0,0,0,0
+"wasn(@single_quotes@)t a fan. ",0,1,0,false,true,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"in my personal opinion, a complete rip off for the price",0,1,0,false,true,false,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0
+"the burritos were not even what the description said. none of the promised ingredients. barely anything on them for the cost. it(@single_quotes@)s like a $5 burrito for $14. i paid for extra sausage for my son and maybe got a link(@single_quotes@)s worth cut up on top...for over $2 paid. way over priced and not what is advertised. ",0,0.8,0.2,false,true,false,100,100,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0
+"the quality of food was awful. the burritos mostly consist of the wrap and not enough filling. the side of hashbrowns were burnt and tasted very off. would not recommend.  ",0.2,0.6,0.2,false,true,false,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The most disgusting fish I have eaten, so bitter that u cannot even taste a bit, wouldn(@single_quotes@)t recommend to anyone  , Worst dish on their menu ",0,1,0,false,true,false,100,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"the philly was incredibly dry and was very small for the price, maybe 10"" they also forgot the side of cheese sauce which probably would have helped. for the frings (half fries, half onion rings) im not convinced there were even onions in the onion rings it was all batter and the fries were undercooked and didnt have any salt or anything on them. ",0,0.8,0.2,false,true,false,100,100,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0
+"great tasting food, but very small quantities for the price.",0.4,0.6,0,false,true,false,0,100,100,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0
+"first time trying this place and my burrito is missing half the ingredients lol..",0,0.6,0.4,false,true,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+"The pasta taste like it was very undercooked and it was very chalky and pasty. And for $18. I expected a little bit more on the portion. ",0,0.7,0.3,false,true,false,100,100,100,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0
+"This is not really chicken marsala. It(@single_quotes@)s a mushrooms sauce on fettuccine, with a salty, dry, grilled chicken breast on the top.  I was duped. Now you know.",0,0.7,0.3,false,true,false,100,0,50,0,0,0,50,0,0,50,0,0,0,0,0,0,0,0
+"completely messed up our order and we were not allowed a redelivery thanks to the doordash policy",0,1,0,false,true,false,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0
+"if i could give zero stars i would! how do you mess up truffle fries order! spaghetti sauce tasted like it had been sitting on the c ounter for days! spend your money elsewherw please",0,0.9,0.1,false,true,false,100,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ordered pbj pancakes, only received regular.",0,0.8,0.2,false,true,false,100,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0
+"   i never received my angle wings in Hollywood order. I received an order from HoneyBee in mid city with my name on it instead. so disappointed
+ How does this even happen. ",0,1,0,false,true,false,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0
+"this is the second time you guys forgot itmes. last time it was syrup. this time butter ",0,0.8,0.2,false,true,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+"i was given cold brew coffee instead of Iced tea and arnold palmer was half coffee half lemonade ",0,0.75,0.25,false,true,false,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0
+"The pasta was flavorless 
+Yuck ",0,1,0,false,true,false,100,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bad Presentation, Bad Packing, Sloppy Food Portions, Incorrect Order, Food Taste Nasty",0,1,0,false,true,false,0,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"unfortunately they gave me two of the same tacos. we didn(@single_quotes@)t get our hangover the hangover burrito ",0,0.5,0.5,false,true,false,0,100,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0
+"nothing special, not enough feta cheese. probably would not order that bowl again. ",0,0.7,0.3,false,true,false,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

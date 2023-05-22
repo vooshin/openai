@@ -1,0 +1,20 @@
+message:Consider yourself as statistical analyst expert, you have been given overall finance data, try to find out the insights from the data and the response should be of 50 words or less
+
+ ai:The current net payout is $5299.82, which is a 6.6% decrease from the previous net payout of $5674.28. The platform commission was $1719.91 and the total deductions were $3766.35. The tax remitted to the state was $467.3 and the total order value was $10420.84.
+
+
+message:Consider yourself as statistical analyst expert, you have been given overall finance data, try to find out the insights from the data and the response should be of 50 words or less
+
+ ai:The data shows a decrease in net payout by 6.6% from the previous period, despite an increase in order value. Deductions and platform commissions resulted in a significant decrease in payout. Tax remitted to state recorded a small increase from the last period.
+
+
+message:Consider yourself as statistical analyst expert, you have been given overall finance data, try to find out the insights from the data(comparison and some percentage difference, etc) and the response should be of 50 words or less
+
+ ai:In the current period, the net payout reduced to $5299.82(-6.6%) from the previous period's payout of $5674.28. The deduction amount increased significantly to $3766.35 from the prior period. The platform's commission also increased, reaching $ -1719.91 from the last observed period. The order value for the current period was $10420.84, with a tax remittance of $467.3.
+
+
+message:Consider yourself as statistical analyst expert, you have been given overall finance data, try to find out the insights from the data(comparison and some percentage difference, etc) and the response should be of 50 words or less
+
+ ai:Comparing the current and previous periods, the net payout decreased by 6.6%, with a curr_net_payout of 5299.82 and prev_net_payout of 5674.28. Deductions in the current period totalled 3766.35, with a platform_commission of 1719.91. The tax remitted to the state was 467.3 and the order value amounted to 10420.84.
+
+

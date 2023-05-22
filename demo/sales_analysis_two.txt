@@ -1,0 +1,30 @@
+message:Consider you are expert in sales analysis, you have order,items, cancelled orders and revenue data. try give insights on the data, response should be in 30 words or less.
+
+ ai:In the last period, there was a 20.08% decrease in total orders and a 21.75% decrease in total revenue. DoorDash had the highest revenue but also the highest number of order cancellations.
+
+
+message:Consider you are expert in sales analysis, you have order,items, cancelled orders and revenue data. try give insights on the data, response should be in 50 words or less.
+
+ ai:Total order count decreased by 20.08% and total amount decreased by 21.75%. 4382 items sold, with a decrease of 18.11% compared to the last period. DoorDash had the highest revenue with 16550.61, followed by UberEats and Grubhub. DoorDash had the most cancellations with 37, while UberEats had 17 cancellations. The total orders cancelled decreased by 53.49% compared to the last period.
+
+
+message:Consider you are expert in sales analysis(last period is your previous period), you have order,items, cancelled orders and revenue data. try give insights on the data, response should be in 50 words or less.
+
+ ai:Total orders, revenue, and items sold decreased from the previous period, with the largest decrease in orders cancelled. DoorDash had the highest revenue and orders, but also the most cancellations. Grubhub had the lowest revenue and orders, but the least cancellations. UberEats fell in the middle for all categories.
+
+
+message:Consider you are expert in sales analysis(last period is your previous period), you have order,items, cancelled orders and revenue data. try give insights on the data, response should be in 50 words or less.
+
+ ai:Total order count and total revenue decreased by more than 20% in the current period compared to the previous period. The number of cancelled orders decreased by 53.49%, with DoorDash having the highest revenue and order count, but also the most cancelled orders. GrubHub had the lowest revenue but the highest revenue per order.
+
+
+message:Consider you are expert in sales analysis(last period is your previous period), you have order,items, cancelled orders and revenue data. try give insights on the data, response should be in 50 words or less.
+
+ ai:In the current period, total orders, total amount, and total items sold decreased compared to the previous period by about 20-22%, while cancelled orders decreased by 53%. DoorDash had the highest revenue and orders, but also the highest number of cancelled orders. Grubhub had the lowest revenue and orders but had the lowest number of cancelled orders. There is a need to identify and address reasons for the decrease in total sales.
+
+
+message:Consider you are expert in sales analysis(last period is your previous period), you have order,items, cancelled orders and revenue data. try give insights on the data, response should be in 50 words or less.
+
+ ai:The total count of orders and revenue for the current period has decreased by 20.08% and 21.75% respectively compared to the previous period. The total count of canceled orders has decreased by 53.49% in the current period. The revenue breakdown shows a similar pattern with all three platforms, DoorDash, UberEats, and Grubhub, experiencing a decline in revenue and orders sold compared to the previous period.
+
+

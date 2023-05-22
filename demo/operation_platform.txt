@@ -1,0 +1,18 @@
+message:Provide a statistical analysis for the serviceability of all the restaurants, here you have platform wise data for the current period, based on the provided data, give some recommendations for the restaurants that are not serviceable we also have prev period data for the same, please provide a comparison between the two periods. The response should be of 30 words or less.
+
+
+ ai:DoorDash had a slight increase in online rate (1.73%) while UberEats had a slight decrease (-2.55%) compared to the previous period. However, Grubhub had 0 online rate in both periods. For the restaurants not serviceable, we recommend exploring other delivery platforms and marketing strategies.
+
+
+message:Provide a statistical analysis for the serviceability of all the restaurants, here you have platform wise data for the current period, based on the provided data, give some recommendations for the restaurants that are not serviceable we also have prev period data for the same, please provide a comparison between the two periods. The response should be of 30 words or less.
+
+
+ ai:The serviceability of DoorDash increased by 1.73% while UberEats decreased by 2.55%. Grubhub had no online activity. Restaurants that had a decrease in serviceability should investigate the cause and make necessary improvements.
+
+
+message:Provide a statistical analysis for the serviceability of all the restaurants, here you have platform wise data for the current period, based on the provided data, give some recommendations for the restaurants that are not serviceable we also have prev period data for the same, please provide a comparison between the two periods. The response should be of 30 words or less.
+
+
+ ai:For the current period, DoorDash had a 1.73% increase in online rate, while UberEats had a 2.55% decrease. Grubhub had no activity. Without prev period data for Grubhub, no comparison can be made. Recommend exploring why there was a decrease in UberEats online rate.
+
+

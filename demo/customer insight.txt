@@ -1,0 +1,35 @@
+message:Consider yourself as statistical analyst for a restaurant chain. ypu have given a json data of customer insights, mostly it contains the number of customers purchased from the restaurants, generate a report of customer insights. it should be of 30 words or less.
+
+ ai:The restaurant chain had a total of 2654 customers, with the majority being new customers at 2257. There were 404 frequent customers and 578 occasional customers. The customer count graph shows new customers as the largest group.
+
+
+message:Consider yourself as statistical analyst for a restaurant chain. ypu have given a json data of customer insights, mostly it contains the number of customers purchased/ordered from the restaurants(u can also give some percentage values based on the data), generate a report of customer insights. it should be of 30 words or less.
+
+ ai:In the given customer insights data, 2257 customers are new, 404 are frequent, and 578 are occasional. The total number of customers is 2654.
+
+
+message:Consider yourself as statistical analyst for a restaurant chain. ypu have given a json data of customer insights, mostly it contains the number of customers purchased/ordered from the restaurants(u can also give some percentage values based on the data), generate a report of customer insights. it should be of 30 words or less.
+
+ ai:In Q1, the restaurant chain served 2,654 customers, with 85% being new or occasional customers. However, frequent customers generated 15% of total sales. Efforts to retain frequent customers should be a priority.
+
+
+message:Consider yourself as statistical analyst for a restaurant chain. ypu have given a json data of customer insights, mostly it contains the number of customers purchased/ordered from the restaurants(u can also give some percentage values based on the data), generate a report of customer insights. it should be of 30 words or less.
+
+ ai:The restaurant chain had a total of 2654 customers; 85% were new customers while the remainders were frequent or occasional customers. The highest customer percentage was from new customers.
+
+
+message:Consider yourself as statistical analyst for a restaurant chain. ypu have given a json data of customer insights, mostly it contains the number of customers purchased/ordered from the restaurants(u can also give some percentage values based on the data), generate a report of customer insights. it should be of 30 words or less.
+
+ ai:The restaurant chain had a total of 2,654 customers, out of which 2,257 were new customers. There were 404 frequent customers and 578 occasional customers. The customer count graph shows that new customers made up the largest portion.
+
+
+message:Consider yourself as statistical analyst for a restaurant chain. ypu have given a json data of customer insights, mostly it contains the number of customers purchased/ordered from the restaurants(also give some percentage evaluation), generate a report of customer insights. it should be of 30 words or less.
+
+ ai:A total of 2,654 customers were served at the restaurant chain, with 85% being new or occasional customers. The customer count graph shows that 65% of customers were new.
+
+
+message:Consider yourself as statistical analyst for a restaurant chain. ypu have given a json data of customer insights, mostly it contains the number of customers purchased/ordered from the restaurants(also give some percentage evaluation), generate a report of customer insights. it should be of 30 words or less.
+
+ ai:The data shows a total of 2654 customers, with 85% of them being new or occasional customers. Frequent customers make up 15% and are represented in a customer count graph.
+
+

@@ -1,0 +1,50 @@
+message:Consider you are expert in sales analytics and statistics. You are provide with the following data(deduction details of a restaurant, consider deductions_donut object as present selected date range data, call it as current period deduction and other one as past period deduction) and you are asked to provide insights on the data. the response should be of 30 words or less. The data is as follows,
+
+ ai:In the current period, the restaurant experienced a decrease in miscellaneous payments, merchant commission, promo spend on food, merchant commission tax, and marketing fees, while delivery network fee increased.
+
+
+message:Consider you are expert in sales analytics and statistics. You are provide with the following data(deduction details of a restaurant, consider deductions_donut object as present selected date range data, call it as current period deduction and other one as past period deduction) and you are asked to provide insights on the data. the response should be of 30 words or less. The data is as follows,
+
+ ai:The current period deduction for the restaurant includes high amounts spent on miscellaneous payments and merchant commissions. Prev_period deductions were similar with spending on merchant commissions, marketing fees, and miscellaneous payment.
+
+
+message:Consider you are expert in sales analytics and statistics. You are provide with the following data(deduction details of a restaurant, consider deductions_donut object as present selected date range data, call it as current period deduction and other one as past period deduction) and you are asked to provide insights on the data. the response should be of 30 words or less. The data is as follows,
+
+ ai:In the current period, there were higher miscellaneous payments and promo spend on food deductions compared to the previous period. Merchant commission and marketing fees deductions remain consistent.
+
+
+message:Consider you are expert in sales analytics and statistics. You are provide with the following data(deduction details of a restaurant, consider deductions_donut object as present selected date range data, call it as current period deduction and other one as past period deduction) and you are asked to provide insights on the data. the response should be of 30 words or less. The data is as follows,
+
+ ai:Current period deductions include high expenses in miscellaneous payments, merchant commissions, and promotions on food. There is a decrease in expenses on marketing fees compared to the previous period.
+
+
+message:Consider you are expert in sales analytics and statistics. You are provide with the following data(deduction details of a restaurant, consider deductions_donut object as present selected date range data, call it as current period deduction and other one as past period deduction) and you are asked to provide insights on the data. the response should be of 30 words or less. The data is as follows,
+
+ ai:The current period saw a decrease in miscellaneous payments, promo spend on food, and marketing fees compared to the previous period. However, there was an increase in delivery network fee.
+
+
+message:Consider you are expert in sales analytics and statistics. You are provide with the following data(deduction details of a restaurant, consider deductions_donut object as present selected date range data, call it as current period deduction and other one as past period deduction) and you are asked to provide insights on the data. the response should be of 30 words or less. The data is as follows,
+
+ ai:The current period saw a decrease in miscellaneous payments (-$6175.9) compared to the previous period. However, the marketing fees and tax on promotion on food increased slightly.
+
+
+message:Consider you are expert in sales analytics and statistics. You are provide with the following data(deduction details of a restaurant, consider deductions_donut object as present selected date range data, call it as current period deduction and other one as past period deduction) and you are asked to provide insights on the data. the response should be of 30 words or less. The data is as follows,
+
+ ai:The current period deductions for the restaurant include the highest amount for miscellaneous payments, followed by merchant commission and promo spend on food. Prev period deductions see similar trends.
+
+
+message:Consider you are expert in sales analytics and statistics. You are provide with the following data(deduction details of a restaurant, consider deductions_donut object as present selected date range data, call it as current period deduction and other one as past period deduction) and you are asked to provide insights on the data. the response should be of 30 words or less. The data is as follows,
+
+ ai:In the current period, the restaurant had a total deduction of $12,044.72, with miscellaneous payments being the largest deduction. Comparing to the previous period, the total deduction increased by $1,042.08.
+
+
+message:Consider you are expert in sales analytics and statistics. You are provide with the following data(deduction details of a restaurant, consider deductions_donut object as present selected date range data, call it as current period deduction and other one as past period deduction) and you are asked to provide insights on the data. the response should be of 30 words or less. The data is as follows,
+
+ ai:Current period deductions include high miscellaneous payments and merchant commissions, while previous period deductions had a similar pattern with high merchant commissions and miscellaneous payments.
+
+
+message:Consider you are expert in sales analytics and statistics. You are provide with the following data(deduction details of a restaurant, consider deductions_donut object as present selected date range data, call it as current period deduction and other one as past period deduction) and you are asked to provide insights on the data. the response should be of 30 words or less. The data is as follows,
+
+ ai:Current period deductions indicate a decrease in miscellaneous payments, higher spending on delivery network and taxes on promotions. Prev period deductions were similar with increased spending on promotions.
+
+

@@ -131,7 +131,5 @@ dist
 
 # TEST files
 api_response
-csv
-demo
 test.js
 

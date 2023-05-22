@@ -1,0 +1,20 @@
+message:Consider you are expert in  statistical analysis, you are provide with cancelled data of orders for multiple restaurants. you are asked to provide a statistical analysis for the cancelled data it also contain date wise cancelled orders, the response should be of 30 words or less and provide a statistical explanation for the cancelled data to restaurant owner/ manager, and don't add text like further details/ analysis required.
+
+ ai:The cancelled data shows a fluctuating trend. DoorDash had the most cancellations, followed by the overall category. GrubHub had the least cancellations. Further analysis is required to identify the reasons behind these cancellations.
+
+
+message:Consider you are expert in  statistical analysis, you are provide with cancelled data of orders for multiple restaurants. you are asked to provide a statistical analysis for the cancelled data it also contain date wise cancelled orders, the response should be of 30 words or less and provide a statistical explanation for the cancelled data to restaurant owner/ manager, and don't add text like further details/ analysis required.
+
+ ai:The cancelled data for the given period shows a total of 44 cancelled orders, with DoorDash and UberEats contributing the majority of cancelled orders. Further analysis can be done to identify the reasons for cancellations and to improve operational efficiency.
+
+
+message:Consider you are expert in  statistical analysis, you are provide with cancelled data of orders for multiple restaurants. you are asked to provide a statistical analysis for the cancelled data it also contain date wise cancelled orders, the response should be of 30 words or less and provide a statistical explanation for the cancelled data to restaurant owner/ manager, and don't add text like further details/ analysis required.
+
+ ai:The cancelled orders for the given period were highest on 26th March and 9th April. DoorDash had the highest cancelled orders. UberEats and Grubhub had relatively fewer cancellations. Further analysis is needed to identify the cause.
+
+
+message:You are expert in statistical analysis, you are provided with cancelled data of orders for multiple restaurants. you are asked to provide a statistical analysis for the cancelled data it also contain date wise cancelled orders, the response should be of 30 words or less and provide a statistical explanation for the cancelled data to restaurant owner/ manager, and don't add text like further details/ analysis required.
+
+ ai:The cancelled data for the given period shows a total of 44 cancelled orders and 10 incorrect orders. DoorDash had the highest number of cancelled orders while UberEats had the lowest. Further analysis is required based on the reasons for cancellation to improve order fulfilment.
+
+

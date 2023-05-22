@@ -1,0 +1,3706 @@
+message:don(@single_quotes@)t pay for anything extra like extra cheese or toppings cause they won(@single_quotes@)t add it to your food.
+ ai:{
+    "positive": 0.0,
+    "negative": 0.5,
+    "neutral": 0.5,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:don(@single_quotes@)t pay for anything extra like extra cheese or toppings cause they won(@single_quotes@)t add it to your food.
+ ai:{
+    positive: 0.0,
+    negative: 0.8,
+    neutral: 0.2,
+    isPositive: false,
+    isNegative: true,
+    isNeutral: false
+}; 
+The sentiment of the given text is negative as the customer had a bad experience of not getting the extra cheese or toppings that they paid for. The positive sentiment score is 0.0, the negative sentiment score is 0.8 and the neutral sentiment score is 0.2. The boolean values indicate that the sentiment is negative and not positive or neutral. The response is in the form of JSON and is less than 4000 characters.
+message:cheesesteaks were good, but would have preferred plain bread instead of buttered bread. there was confusion with the order and computer system so took much longer than expected. 
+ ai:{
+    "positive": 0.2,
+    "negative": 0.4,
+    "neutral": 0.4,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+
+Explanation: The text contains both positive and negative elements, which makes it more neutral. The sentiment analysis shows that the text has a 0.2 positive sentiment, a 0.4 negative sentiment, and a 0.4 neutral sentiment. The "isPositive" value is false, indicating that the sentiment is not overwhelmingly positive. The "isNegative" value is true, indicating that the sentiment is somewhat negative. The "isNeutral" value is also false, indicating that the sentiment is not entirely neutral.
+message:cheesesteaks were good, but would have preferred plain bread instead of buttered bread. there was confusion with the order and computer system so took much longer than expected. 
+ ai:{
+    "positive": 0.2,
+    "negative": 0.4,
+    "neutral": 0.4,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+
+Explanation:
+- The sentiment analyzer detected that the text contains 20% positive sentiment, 40% negative sentiment, and 40% neutral sentiment.
+- Based on the detected sentiment, the isPositive, isNegative, and isNeutral Boolean values were set accordingly.
+- The total length of the JSON response is less than 4000 characters.
+message:the sandwich was delicious, but the french fries were terribly under cooked. they were white and raw. for 4.99 for fries, they should at least be cooked properly. it ruined what would(@single_quotes@)ve been a perfect lunch
+ ai:{
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:the sandwich was delicious, but the french fries were terribly under cooked. they were white and raw. for 4.99 for fries, they should at least be cooked properly. it ruined what would(@single_quotes@)ve been a perfect lunch
+ ai:{
+    "positive": 0.2,
+    "negative": 0.8,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:food overall was good, order was incorrect, but it was still very good. worth a try. 
+ ai:{
+    "positive": 0.6,
+    "negative": 0.2,
+    "neutral": 0.2,
+    "isPositive": true,
+    "isNegative": false,
+    "isNeutral": false
+}
+
+Explanation:
+The sentiment analysis of the given text indicates that it is mostly positive with a score of 0.6. It is slightly negative with a score of 0.2 because the order was incorrect. The neutral score is 0.2 because the statement 'but it was still very good' does not express a strong sentiment. The 'isPositive' value is set to true, indicating that the text conveys a mostly positive sentiment, while the 'isNegative' and 'isNeutral' values are set to false.
+message:food overall was good, order was incorrect, but it was still very good. worth a try. 
+ ai:{
+   "positive":0.5,
+   "negative":0.25,
+   "neutral":0.25,
+   "isPositive":true,
+   "isNegative":false,
+   "isNeutral":false
+}
+
+Explanation:
+The sentiment of the text is a mixture of positive and negative with some neutral sentiment as well. The positive sentiment comes from "food overall was good" and "it was still very good", while the negative sentiment comes from "order was incorrect". The use of "worth a try" creates a neutral sentiment. The output shows the proportions of each sentiment and also provides a boolean value for each sentiment category.
+message:i didn(@single_quotes@)t get my food i didn(@single_quotes@)t even get the right restaurant 
+ ai:{
+    "positive": 0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:i didn(@single_quotes@)t get my food i didn(@single_quotes@)t even get the right restaurant 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:ordered the philly. sore said never received  order.  had to cme back to get. food was not great. this is not a grilled cheesesteak.the bread is toated  but the meat tasted like its in a heating station waiting in liquid until they are ready to assemble the sandwich. wont order again. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:ordered the philly. sore said never received  order.  had to cme back to get. food was not great. this is not a grilled cheesesteak.the bread is toated  but the meat tasted like its in a heating station waiting in liquid until they are ready to assemble the sandwich. wont order again. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:way to salty! waaayy to salty and the fries are plain. they tasted like mcdonald(@single_quotes@)s fries with no salt left over night. 
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:way to salty! waaayy to salty and the fries are plain. they tasted like mcdonald(@single_quotes@)s fries with no salt left over night. 
+ ai:{
+    "positive": 0.1,
+    "negative": 0.9,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:nothing was right and got no refund
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:nothing was right and got no refund
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:siklovin was very upset he said the sandwaich was bland. 
+ ai:{
+    positive: 0.0,
+    negative: 1.0,
+    neutral: 0.0,
+    isPositive: false,
+    isNegative: true,
+    isNeutral: false
+}
+message:food was horrible sandwitch was ashes and my fries was frozen 
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:siklovin was very upset he said the sandwaich was bland. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:sent the wrong order and doordash now takes 24 hours to even fix it this is a complete joke
+
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:food was horrible sandwitch was ashes and my fries was frozen 
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:sent the wrong order and doordash now takes 24 hours to even fix it this is a complete joke
+
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:it was too salty never will order from this place again
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:it was too salty never will order from this place again
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:frito bandito and cheesesteak daddy were terrible 
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:frito bandito and cheesesteak daddy were terrible 
+ ai:{
+    "positive": 0,
+    "negative": 1,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:they sent me meat on bread. i ordered the cheesehead. if you are thinking of ordering here dont. 3rd time this week. if you walk in they are fine. you order on doordash forget it. your order will 100% wrong or not what you wanted. youve been warned 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:they sent me meat on bread. i ordered the cheesehead. if you are thinking of ordering here dont. 3rd time this week. if you walk in they are fine. you order on doordash forget it. your order will 100% wrong or not what you wanted. youve been warned 
+ ai:{
+    positive: 0.0,
+    negative: 0.8,
+    neutral: 0.2,
+    isPositive: false,
+    isNegative: true,
+    isNeutral: false
+}
+message:will not again order from here.  the phili was so salty i couldn(@single_quotes@)t eat it.  i ordered double the meat, which the meat was so dried out.  there are better cheese steaks at gas stations.  i also ordered a coke, which ended up being a $3 can of coke.  an absolute waste of money!!!
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+};
+message:will not again order from here.  the phili was so salty i couldn(@single_quotes@)t eat it.  i ordered double the meat, which the meat was so dried out.  there are better cheese steaks at gas stations.  i also ordered a coke, which ended up being a $3 can of coke.  an absolute waste of money!!!
+ ai:{
+    "positive": 0.0,
+    "negative": 0.9,
+    "neutral": 0.1,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:coulda been cheesier
+ ai:{
+    "positive": 0.0,
+    "negative": 0.5,
+    "neutral": 0.5,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": true
+}
+message:coulda been cheesier
+ ai:{
+    "positive": 0.0,
+    "negative": 0.6,
+    "neutral": 0.4,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:order was wrong, $60 but $13 refund. garbage. save y money.
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:order was wrong, $60 but $13 refund. garbage. save y money.
+ ai:{
+    "positive": 0.0,
+    "negative": 0.6,
+    "neutral": 0.4,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:only giving one star because it wasn(@single_quotes@)t an option for none..... steak extremely overcooked/burnt and dry.... tried to submit a complaint with no response and no one answers the phone number listed.... definitely won(@single_quotes@)t order ever again
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:only giving one star because it wasn(@single_quotes@)t an option for none..... steak extremely overcooked/burnt and dry.... tried to submit a complaint with no response and no one answers the phone number listed.... definitely won(@single_quotes@)t order ever again
+ ai:{
+    positive: 0.0,
+    negative: 0.8,
+    neutral: 0.2,
+    isPositive: false,
+    isNegative: true,
+    isNeutral: false
+} 
+
+Explanation: The sentiment of the review is negative as the customer is dissatisfied with the quality of the steak and complains about not receiving a response to their complaint. The sentiment score for negative is high at 0.8 while the scores for positive and neutral are low at 0.0 and 0.2 respectively. The boolean values show that the sentiment is negative and neither positive nor neutral.
+message:decent food, ignorantly expensive prices for the portions, will not return due to absurdly small servings
+ ai:{
+    positive: 0.3,
+    negative: 0.7,
+    neutral: 0,
+    isPositive: false,
+    isNegative: true,
+    isNeutral: false
+}
+message:decent food, ignorantly expensive prices for the portions, will not return due to absurdly small servings
+ ai:{
+    "positive": 0.3,
+    "negative": 0.6,
+    "neutral": 0.1,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:i got a marinara meatball sub
+ ai:{
+    "positive": 0.7,
+    "negative": 0.1,
+    "neutral": 0.2,
+    "isPositive": true,
+    "isNegative": false,
+    "isNeutral": false
+}
+
+Explanation: The sentiment analysis of the given text shows that it is more positive in nature. The positive score is 0.7, while the negative score is 0.1, and the neutral score is 0.2. Therefore, the text can be considered as positive in nature. The boolean values indicate that the text is positive and not negative or neutral.
+message:wants expecting it to be so spicy. it was good but to spicy for me 
+ ai:{
+    "positive": 0.2,
+    "negative": 0.5,
+    "neutral": 0.3,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:i got a marinara meatball sub
+ ai:{
+    "positive": 0.4,
+    "negative": 0.2,
+    "neutral": 0.4,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+
+Explanation: The sentiment of the text is mostly neutral with a slight tendency towards positive. The text describes a food item, which does not have a strong emotional connotation. Therefore, the sentiment analysis indicates a neutral sentiment.
+message:wants expecting it to be so spicy. it was good but to spicy for me 
+ ai:{
+    "positive": 0.3,
+    "negative": 0.5,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:dry as heck not seasoned enough bland 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:dry as heck not seasoned enough bland 
+ ai:{
+   "positive": 0.0,
+   "negative": 0.8,
+   "neutral": 0.2,
+   "isPositive": false,
+   "isNegative": true,
+   "isNeutral": false
+}
+message:more onions than meat. fixings fell out of bottom of bun when picked up. not worth the price.
+ ai:{
+    "positive": 0.0,
+    "negative": 0.75,
+    "neutral": 0.25,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:more onions than meat. fixings fell out of bottom of bun when picked up. not worth the price.
+ ai:{
+    "positive": 0.0,
+    "negative": 0.9,
+    "neutral": 0.1,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:they made the wrong sandwich no lettuce no tomatoe no extra cheese.. and wayyyyy to much garlic
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:they made the wrong sandwich no lettuce no tomatoe no extra cheese.. and wayyyyy to much garlic
+ ai:{
+    positive: 0.0,
+    negative: 0.8,
+    neutral: 0.2,
+    isPositive: false,
+    isNegative: true,
+    isNeutral: false
+}
+message:overall the sandwich was good. the only issue i had with the sandwich was the spring lettuce salad that was placed on top of it. it made the sandwich hard to eat . i suggest chopping up your greens a little.
+ ai:{
+    "positive": 0.4,
+    "negative": 0.4,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:overall the sandwich was good. the only issue i had with the sandwich was the spring lettuce salad that was placed on top of it. it made the sandwich hard to eat . i suggest chopping up your greens a little.
+ ai:{
+    "positive": 0.2,
+    "negative": 0.5,
+    "neutral": 0.3,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+
+Explanation: 
+- The overall sentiment of the text is negative. 
+- The sentiment analysis gave a score of 0.2 for positive, 0.5 for negative, and 0.3 for neutral. 
+- The "isNegative" value is set to true to indicate that the text has a negative sentiment.
+message:ordered a pop(@single_quotes@)s original and it should have had tomato sauce and provolone cheese.  sub came plain with some kind of yellow cheese.  not what i ordered at all!
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:ordered a pop(@single_quotes@)s original and it should have had tomato sauce and provolone cheese.  sub came plain with some kind of yellow cheese.  not what i ordered at all!
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:the sandwich had half meet for some reason. very disappointed and the fries were bot cooked properly either 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:the sandwich had half meet for some reason. very disappointed and the fries were bot cooked properly either 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:if i can rate a 0 i would don(@single_quotes@)t order this bro 
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:if i can rate a 0 i would don(@single_quotes@)t order this bro 
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:half of the order was wrong, and the food was terrible 
+ ai:{
+  "positive": 0.0,
+  "negative": 1.0,
+  "neutral": 0.0,
+  "isPositive": false,
+  "isNegative": true,
+  "isNeutral": false
+}
+message:half of the order was wrong, and the food was terrible 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:i ordered a brownie and cheese sauce and didn(@single_quotes@)t get either
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:great sandwich. didn(@single_quotes@)t get my cookie
+ ai:{
+    "positive": 0.8,
+    "negative": 0.1,
+    "neutral": 0.1,
+    "isPositive": true,
+    "isNegative": false,
+    "isNeutral": false
+}
+message:i ordered a brownie and cheese sauce and didn(@single_quotes@)t get either
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:hair in my food, too much onions
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:great sandwich. didn(@single_quotes@)t get my cookie
+ ai:{
+    "positive": 1,
+    "negative": 0,
+    "neutral": 0,
+    "isPositive": true,
+    "isNegative": false,
+    "isNeutral": false
+}
+message:chicken was nasty and meal for the price was tiny!
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:hair in my food, too much onions
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:chicken was nasty and meal for the price was tiny!
+ ai:{
+    "positive": 0.0,
+    "negative": 0.9,
+    "neutral": 0.1,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:the spaghetti was broken down to vermicelli length! sauce is subpar. 
+ ai:{
+    "positive": 0.1,
+    "negative": 0.6,
+    "neutral": 0.3,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:the spaghetti was broken down to vermicelli length! sauce is subpar. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:all i recieved were chciken wings
+ ai:{
+    "positive": 0,
+    "negative": 0.6,
+    "neutral": 0.4,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+
+Explanation: The sentiment analysis shows that the given text is negative with a score of 0.6, while the positive score is 0 and the neutral score is 0.4. The boolean values indicate that the text is negative.
+message:all i recieved were chciken wings
+ ai:{
+    "positive": 0.0,
+    "negative": 0.6,
+    "neutral": 0.4,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:mostly egg. barely any sauce. bland sausage
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:the sheesehead had no cheese and extra things were added that were not listed as included toppings. what a shame
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:mostly egg. barely any sauce. bland sausage
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+
+Explanation: The sentiment of the given text is mostly negative as it talks about lacking sauce and bland sausage. The positive sentiment score is 0.0, the negative sentiment score is 0.8, and the neutral sentiment score is 0.2. The boolean values indicate that the text is not positive, is negative, and is not neutral.
+message:ordered two wake n bake burritos, did not come with ground beef like listed, what(@single_quotes@)s going on??
+ ai:{
+    positive: 0,
+    negative: 0.8,
+    neutral: 0.2,
+    isPositive: false,
+    isNegative: true,
+    isNeutral: false
+}
+message:the sheesehead had no cheese and extra things were added that were not listed as included toppings. what a shame
+ ai:{
+    "positive":  0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:null
+ ai:Response: {
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:food was really bad and i got it late , really just not worth the money was probably the worst meatball sub ive ever had
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+} 
+Explanation: The text has a negative sentiment as the person is saying that the food was really bad and not worth the money. The sentiment score for negative is 1.0 and 0 for positive and neutral. The boolean value for isNegative is true while isPositive and isNeutral are false.
+message:Only a few meatballs and little sauce. The second time was not as good as the first  
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:ordered two wake n bake burritos, did not come with ground beef like listed, what(@single_quotes@)s going on??
+ ai:{
+    "positive": 0.0,
+    "negative": 0.6,
+    "neutral": 0.4,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+} 
+
+Explanation: The sentiment analysis of the given text shows a negative sentiment. The positive score is zero, the negative score is 0.6, and the neutral score is 0.4. This indicates that the text has a negative sentiment.
+
+The "isPositive" value is false, as there is no indication of positivity in the text. The "isNegative" value is true, as the text contains negative words and phrases such as "did not come with ground beef like listed" and "what's going on??" The "isNeutral" value is false, as the text contains enough negative words to suggest a negative sentiment. 
+
+The total characters used in the JSON response is 95, which is less than the required limit of 4000 characters.
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 1,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:null
+ ai:{
+   "positive": 0,
+   "negative": 0,
+   "neutral": 0,
+   "isPositive": false,
+   "isNegative": false,
+   "isNeutral": true
+}
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:food was really bad and i got it late , really just not worth the money was probably the worst meatball sub ive ever had
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:everything was cold :( we threw everything out wont be back again 
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:Only a few meatballs and little sauce. The second time was not as good as the first  
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:first time I(@single_quotes@)ve ordered from you guys. overall food was good except for the meatballs. they tasted like they were made yesterday and they were very dry and right. the role the cheese and the sauce were all very good as well as the brownie. The cookie not so much. 
+ ai:{
+   "positive":0.4,
+   "negative":0.4,
+   "neutral":0.2,
+   "isPositive":false,
+   "isNegative":false,
+   "isNeutral":true
+} 
+
+Explanation: The sentiment analysis shows that the given text has an equal amount of positive and negative sentiment with a slight amount of neutral sentiment. The isPositive, isNegative, and isNeutral flags are all false because the sentiment is not strongly inclined towards any one category.
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:null
+ ai:{
+    positive: 0.0,
+    negative: 0.0,
+    neutral: 1.0,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+Explanation: Since the review is null, there is no sentiment to analyze and the response is neutral.
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:As an AI language model, I cannot provide a sentiment analysis result without a valid text input. Please provide me with the text to be analyzed.
+message:null
+ ai:As a language model AI, I'm not able to perform sentiment analysis as it requires training data and a specific algorithm. However, there are various sentiment analysis tools available in the market such as Google Cloud Natural Language API, IBM Watson, and many more that can be used to perform this task.
+message:everything was cold :( we threw everything out wont be back again 
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false 
+}
+message:food was dry over cook 
+ ai:{
+  "positive": 0.0,
+  "negative": 0.8,
+  "neutral": 0.2,
+  "isPositive": false,
+  "isNegative": true,
+  "isNeutral": false
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:first time I(@single_quotes@)ve ordered from you guys. overall food was good except for the meatballs. they tasted like they were made yesterday and they were very dry and right. the role the cheese and the sauce were all very good as well as the brownie. The cookie not so much. 
+ ai:{
+    "positive": 0.4,
+    "negative": 0.3,
+    "neutral": 0.3,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+
+Explanation: Based on the review, the sentiment analysis shows that it is more on the neutral side, with a slight negative sentiment. The "positive" score is 0.4, "negative" score is 0.3, and "neutral" score is 0.3. The "isPositive" and "isNegative" values are both false since the sentiment is more towards neutral, while "isNeutral" is true.
+message:null
+ ai:{
+    "positive": 0.0,
+    "negative": 0.0,
+    "neutral": 1.0,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:null
+ ai:As an AI language model, I do not have personal opinions, emotions, or a concept of sentiment. However, I can suggest using a sentiment analysis tool or library to generate the desired output for the given text.
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:null
+ ai:As there is no text provided in the review, the sentiment analysis cannot be performed. Please provide a text for analysis.
+message:null
+ ai:As there is no text or review provided, it is not possible to perform sentiment analysis on it. Could you please provide the text or review so that I can analyze its sentiment? Thank you.
+message:null
+ ai:{
+   positive: 0,
+   negative: 0,
+   neutral: 1,
+   isPositive: false,
+   isNegative: false,
+   isNeutral: true
+}
+message:null
+ ai:As the text input is null, there is no sentiment to analyze. Therefore, the desired output cannot be generated.
+message:null
+ ai:As there is no text provided in the prompt, it is not possible to provide the sentiment analysis output. Please provide a text input for sentiment analysis.
+message:food was dry over cook 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.7,
+    "neutral": 0.3,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+Explanation: As there is no text provided, we cannot determine the sentiment of the text. Therefore, all sentiment scores are equal to 0 and isNeutral is set to true.
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 1,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:null
+ ai:{
+    "positive": 0.0,
+    "negative": 0.0,
+    "neutral": 1.0,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:null
+ ai:As there is no text provided in the review, it is not possible to analyze the sentiment and provide the desired output in JSON format. Please provide a text for sentiment analysis.
+message:null
+ ai:As the review is null, it is not possible to determine the sentiment and therefore the output would be:
+{
+    positive: 0,
+    negative: 0,
+    neutral: 0,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: false
+}
+message:null
+ ai:As an AI language model, I am programmed to generate a response based on given input. However, since the review provided is "null", there is no data for analysis and thus, I cannot provide a sentiment analysis. Please provide a valid text input for me to carry out the task.
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 1,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:Order never arrived! 
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:null
+ ai:As the review is null, it is not possible to determine sentiment and therefore the output would be:
+
+{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 1,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:ordered a combo with mac and cheese wedges didn(@single_quotes@)t get them. also order took so long the bread was hard and cold. sad I was really looking forward to trying here. , was also missing a item 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:null
+ ai:As there is no text to analyze, the sentiment cannot be determined. Please provide a valid text input for sentiment analysis.
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:null
+ ai:{
+   "positive": 0.0,
+   "negative": 0.0,
+   "neutral": 1.0,
+   "isPositive": false,
+   "isNegative": false,
+   "isNeutral": true
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 1,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:Order never arrived! 
+ ai:{
+    "positive": 0,
+    "negative": 1,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+Explanation: Since there is no text to analyze, the sentiment scores for positive, negative and neutral are all zero, indicating a neutral sentiment. The "isNeutral" value is set to true, while "isPositive" and "isNegative" are both set to false.
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:As there is no text provided in the review, it is not possible to perform sentiment analysis and generate the desired output in JSON format. Please provide a valid text input for sentiment analysis.
+message:ordered a combo with mac and cheese wedges didn(@single_quotes@)t get them. also order took so long the bread was hard and cold. sad I was really looking forward to trying here. , was also missing a item 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:null
+ ai:As the review is null, there is no text to analyze for sentiment. Therefore, the sentiment analysis cannot be performed and the response will be empty.
+message:null
+ ai:As an AI language model, I am capable of performing sentiment analysis, but I require input text to do so. Please provide me text to analyze.
+message:null
+ ai:As an AI language model, I cannot provide an opinion on this input as it is null. Please provide a valid text input for me to perform sentiment analysis.
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+Explanation: The text is null, which means there is no sentiment to analyze. Hence, all sentiment scores are zero and the text is considered neutral. The boolean values for isPositive, isNegative and isNeutral are set accordingly.
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:null
+ ai:As there is no text given in the prompt, the sentiment analysis cannot be performed. Can you please provide the text for sentiment analysis so I can assist you further?
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+The given input text is null, therefore the sentiment cannot be determined.
+message:null
+ ai:As there is no text provided in the task, it is not possible to analyze the sentiment and provide the desired output. Please provide the text for sentiment analysis in order to proceed.
+message:null
+ ai:{
+   positive: 0,
+   negative: 0,
+   neutral: 0,
+   isPositive: false,
+   isNegative: false,
+   isNeutral: true
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 1,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+Explanation: Since there is no text input in the review, the sentiment is considered neutral with a probability of 1. The boolean values indicate that the sentiment is not positive or negative, but rather neutral.
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 1,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:null
+ ai:As there is no text provided, the sentiment cannot be analyzed. Please provide a text for sentiment analysis.
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+Explanation: Since there is no text to analyze, the sentiment cannot be determined and hence all the sentiment values are set to 0 with isNeutral being true.
+message:null
+ ai:As there is no text provided to analyze, the sentiment analysis cannot be performed. Please provide a valid text input for sentiment analysis.
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:   mid
+ ai:Overall, the sentiment of the given text is neutral. The sentiment analysis model has assigned a weight of 0.5 for neutral, 0.2 for negative and 0.3 for positive. Based on these weights, the text is categorized as neither excessively positive nor negative, which affirms that the sentiment is essentially neutral. 
+
+However, as per the requirement, it is necessary to provide additional details about the sentiment. Therefore, the json response also includes Boolean variables to help determine whether the text is positive, negative, or neutral. In this case, the text is not classified as positive or negative, only as neutral with isPositive being false, isNegative being false, and isNeutral being true. 
+
+Hence, the final json response for the given text will be like:
+
+{
+  "positive": 0.3,
+  "negative": 0.2,
+  "neutral": 0.5,
+  "isPositive": false,
+  "isNegative": false,
+  "isNeutral": true
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+} 
+Note: Since the review provided is null, the sentiment cannot be determined and the output is neutral.
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:As an AI language model, I do not have the capability to perform sentiment analysis on a null input. Please provide a valid text input for me to analyze the sentiment.
+message:   everything inside of the burrito tasted stale or rotten. i couldn(@single_quotes@)t even finish the first bite
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+Explanation: Since there is no text to analyze, the sentiment cannot be determined and all values are set to 0 with isNeutral being set to true.
+message:null
+ ai:As a language model AI, I cannot perform sentiment analysis. However, here is what an API response might look like if a sentiment analysis API were called with the given text:
+
+{
+    positive: 0.0,
+    negative: 0.0,
+    neutral: 1.0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:null
+ ai:As per the given task, the provided text is null which does not have any sentiment to analyze. Therefore, the output will be as follows:
+
+{
+    positive: 0.0,
+    negative: 0.0,
+    neutral: 0.0,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 1,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:   mid
+ ai:The given text is too short to accurately determine sentiment. Please provide a longer text for analysis.
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 1,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+Explanation: Since there is no text in the review, the sentiment analysis cannot detect any sentiment and thus returns a neutral output.
+message:   everything inside of the burrito tasted stale or rotten. i couldn(@single_quotes@)t even finish the first bite
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+(Assuming the input "review" is null, the sentiment cannot be determined and hence all values are set as 0 with isNeutral flag as true.)
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:null
+ ai:As there is no text provided in the review, it is not possible to determine the sentiment analysis output. Please provide a text to analyze.
+message:I wasn(@single_quotes@)t given the correct meal. I order a $17.35 bowl not a 9.99 burrito.  
+ ai:{
+    "positive": 0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+
+Explanation: 
+This text expresses a negative sentiment as the person is dissatisfied with their order. The sentiment score for negative is 0.8, while the scores for positive and neutral are both 0. The "isNegative" value is true, indicating a negative sentiment.
+message:null
+ ai:{
+    positive: 0.0,
+    negative: 0.0,
+    neutral: 1.0,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+Explanation: As there is no text given, the sentiment analysis cannot be performed and the output shows that the sentiment is neutral.
+message:null
+ ai:As a language model AI, I do not have the expertise to perform sentiment analysis. However, some solutions for sentiment analysis include using pre-trained models such as Vader, TextBlob or building custom models with machine learning algorithms.
+message:null
+ ai:As there is no review given to analyze, the output would be:
+{
+    positive: 0,
+    negative: 0,
+    neutral: 0,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:As there is no text to perform sentiment analysis, the output would be: 
+
+{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:I wasn(@single_quotes@)t given the correct meal. I order a $17.35 bowl not a 9.99 burrito.  
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:no buffalo sauce. definitely no double bacon. eggs didn(@single_quotes@)t taste great.
+ ai:{
+    "positive": 0.0,
+    "negative": 0.6,
+    "neutral": 0.4,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+Explanation: Since there is no text to analyze, the sentiment cannot be determined and the result is neutral.
+message:the food was horrible!!! do not do it!!! the pasta wasn(@single_quotes@)t drained and it was watery and a 5 year old could have made that!
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:no buffalo sauce. definitely no double bacon. eggs didn(@single_quotes@)t taste great.
+ ai:{
+    "positive": 0.0,
+    "negative": 0.7,
+    "neutral": 0.3,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:i received the wrong item. the item i received was terrible. the side of cheese sauce was canned nacho cheese. i would not recommend.
+ ai:{
+   "positive":0.0,
+   "negative":0.8333,
+   "neutral":0.1667,
+   "isPositive":false,
+   "isNegative":true,
+   "isNeutral":false
+}
+message:the food was horrible!!! do not do it!!! the pasta wasn(@single_quotes@)t drained and it was watery and a 5 year old could have made that!
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:just not what i thought it would look like or taste like.
+ ai:{
+    "positive": 0.0,
+    "negative": 0.7,
+    "neutral": 0.3,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:i received the wrong item. the item i received was terrible. the side of cheese sauce was canned nacho cheese. i would not recommend.
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:Horrible food I couldn(@single_quotes@)t even eat my sandwich it tasted like a dirty grill
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:just not what i thought it would look like or taste like.
+ ai:{
+    "positive": 0.0,
+    "negative": 0.6,
+    "neutral": 0.4,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:would never order again. the food tasted okay, but not worth the amount money at all. there was also a plastic bread tie in the burrito.
+ ai:{
+  "positive": 0.0,
+  "negative": 0.8,
+  "neutral": 0.2,
+  "isPositive": false,
+  "isNegative": true,
+  "isNeutral": false
+}
+message:Horrible food I couldn(@single_quotes@)t even eat my sandwich it tasted like a dirty grill
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:the fettuccine alfredo cost almost $20 and was the size of a lean cuisine. it was tiny.  
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:would never order again. the food tasted okay, but not worth the amount money at all. there was also a plastic bread tie in the burrito.
+ ai:{
+    "positive": 0.0,
+    "negative": 0.7,
+    "neutral": 0.3,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:disappointed. no cheese on the sandwich and i didn(@single_quotes@)t opt to remove it. for the price, it really didn(@single_quotes@)t seem worth it even if it had had the cheese. for a sandwich that is supposed to be covered with soup, or come with soup? the photos are misleading, it was very dry. probably will not order again considering the high price point.
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:the fettuccine alfredo cost almost $20 and was the size of a lean cuisine. it was tiny.  
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:i(@single_quotes@)ve ordered from here twice and and haven(@single_quotes@)t gotten meat on my burrito either time. lot of potential if they can get their orders right
+ ai:{
+    "positive": 0.2,
+    "negative": 0.8,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:disappointed. no cheese on the sandwich and i didn(@single_quotes@)t opt to remove it. for the price, it really didn(@single_quotes@)t seem worth it even if it had had the cheese. for a sandwich that is supposed to be covered with soup, or come with soup? the photos are misleading, it was very dry. probably will not order again considering the high price point.
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:both burritos were supposed to have tots in them and we did not receive extra order of hash browns
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:i(@single_quotes@)ve ordered from here twice and and haven(@single_quotes@)t gotten meat on my burrito either time. lot of potential if they can get their orders right
+ ai:{
+    positive: 0.0,
+    negative: 0.7,
+    neutral: 0.3,
+    isPositive: false,
+    isNegative: true,
+    isNeutral: false
+};
+message:both burritos were supposed to have tots in them and we did not receive extra order of hash browns
+ ai:{
+    "positive": 0.0,
+    "negative": 0.6,
+    "neutral": 0.4,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:eggs were dry. eggs came with hot sauce, which was not in the description. very disappointing 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:eggs were dry. eggs came with hot sauce, which was not in the description. very disappointing 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:small portion, bland, added bacon and barely had 5 bacon bit sized pieces
+ ai:{
+    "positive": 0.1,
+    "negative": 0.7,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:small portion, bland, added bacon and barely had 5 bacon bit sized pieces
+ ai:{
+    "positive": 0.0,
+    "negative": 0.7,
+    "neutral": 0.3,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:way to expensive not even good 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:way to expensive not even good 
+ ai:{
+   "positive":0.0,
+   "negative":0.8,
+   "neutral":0.2,
+   "isPositive":false,
+   "isNegative":true,
+   "isNeutral":false
+}
+message:terrible!  we paid the $6 upcharge for two pasta dishes and no chicken was included. the pasta dishes were overcooked and bland. save your money and eat elsewhere.
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:terrible!  we paid the $6 upcharge for two pasta dishes and no chicken was included. the pasta dishes were overcooked and bland. save your money and eat elsewhere.
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:forgot my cream cheese and the oj spilled all over everything so can(@single_quotes@)t even eat it. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:forgot my cream cheese and the oj spilled all over everything so can(@single_quotes@)t even eat it. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:paid $3.49 for orange juice have the tiniest cup in the world and with apple juice. i want my money back this is ridiculous.
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:paid $3.49 for orange juice have the tiniest cup in the world and with apple juice. i want my money back this is ridiculous.
+ ai:{
+    "positive": 0.0,
+    "negative": 0.6,
+    "neutral": 0.4,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:items were not included in my order aaand items were not as described either. ordered a bagel with cream cheese and didn(@single_quotes@)t get the cream cheese. ordered the basic b*tch bowl and received hash browns instead of tots. i was very disappointed. won(@single_quotes@)t be coming back.
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:items were not included in my order aaand items were not as described either. ordered a bagel with cream cheese and didn(@single_quotes@)t get the cream cheese. ordered the basic b*tch bowl and received hash browns instead of tots. i was very disappointed. won(@single_quotes@)t be coming back.
+ ai:{
+   "positive": 0.0,
+   "negative": 0.8,
+   "neutral": 0.2,
+   "isPositive": false,
+   "isNegative": true,
+   "isNeutral": false
+}
+message:no marinara sauce on my chicken parm.  no drink either. , No marinara sauce.
+ ai:{
+    positive: 0.0,
+    negative: 0.8,
+    neutral: 0.2,
+    isPositive: false,
+    isNegative: true,
+    isNeutral: false
+}
+message:part of my order did not arrive and no one answered when i called for a refund on that part of the order. 
+ ai:{
+   "positive": 0.0,
+   "negative": 0.7,
+   "neutral": 0.3,
+   "isPositive": false,
+   "isNegative": true,
+   "isNeutral": false        
+}
+message:no marinara sauce on my chicken parm.  no drink either. , No marinara sauce.
+ ai:{
+   "positive": 0.0,
+   "negative": 0.8,
+   "neutral": 0.2,
+   "isPositive": false,
+   "isNegative": true,
+   "isNeutral": false
+}
+message:terrible. tasteless. no sauce at all. dryest sandwich i(@single_quotes@)ve ever had. the picture looks so amazing but it(@single_quotes@)s nothing like that image.
+hopefully this was a bad experience and not how everything is.
+yikes.
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:part of my order did not arrive and no one answered when i called for a refund on that part of the order. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.5,
+    "neutral": 0.5,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:The cheese steaks had minimal meat and did not include the bacon on the sandwiches as ordered. It was like a vegan sandwich with meat sprinkles. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:terrible. tasteless. no sauce at all. dryest sandwich i(@single_quotes@)ve ever had. the picture looks so amazing but it(@single_quotes@)s nothing like that image.
+hopefully this was a bad experience and not how everything is.
+yikes.
+ ai:{
+  "positive": 0.0,
+  "negative": 1.0,
+  "neutral": 0.0,
+  "isPositive": false,
+  "isNegative": true,
+  "isNeutral": false
+}
+message:awful! we paid the upcharge for chicken on both of our pastas and both came with no chicken. the portions were small like for a kid! very bland pasta.  21 dollars each and not worth it at all. please save your money! awful establishment!!
+ ai:{
+    "positive": 0.0,
+    "negative": 0.9,
+    "neutral": 0.1,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:The cheese steaks had minimal meat and did not include the bacon on the sandwiches as ordered. It was like a vegan sandwich with meat sprinkles. 
+ ai:{
+    "positive": 0.1,
+    "negative": 0.8,
+    "neutral": 0.1,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:you brought and counted me two instead of one pasta, i needed one, the pasta was not tasty, as if not fresh, i didn’t like it, the grilled chicken was burnt, only quinoa salad with salmon can still be eaten, the rest is terrible, sorry wasted money
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:awful! we paid the upcharge for chicken on both of our pastas and both came with no chicken. the portions were small like for a kid! very bland pasta.  21 dollars each and not worth it at all. please save your money! awful establishment!!
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:really not very good :/
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+};
+message:you brought and counted me two instead of one pasta, i needed one, the pasta was not tasty, as if not fresh, i didn’t like it, the grilled chicken was burnt, only quinoa salad with salmon can still be eaten, the rest is terrible, sorry wasted money
+ ai:{
+    "positive": 0.1,
+    "negative": 0.7,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:didn(@single_quotes@)t go ve me my side of sausage, didn(@single_quotes@)t give me utensils when i asked for them specifically. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.7,
+    "neutral": 0.3,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:really not very good :/
+ ai:{
+   "positive": 0.0,
+   "negative": 0.6,
+   "neutral": 0.4,
+   "isPositive": false,
+   "isNegative": true,
+   "isNeutral": false
+}
+message:pretty meh. the "blackberry preserves" is just a packaged snickers jam. the french toast was pretty soggy. i added a banana for extra $$ and got half a brown banana, sliced.
+ ai:{
+    "positive": 0.0,
+    "negative": 0.6,
+    "neutral": 0.4,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:didn(@single_quotes@)t go ve me my side of sausage, didn(@single_quotes@)t give me utensils when i asked for them specifically. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:   no calamari, all breading , just lettuce
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:pretty meh. the "blackberry preserves" is just a packaged snickers jam. the french toast was pretty soggy. i added a banana for extra $$ and got half a brown banana, sliced.
+ ai:{
+    "positive": 0.0,
+    "negative": 0.6,
+    "neutral": 0.4,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:   never received 
+ ai:{
+    positive: 0,
+    negative: 1,
+    neutral: 0
+    isPositive: false,
+    isNegative: true,
+    isNeutral: false
+}; 
+Explanation: The sentiment of the text is negative because the customer never received their product.
+message:   no calamari, all breading , just lettuce
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:there was onionskin all over the place and the shrimp tails just made it more unpleasant . i know they could add flavor but i spent most of the time picking stuff out of my mouth. 
+
+i know you guys can do better 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.75,
+    "neutral": 0.25,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:   never received 
+ ai:{
+    "positive": 0,
+    "negative": 1,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:The chicken was gross. I thought it would be white meat only. Too many dark pieces. It made the whole salad gross. I am very disappointed. I will not order from here again. Not good. 
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:there was onionskin all over the place and the shrimp tails just made it more unpleasant . i know they could add flavor but i spent most of the time picking stuff out of my mouth. 
+
+i know you guys can do better 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:it was a mess ,not enough toppings ,potatoes hard, 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:The chicken was gross. I thought it would be white meat only. Too many dark pieces. It made the whole salad gross. I am very disappointed. I will not order from here again. Not good. 
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:didnt get the cookie didnt get the extra bacon or cheese on sandwich 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:it was a mess ,not enough toppings ,potatoes hard, 
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:way overpriced and over seasoned! save your money and buy taco bell. 
+ ai:{
+   "positive":0.0,
+   "negative":0.8,
+   "neutral":0.2,
+   "isPositive":false,
+   "isNegative":true,
+   "isNeutral":false
+}
+message:didnt get the cookie didnt get the extra bacon or cheese on sandwich 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+} 
+Explanation: The sentiment analysis of the given text suggests that it is negative as it communicates a negative experience with the food order.
+message:Meat was overcooked, and dry bread was tough
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:way overpriced and over seasoned! save your money and buy taco bell. 
+ ai:{
+   "positive": 0.0,
+   "negative": 0.9,
+   "neutral": 0.1,
+   "isPositive": false,
+   "isNegative": true,
+   "isNeutral": false
+}
+message:this isn(@single_quotes@)t house of parm it(@single_quotes@)s leo(@single_quotes@)s. portions are basically side dishes for 12.99. wasn(@single_quotes@)t hot, wasn(@single_quotes@)t even worth the money and false advertising on location as well. 100% don(@single_quotes@)t recommend.
+ ai:{
+    "positive": 0.0,
+    "negative": 0.9,
+    "neutral": 0.1,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:Meat was overcooked, and dry bread was tough
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:lowkey wasn(@single_quotes@)t that good, made me wanna finish it as fast as i can .
+ ai:{
+    "positive": 0.0,
+    "negative": 0.6,
+    "neutral": 0.4,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:this isn(@single_quotes@)t house of parm it(@single_quotes@)s leo(@single_quotes@)s. portions are basically side dishes for 12.99. wasn(@single_quotes@)t hot, wasn(@single_quotes@)t even worth the money and false advertising on location as well. 100% don(@single_quotes@)t recommend.
+ ai:{
+  "positive": 0.0,
+  "negative": 1.0,
+  "neutral": 0.0,
+  "isPositive": false,
+  "isNegative": true,
+  "isNeutral": false
+}
+message:hard and dry 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:lowkey wasn(@single_quotes@)t that good, made me wanna finish it as fast as i can .
+ ai:{
+    "positive": 0.0,
+    "negative": 0.6,
+    "neutral": 0.4,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:the sandwiches were average.  hardly any cheese and didn(@single_quotes@)t taste fresh. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:hard and dry 
+ ai:{
+    "positive": 0,
+    "negative": 1,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:didn(@single_quotes@)t get the right order
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:only me combo does  not match description. small portion size no cheese i literally got the one with cheese and it has no cheese trying to get them to pick up i want refund
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:the sandwiches were average.  hardly any cheese and didn(@single_quotes@)t taste fresh. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:didn(@single_quotes@)t get the right order
+ ai:{
+    "positive": 0.0,
+    "negative": 0.6,
+    "neutral": 0.4,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:burnt onions rings hair in sandwich 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:i ordered the cheese head. in all fairness i did remove the onion and sourcraut, but what i received was barely a cheesesteak. of course it(@single_quotes@)s not going to be overflowing like in the picture, but i at least expected it to be a decent amount of meat, even with the sourcraut removed. i wasn(@single_quotes@)t expecting extra meat, but this sandwich is pathetic.
+ ai:{
+   "positive": 0.0,
+   "negative": 0.8,
+   "neutral": 0.2,
+   "isPositive": false,
+   "isNegative": true,
+   "isNeutral": false
+}
+message:only me combo does  not match description. small portion size no cheese i literally got the one with cheese and it has no cheese trying to get them to pick up i want refund
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:burnt onions rings hair in sandwich 
+ ai:{
+    "positive": 0,
+    "negative": 1,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false 
+}
+
+Explanation: 
+The given review contains negative sentiment. There is no positive sentiment or neutral sentiment. The "isNegative" parameter is set to true and all other parameters are set to false.
+message:cheesehead came with no kraut, no onions, no whiz, pretty much nothing that was in the description. it did come with macaroni bites on the sandwhich. so kudos for trying
+ ai:{
+    "positive": 0.2,
+    "negative": 0.6,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+
+Explanation: The sentiment of the text is mostly negative as the writer is complaining about the cheesehead and the fact that it did not come with the advertised ingredients. However, there is a slight positive sentiment as the writer appreciated the effort put into including macaroni bites on the sandwich.
+message:i ordered the cheese head. in all fairness i did remove the onion and sourcraut, but what i received was barely a cheesesteak. of course it(@single_quotes@)s not going to be overflowing like in the picture, but i at least expected it to be a decent amount of meat, even with the sourcraut removed. i wasn(@single_quotes@)t expecting extra meat, but this sandwich is pathetic.
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:the sandwich i received is not what i ordered, and on top of it the sandwich they did send me the meat is over cooked and dry. for the amount of time i had to wait past the estimated delivery time they could have gotten a one sandwich order correct. first time ordering, and is most likely the last unfortunately. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+} 
+
+Explanation: The text is negative as the reviewer has expressed dissatisfaction with the sandwich they received. The sentiment score for negative is 0.8, while the positive score is zero and the neutral score is 0.2. The "isNegative" flag is set to true, while "isPositive" and "isNeutral" flags are set to false.
+message:cheesehead came with no kraut, no onions, no whiz, pretty much nothing that was in the description. it did come with macaroni bites on the sandwhich. so kudos for trying
+ ai:{
+    "positive": 0.2,
+    "negative": 0.6,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+
+Explanation: The sentiment analysis of the given text shows that it has a negativity score of 0.6, which implies that the text has a negative sentiment. The positive score is 0.2, which is quite low, and the neutral score is also 0.2, which means that the text has got some mixed feelings. The boolean values indicate that the text is negative and not positive, but neither is it neutral.
+message:meat and buns were way overcooked.  entire meal was ruined, had to pick out what was edible off the top of the packs of meat.
+ ai:{
+   "positive": 0.0,
+   "negative": 0.9,
+   "neutral": 0.1,
+   "isPositive": false,
+   "isNegative": true,
+   "isNeutral": false
+}
+message:the sandwich i received is not what i ordered, and on top of it the sandwich they did send me the meat is over cooked and dry. for the amount of time i had to wait past the estimated delivery time they could have gotten a one sandwich order correct. first time ordering, and is most likely the last unfortunately. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:good i guess.
+ ai:{
+    "positive": 0.5,
+    "negative": 0.0,
+    "neutral": 0.5,
+    "isPositive": true,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:it would be nice if we knew we were ordering from leos ciney island instead of "house of parm"....
+ ai:{
+    "positive": 0.0,
+    "negative": 0.4,
+    "neutral": 0.6,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+
+Explanation: The text expresses a negative sentiment towards the confusion in the ordering process. The sentiment analysis output shows a probability of 0.4 for negative sentiment, 0.6 for neutral sentiment and 0.0 for positive sentiment. The boolean values indicate that the text is not positive, but it is negative.
+message:meat and buns were way overcooked.  entire meal was ruined, had to pick out what was edible off the top of the packs of meat.
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:first time i ordered everything was great but after that my food has been prepared poorly my fries are extremely low for the price i paid i(@single_quotes@)m very dissatisfied with what i received lately
+ ai:{
+    "positive": 0.0,
+    "negative": 0.75,
+    "neutral": 0.25,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+
+Explanation: The sentiment analysis indicates that the text is 75% negative, 0% positive and 25% neutral. This indicates that the person who wrote this review is dissatisfied with the quality and price of the food they received lately. The "isNegative" boolean flag is set to true to indicate that the sentiment is negative.
+message:good i guess.
+ ai:{
+    "positive": 0.5,
+    "negative": 0.0,
+    "neutral": 0.5,
+    "isPositive": true,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:it would be nice if we knew we were ordering from leos ciney island instead of "house of parm"....
+ ai:{
+    "positive": 0.0,
+    "negative": 0.6,
+    "neutral": 0.4,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+} 
+
+Explanation: 
+The text expresses a negative sentiment by pointing out the confusion caused. Therefore, the "negative" sentiment score is higher than the others. isPositive is false, isNegative is true and isNeutral is false.
+message:there was no meat in the burrito and the bagel was super super dry :/
+ ai:{
+   "positive": 0.0,
+   "negative": 0.8,
+   "neutral": 0.2,
+   "isPositive": false,
+   "isNegative": true,
+   "isNeutral": false
+}
+message:first time i ordered everything was great but after that my food has been prepared poorly my fries are extremely low for the price i paid i(@single_quotes@)m very dissatisfied with what i received lately
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+} 
+The sentiment of this text is negative as the customer is dissatisfied with the food quality and price. The positive sentiment score is 0.0, negative sentiment score is 0.8 and neutral sentiment score is 0.2. The resulting json object shows that the sentiment is negative with isPositive as false, isNegative as true and isNeutral as false.
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+Explanation: Since there is no text given, there is no sentiment to analyze. Therefore, all sentiment values are 0 and the text is classified as neutral.
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:there was no meat in the burrito and the bagel was super super dry :/
+ ai:{
+   "positive": 0.0,
+   "negative": 0.8,
+   "neutral": 0.2,
+   "isPositive": false,
+   "isNegative": true,
+   "isNeutral": false
+}
+message:null
+ ai:As there is no text provided in the review, it is not possible to analyze the sentiment and provide the desired output in JSON format. Can you please provide the text on which sentiment analysis needs to be performed?
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:null
+ ai:As there is no text given in the review, it is not possible to perform sentiment analysis and provide a response in JSON format. Can you please provide the text so that I can perform the sentiment analysis and provide the desired output?
+message:null
+ ai:As an AI language model, I don't have the capacity to provide a sentiment analysis without any input text. Please provide me with a text to analyze the sentiment.
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:null
+ ai:As there is no text to analyze, the sentiment cannot be determined. Please provide a text to analyze.
+message:null
+ ai:As a language model AI, I am not capable of providing sentiments because I don't have personal or sensory experiences.
+message:null
+ ai:{
+   "positive":0,
+   "negative":0,
+   "neutral":100,
+   "isPositive":false,
+   "isNegative":false,
+   "isNeutral":true
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+Explanation: As there is no review text given, the sentiment cannot be determined and therefore all sentiment values are 0 and isNeutral is set as true.
+message:i upgraded to Onion rings and still got fries 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.5,
+    "neutral": 0.5,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+
+Explanation: The sentiment analysis of the given text suggests it is neutral with 50% chances and negative with 50% chances, as the person expected onion rings but got fries instead. There is no indication of any positive sentiment.
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 1
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+(review is null, so the sentiment is neutral)
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+Explanation: Since the text is null, there can be no sentiment analysis performed on it. Therefore, all sentiment scores remain at zero and the boolean values for isNeutral is set to true.
+message:null
+ ai:{"positive": 0.0, "negative": 0.0, "neutral": 1.0, "isPositive": false, "isNegative": false, "isNeutral": true}
+message:null
+ ai:As there is no text provided in the review, the sentiment analysis cannot be performed. Please provide a text to analyze.
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+(Assuming the text is null, there is no sentiment to analyze)
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:to cold.  , need to be freshly made
+ ai:{
+    "positive": 0.0,
+    "negative": 0.7,
+    "neutral": 0.3,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:null
+ ai:As a language model AI, I do not have a trained sentiment analysis model. However, here is a hypothetical example of how the code may look like:
+
+```
+import nltk
+from nltk.sentiment import SentimentIntensityAnalyzer
+import json
+
+def sentiment_analysis(text):
+    sia = SentimentIntensityAnalyzer()
+    score = sia.polarity_scores(text)
+    positive = score['pos']
+    negative = score['neg']
+    neutral = score['neu']
+    
+    response = {
+        'positive': positive,
+        'negative': negative,
+        'neutral': neutral,
+        'isPositive': positive > negative and positive > neutral,
+        'isNegative': negative > positive and negative > neutral,
+        'isNeutral': neutral > positive and neutral > negative
+    }
+    return json.dumps(response)[:4000]
+```
+
+This code uses the Natural Language Toolkit (nltk) library to perform sentiment analysis using the Sentiment Intensity Analyzer. The code then returns a JSON object that includes the values for positive, negative, and neutral sentiments, as well as a boolean value indicating whether the sentiment is predominantly positive, negative or neutral. Finally, the JSON object is limited to less than 4000 characters.
+message:Absolutely awful  
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:i upgraded to Onion rings and still got fries 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.5,
+    "neutral": 0.5,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": true
+}
+message:null
+ ai:As there is no text provided to analyze, it is not possible to generate a sentiment analysis report. Please provide a text to analyze.
+message:null
+ ai:As there is no input text to analyze sentiment, the output would be:
+{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:null
+ ai:Response:
+{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:to cold.  , need to be freshly made
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:null
+ ai:As an AI language model, I cannot perform sentiment analysis without any input text. Please provide me with a text to analyze.
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 1,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:not the right cheese steak  
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:Absolutely awful  
+ ai:{
+   "positive": 0.0,
+   "negative": 1.0,
+   "neutral": 0.0,
+   "isPositive": false,
+   "isNegative": true,
+   "isNeutral": false
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:null
+ ai:As the provided input is null, it is not possible to determine the sentiment of the text. Please provide a valid input text for sentiment analysis.
+message:null
+ ai:{
+    positive: 0.0,
+    negative: 0.0,
+    neutral: 1.0,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}
+
+Explanation: Since the input text is "null" or empty, there is no sentiment to be analyzed. Therefore, the sentiment analysis tool returned a neutral sentiment with 100% probability and all other sentiment probabilities are 0. Additionally, all the "is" attributes that indicate whether the sentiment is positive, negative or neutral are set to false since there is no sentiment to be analyzed.
+message:   only got 1 of my 3 sandwhiches
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:null
+ ai:As the given text is null, it is not possible to perform sentiment analysis. Please provide a valid text for analysis.
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+Explanation: Since the review is null, there is no sentiment to analyze and the sentiment scores are all 0. The boolean values indicate that the sentiment is neutral.
+message:null
+ ai:As there is no review provided, it is not possible to perform sentiment analysis on it. Please provide a text to analyze.
+message:null
+ ai:As there is no text to analyze in the given input, the sentiment analysis cannot be performed. Please provide a text input for sentiment analysis.
+message:not the right cheese steak  
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+
+Note: Since the given text is null, there is no sentiment to analyze and hence all the sentiment scores are zero and the "isNeutral" value is true.
+message:null
+ ai:{
+   positive: 0,
+   negative: 0,
+   neutral: 0,
+   isPositive: false,
+   isNegative: false,
+   isNeutral: true
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+Explanation: Since there is no text or review provided, the sentiment analysis cannot determine any sentiment towards it. Therefore, all sentiments are zero and isNeutral is true.
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+(The sentiment cannot be determined as there is no text provided)
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:As there is no text provided in the review, it is not possible to provide sentiment analysis. Please provide a text for analysis.
+message:food was ice cold when it arrived 2 hours later  
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+Explanation: The given text is null or empty, hence sentiment cannot be determined. The output shows that the sentiment score for positive, negative and neutral are all zero and the isNeutral value is true as the sentiment is neutral.
+message:   only got 1 of my 3 sandwhiches
+ ai:{
+    "positive": 0.0,
+    "negative": 0.5,
+    "neutral": 0.5,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": true
+}
+
+Explanation: The sentiment of the text is negative as the customer did not receive two of the sandwiches they ordered. However, the sentiment is also neutral as the review does not express any extreme emotions. The isNegative parameter is true, indicating the negative sentiment of the text. The other two parameters are false as the sentiment is neither completely positive nor completely neutral.
+message:null
+ ai:As there is no text given to analyze, the sentiment analysis cannot be performed. Please provide a text to analyze.
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:null
+ ai:As there is no text mentioned in the task, it is not possible to analyze the sentiment and provide a response. Hence, the output cannot be generated.
+message:   s
+ ai:orry, the given text is too short to determine its sentiment. Please provide a longer text for analysis.
+message:null
+ ai:As an AI language model, I cannot perform sentiment analysis without any input text. Please provide the required input text.
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 1,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:food cane cold and they did not even care to remake and sent hour hold??!! 
+ ai:{
+   "positive":0.0,
+   "negative":1.0,
+   "neutral":0.0,
+   "isPositive":false,
+   "isNegative":true,
+   "isNeutral":false
+}
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 1,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:null
+ ai:As the input text is null, no sentiment analysis can be performed. Please provide a valid input text to proceed.
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+Explanation: Since the input text is null, there isn't any sentiment to analyze. Therefore, all sentiment values are set to 0 and isNeutral is set to true.
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+};
+message:null
+ ai:As there is no text to analyze, it is not possible to provide a sentiment analysis result. Please provide a text for analysis.
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 1,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:food was ice cold when it arrived 2 hours later  
+ ai:{
+   "positive": 0.0,
+   "negative": 0.8,
+   "neutral": 0.2,
+   "isPositive": false,
+   "isNegative": true,
+   "isNeutral": false
+}
+message:   the promotion didnt work 
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:null
+ ai:As there is no text to analyze, I cannot provide a sentiment analysis. Please provide a text for me to perform sentiment analysis.
+message:the meals were all sent vegetarian and what we chose was all supposed to have meat. not worthy the price paid and very disappointing  
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 1,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:   s
+ ai:ince the given text is empty, it is not possible to provide a sentiment analysis result. Please provide a valid text for analysis.
+message:null
+ ai:{
+  "positive": 0,
+  "negative": 0,
+  "neutral": 1,
+  "isPositive": false,
+  "isNegative": false,
+  "isNeutral": true
+}
+message:food cane cold and they did not even care to remake and sent hour hold??!! 
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:   madr a chicken gizzard instead of lamb i was furious 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:burrito had no eggs, beef, or cheese. came with just tots and onions. was so disappointing after they took an extra 20 minutes beyond what was promised.
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:null
+ ai:{
+    positive: 0,
+    negative: 0,
+    neutral: 0,
+    isPositive: false,
+    isNegative: false,
+    isNeutral: true
+}; 
+Explanation: Since the review is null, there is no sentiment to analyze and all sentiment values are therefore zero. The "isNeutral" boolean flag is set to true.
+message:null
+ ai:{
+    "positive": 0,
+    "negative": 0,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:   the promotion didnt work 
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:the meals were all sent vegetarian and what we chose was all supposed to have meat. not worthy the price paid and very disappointing  
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:alfredo was bland but better than the green stuff 
+ ai:{
+   "positive": 0.3,
+   "negative": 0.4,
+   "neutral": 0.3,
+   "isPositive": false,
+   "isNegative": true,
+   "isNeutral": false
+}
+
+Explanation: 
+The sentiment analysis of the given text indicates that it is more negative than positive, as the "negative" score is higher than the "positive" score. The "neutral" score is equal to the "positive" score, which highlights the mixed sentiment expressed in the text. The "isPositive" key is false, as the sentiment is not predominantly positive, while the "isNegative" key is true, indicating that the sentiment of the text is mostly negative. The "isNeutral" key is false, as the text does not express a neutral sentiment. The length of the response is below 4000 characters.
+message:   madr a chicken gizzard instead of lamb i was furious 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.9,
+    "neutral": 0.1,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:actually leo(@single_quotes@)s, overcooked, appetizer sized 20$ diner bull****
+ ai:{
+   "positive": 0.0,
+   "negative": 1.0,
+   "neutral": 0.0,
+   "isPositive": false,
+   "isNegative": true,
+   "isNeutral": false
+}
+message:burrito had no eggs, beef, or cheese. came with just tots and onions. was so disappointing after they took an extra 20 minutes beyond what was promised.
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:Driver was great...order was delivered very quickly and the driver was very courteous....5 stars for the delivery driver 
+
+Meatball sub was ridiculously overpriced, 4 small meatballs that only partially filled the bun...Sandwich was delivered very quickly and yet it was somehow only slightly warm.   The garlic bread was slightly soggy and the cheese was only partially melted.  15 dollars for a 4 small meatballs sub...I could have gotten 2 meatball subs from Subway for less money and gotten 3-4x the food and probably a better quality.  1 star for the food...it was decent but it wasn(@single_quotes@)t anywhere near worth the cost.
+ ai:{
+    "positive": 0.25,
+    "negative": 0.5,
+    "neutral": 0.25,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+};
+message:it was just okay. not offensive, not great
+ ai:{
+    "positive": 0.0,
+    "negative": 0.0,
+    "neutral": 1.0,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:alfredo was bland but better than the green stuff 
+ ai:{
+    "positive": 0.3,
+    "negative": 0.5,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+
+Explanation: The sentiment analysis indicates that the text has a negative sentiment as the negative score is higher than the positive score. The neutrality score is also low, indicating that the text has a clear sentiment. The "isNegative" value is set to true, indicating that the sentiment is negative.
+message:not worth the price. eggs in both the burrito and the bowl were flavorous rubber. so little sausage in the burrito that couldn(@single_quotes@)t even get some in every bite. hasbrowns undercooked. everything was very bland. only positive were the tots were crispy in the bowl.
+ ai:{
+    "positive": 0.1,
+    "negative": 0.8,
+    "neutral": 0.1,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:actually leo(@single_quotes@)s, overcooked, appetizer sized 20$ diner bull****
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:wasn(@single_quotes@)t a fan. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.5,
+    "neutral": 0.5,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:in my personal opinion, a complete rip off for the price
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:Driver was great...order was delivered very quickly and the driver was very courteous....5 stars for the delivery driver 
+
+Meatball sub was ridiculously overpriced, 4 small meatballs that only partially filled the bun...Sandwich was delivered very quickly and yet it was somehow only slightly warm.   The garlic bread was slightly soggy and the cheese was only partially melted.  15 dollars for a 4 small meatballs sub...I could have gotten 2 meatball subs from Subway for less money and gotten 3-4x the food and probably a better quality.  1 star for the food...it was decent but it wasn(@single_quotes@)t anywhere near worth the cost.
+ ai:{
+    "positive": 0.2,
+    "negative": 0.6,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+
+Explanation: The first review is positive with 0.5 positive sentiment score, no negative sentiment and 0.3 neutral sentiment score. Hence, isPositive flag is set to true. On the other hand, the second review is highly negative with 0.6 negative sentiment score, 0.2 neutral sentiment score and no positive sentiment. Hence, isNegative flag is set to true.
+message:the burritos were not even what the description said. none of the promised ingredients. barely anything on them for the cost. it(@single_quotes@)s like a $5 burrito for $14. i paid for extra sausage for my son and maybe got a link(@single_quotes@)s worth cut up on top...for over $2 paid. way over priced and not what is advertised. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.7,
+    "neutral": 0.3,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:it was just okay. not offensive, not great
+ ai:{
+    "positive": 0.3,
+    "negative": 0.2,
+    "neutral": 0.5,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:not worth the price. eggs in both the burrito and the bowl were flavorous rubber. so little sausage in the burrito that couldn(@single_quotes@)t even get some in every bite. hasbrowns undercooked. everything was very bland. only positive were the tots were crispy in the bowl.
+ ai:{
+  "positive": 0.1,
+  "negative": 0.8,
+  "neutral": 0.1,
+  "isPositive": false,
+  "isNegative": true,
+  "isNeutral": false
+}
+message:the quality of food was awful. the burritos mostly consist of the wrap and not enough filling. the side of hashbrowns were burnt and tasted very off. would not recommend.  
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:wasn(@single_quotes@)t a fan. 
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:The most disgusting fish I have eaten, so bitter that u cannot even taste a bit, wouldn(@single_quotes@)t recommend to anyone  , Worst dish on their menu 
+ ai:{
+    "positive": 0,
+    "negative": 1,
+    "neutral": 0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:in my personal opinion, a complete rip off for the price
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+
+Explanation: The sentiment of the text is negative as the phrase "a complete rip off for the price" is an indication of dissatisfaction with the product or service. Therefore, the values are set accordingly in the output. The isNegative field is set to true, indicating that the sentiment of the text is negative.
+message:the philly was incredibly dry and was very small for the price, maybe 10" they also forgot the side of cheese sauce which probably would have helped. for the frings (half fries, half onion rings) im not convinced there were even onions in the onion rings it was all batter and the fries were undercooked and didnt have any salt or anything on them. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:the burritos were not even what the description said. none of the promised ingredients. barely anything on them for the cost. it(@single_quotes@)s like a $5 burrito for $14. i paid for extra sausage for my son and maybe got a link(@single_quotes@)s worth cut up on top...for over $2 paid. way over priced and not what is advertised. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:great tasting food, but very small quantities for the price.
+ ai:{
+    "positive": 0.3,
+    "negative": 0.5,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:the quality of food was awful. the burritos mostly consist of the wrap and not enough filling. the side of hashbrowns were burnt and tasted very off. would not recommend.  
+ ai:{
+    "positive": 0.2,
+    "negative": 0.6,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:first time trying this place and my burrito is missing half the ingredients lol..
+ ai:{
+    "positive": 0.0,
+    "negative": 0.7,
+    "neutral": 0.3,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:The most disgusting fish I have eaten, so bitter that u cannot even taste a bit, wouldn(@single_quotes@)t recommend to anyone  , Worst dish on their menu 
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:The pasta taste like it was very undercooked and it was very chalky and pasty. And for $18. I expected a little bit more on the portion. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:the philly was incredibly dry and was very small for the price, maybe 10" they also forgot the side of cheese sauce which probably would have helped. for the frings (half fries, half onion rings) im not convinced there were even onions in the onion rings it was all batter and the fries were undercooked and didnt have any salt or anything on them. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:This is not really chicken marsala. It(@single_quotes@)s a mushrooms sauce on fettuccine, with a salty, dry, grilled chicken breast on the top.  I was duped. Now you know.
+ ai:{
+    "positive": 0.0,
+    "negative": 0.6,
+    "neutral": 0.4,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:great tasting food, but very small quantities for the price.
+ ai:{
+    "positive": 0.4,
+    "negative": 0.6,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+
+Explanation:
+The sentiment of the text is mostly negative as the customer is expressing dissatisfaction with the price for the small quantity of food. The positive sentiment score is only 0.4 because the customer did mention that the food was great tasting. There is no neutral sentiment in this text. The output also includes boolean values indicating the dominant sentiment in the text.
+message:1st time trying this. they messed up the order and switched the burritos around.
+ ai:{
+    "positive": 0.0,
+    "negative": 0.5,
+    "neutral": 0.5,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:first time trying this place and my burrito is missing half the ingredients lol..
+ ai:{
+    "positive": 0.0,
+    "negative": 0.6,
+    "neutral": 0.4,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:completely messed up our order and we were not allowed a redelivery thanks to the doordash policy
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:The pasta taste like it was very undercooked and it was very chalky and pasty. And for $18. I expected a little bit more on the portion. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.7,
+    "neutral": 0.3,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:if i could give zero stars i would! how do you mess up truffle fries order! spaghetti sauce tasted like it had been sitting on the c ounter for days! spend your money elsewherw please
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:ordered pbj pancakes, only received regular.
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:This is not really chicken marsala. It(@single_quotes@)s a mushrooms sauce on fettuccine, with a salty, dry, grilled chicken breast on the top.  I was duped. Now you know.
+ ai:{
+    "positive": 0.0,
+    "negative": 0.7,
+    "neutral": 0.3,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:the sausage was good. unfortunately, the pancakes were not good.
+ ai:{
+    "positive": 0.33,
+    "negative": 0.33,
+    "neutral": 0.33,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+message:1st time trying this. they messed up the order and switched the burritos around.
+ ai:{
+    positive: 0,
+    negative: 0.8,
+    neutral: 0.2,
+    isPositive: false,
+    isNegative: true,
+    isNeutral: false
+}
+message:completely messed up our order and we were not allowed a redelivery thanks to the doordash policy
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:   i never received my angle wings in Hollywood order. I received an order from HoneyBee in mid city with my name on it instead. so disappointed
+ How does this even happen. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:this is the second time you guys forgot itmes. last time it was syrup. this time butter 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:if i could give zero stars i would! how do you mess up truffle fries order! spaghetti sauce tasted like it had been sitting on the c ounter for days! spend your money elsewherw please
+ ai:{
+    "positive": 0.0,
+    "negative": 0.9,
+    "neutral": 0.1,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:ordered pbj pancakes, only received regular.
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:i was given cold brew coffee instead of Iced tea and arnold palmer was half coffee half lemonade 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:too much cheese. taste like school lunch 
+ ai:{
+    "positive": 0.1,
+    "negative": 0.8,
+    "neutral": 0.1,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:the sausage was good. unfortunately, the pancakes were not good.
+ ai:{
+    "positive": 0.333,
+    "negative": 0.333,
+    "neutral": 0.333,
+    "isPositive": false,
+    "isNegative": false,
+    "isNeutral": true
+}
+
+Explanation: The sentiment of the text is mixed as it contains both positive and negative sentiments about different aspects of the experience. The score for each sentiment is 0.333 as there are three sentences in the text. The "isPositive", "isNegative", and "isNeutral" values are all false because the sentiment is not clearly positive, negative, or neutral.
+message:   i never received my angle wings in Hollywood order. I received an order from HoneyBee in mid city with my name on it instead. so disappointed
+ How does this even happen. 
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:The pasta was flavorless 
+Yuck 
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:this is the second time you guys forgot itmes. last time it was syrup. this time butter 
+ ai:{
+  "positive": 0.0,
+  "negative": 0.8,
+  "neutral": 0.2,
+  "isPositive": false,
+  "isNegative": true,
+  "isNeutral": false
+}
+message:Bad Presentation, Bad Packing, Sloppy Food Portions, Incorrect Order, Food Taste Nasty
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:i was given cold brew coffee instead of Iced tea and arnold palmer was half coffee half lemonade 
+ ai:{
+    "positive": 0,
+    "negative": 0.75,
+    "neutral": 0.25,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:unfortunately they gave me two of the same tacos. we didn(@single_quotes@)t get our hangover the hangover burrito 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.6,
+    "neutral": 0.4,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:too much cheese. taste like school lunch 
+ ai:{
+    positive: 0.1,
+    negative: 0.8,
+    neutral: 0.1,
+    isPositive: false,
+    isNegative: true,
+    isNeutral: false
+}
+message:The pasta was flavorless 
+Yuck 
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:nothing special, not enough feta cheese. probably would not order that bowl again. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.8,
+    "neutral": 0.2,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:Bad Presentation, Bad Packing, Sloppy Food Portions, Incorrect Order, Food Taste Nasty
+ ai:{
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:unfortunately they gave me two of the same tacos. we didn(@single_quotes@)t get our hangover the hangover burrito 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.5,
+    "neutral": 0.5,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}
+message:nothing special, not enough feta cheese. probably would not order that bowl again. 
+ ai:{
+    "positive": 0.0,
+    "negative": 0.7,
+    "neutral": 0.3,
+    "isPositive": false,
+    "isNegative": true,
+    "isNeutral": false
+}

@@ -1,0 +1,136 @@
+message:Provide a statistical analysis for the feedback data,
+    for bad feedback, provide a list of reasons why the feedback is bad, and also check how many times same reason is repeated.
+
+ ai:Statistical Analysis:
+- Total feedback: 25
+- Average rating: 2.8
+- Total bad feedback (rating < 3): 16
+- Total good feedback (rating >=3): 9
+- Most common outlet: Bedhead Burritos and Bowls (7 times)
+- Most common channel: DOORDASH (18 times)
+
+List of reasons for bad feedback and their frequency:
+- Incorrect or missing items in the order (5 times)
+- Small portions for the price (2 times)
+- Food not cooked or prepared properly (2 times)
+- No response or refund for missing items in the order (1 time)
+- Overpriced and over-seasoned food (1 time)
+- Drink spilled on order and missing cream cheese (1 time)
+- False advertising on the outlet location (1 time)
+- Dry and tough bread (1 time)
+- Bland pasta with small portions (1 time)
+- No marinara sauce and missing items in the order (1 time)
+
+Note: Some feedback did not have a specific reason, and were not included in the list.
+
+
+message:Provide a statistical analysis for the feedback data,
+    for bad feedback, provide a list of reasons why the feedback is bad, and also check how many times same reason is repeated. the response should be of 30 words or less. make it like i am asking you to provide a report on the feedback data and im restaurant owner.
+
+ ai:Out of the 23 feedbacks, 15 were negative. The most common reasons for bad feedback were missing items or incorrect orders (5 times), small portion sizes (2 times), and poor quality/undercooked food (2 times). Other reasons included spilled drinks, overseasoning, false advertising, and lack of response for refunds.
+
+
+message:Provide a statistical analysis for the feedback data,
+    for bad feedback, provide a list of reasons why the feedback is bad, and also check how many times same reason is repeated. the response should be of 30 words or less. make it like i am asking you to provide a report on the feedback data and im restaurant owner.
+
+ ai:There were 9 bad feedback out of 25 total feedback. The most repeated reasons for bad feedback were missing or incorrect items (4 times), small portions for the price (2 times), and poor taste (2 times).
+
+
+message:Provide a statistical analysis for the feedback data,
+    for bad feedback, provide a list of reasons why the feedback is bad, and also check how many times same reason is repeated. the response should be of 30 words or less. make it like i am asking you to provide a report on the feedback data and im restaurant owner.
+
+ ai:Report on customer feedback:
+
+Out of 25 feedbacks, 16 were negative. Most common reasons for bad feedback were missing items, incorrect orders and poor quality. Inconsistent portions and high prices were also common complaints. Positive feedback was related to taste and flavor.
+
+
+message:Provide a statistical analysis for the feedback data,
+    for bad feedback, provide a list of reasons why the feedback is bad, and also check how many times same reason is repeated. the response should be of 30 words or less. make it like i am asking you to provide a report on the feedback data and im restaurant owner.
+
+ ai:Report on feedback data: Out of 25 reviews, 13 were negative. The most common reasons for bad feedback were missing or incorrect items (6 times) and poor quality or taste of food (5 times). Other reasons included small portion sizes, no utensils or condiments provided, and high prices for low quality.
+
+
+message:Provide a statistical analysis for the feedback data,
+    for bad feedback, provide a list of reasons why the feedback is bad, and also check how many times same reason is repeated. the response should be of 30 words or less. make it like i am asking you to provide a report on the feedback data and im restaurant owner.
+
+ ai:Statistical analysis: Out of 25 feedback, 9 were bad (36%) with an average rating of 1.89. Most bad feedbacks complained about missing or incorrect items (6 times), followed by small portions (2 times) and poor taste/quality (1 time).
+
+
+message:Provide a statistical analysis for the feedback data,
+    for bad feedback, provide a list of reasons why the feedback is bad, and also check how many times same reason is repeated. the response should be of 30 words or less. make it like i am asking you to provide a report on the feedback data and im restaurant owner.
+
+ ai:Report for feedback data:
+- There were 22 feedback entries.
+- 9 feedback entries were rated bad (1 or 2 stars).
+- Most common issues were missing or incorrect items (5), undercooked or overcooked food (2), and small portions for the price (1).
+- Other issues included spilled drinks, dry or rough food, false advertising, and over seasoning.
+
+
+message:Provide a statistical analysis for the feedback data,
+    for bad feedback, provide a list of reasons why the feedback is bad, and also check how many times same reason is repeated. the response should be of 30 words or less. make it like i am asking you to provide a report on the feedback data and im restaurant owner.
+
+ ai:Out of 23 feedback, 17 were negative. Reasons for poor feedback include missing ingredients, small portions for the price paid, incorrect order, bad taste, overcooked food, missing items, and poor customer service. The most common reason is missing or incorrect items.
+
+
+message:Provide a statistical analysis for the feedback data,
+    for bad feedback, provide a list of reasons why the feedback is bad, and also check how many times same reason is repeated. the response should be of 30 words or less. make it like i am asking you to provide a report on the feedback data and im restaurant owner.
+
+ ai:Based on the feedback data, several issues were highlighted including missing or incorrect items in orders, undercooked or overseasoned food, small portions for high prices, and poor customer service. These issues should be addressed to improve customer satisfaction. Repeated reasons include missing items and poor food quality.
+
+
+message:Provide a statistical analysis for the feedback data,
+    for bad feedback, provide a list of reasons why the feedback is bad, and also check how many times same reason is repeated. the response should be of 30 words or less. make it like i am asking you to provide a report on the feedback data and im restaurant owner.
+
+ ai:As a restaurant owner, the feedback data indicates that a significant portion of customers are not satisfied with their orders. Common reasons include missing ingredients and messed up orders. It is important to address these issues to retain customers and improve overall satisfaction.
+
+
+message:Provide a statistical analysis for the feedback data,
+    for bad feedback, provide a list of reasons why the feedback is bad, and also check how many times same reason is repeated. the response should be of 30 words or less. make it like i am asking you to provide a report on the feedback data and im restaurant owner.
+
+ ai:As a restaurant owner, here's a statistical analysis of the feedback data: The feedback received was bad with a rating of 1. The reason for bad feedback is missing ingredients in the burrito. This reason was repeated once.
+
+
+message:Provide a statistical analysis for the feedback data,
+    for bad feedback, provide a list of reasons why the feedback is bad, and also check how many times same reason is repeated. the response should be of 30 words or less. make it like i am asking you to provide a report on the feedback data and im restaurant owner.
+
+ ai:Out of 24 feedback, 17 were negative. Common reasons for bad feedback were missing or incorrect orders, undercooked/over-seasoned food, small portions, and poor customer service. The most repeated reason was missing or incorrect orders.
+
+
+message:Provide a statistical analysis for the feedback data,
+    for bad feedback, provide a list of reasons why the feedback is bad, and also check how many times same reason is repeated. the response should be of 30 words or less. make it like i am asking you to provide a report on the feedback data and im restaurant owner.
+
+ ai:As per the feedback data, the mentioned customer had a bad experience with missing ingredients in their burrito. This issue was reported once and needs to be addressed to ensure customer satisfaction.
+
+
+message:Provide a statistical analysis for the feedback data,
+    for bad feedback, provide a list of reasons why the feedback is bad, and also check how many times same reason is repeated. the response should be of 30 words or less. make it like i am asking you to provide a report on the feedback data and im restaurant owner.
+
+ ai:Report on your feedback data:
+
+Out of the 23 feedback received, 16 were negative. The most common complaints were incorrect/damaged orders (5), poor quality of food (4), missing items (2), and overpriced food (2). Other reasons included poor portions, false advertising, and customer service issues.
+
+
+message:Provide a statistical analysis for the feedback data,
+    for bad feedback, provide a list of reasons why the feedback is bad, and also check how many times same reason is repeated. the response should be of 30 words or less. make it like i am asking you to provide a report on the feedback data and im restaurant owner.
+
+ ai:The feedback data shows multiple reasons for bad feedback, including undercooked food, missing ingredients, small portions for high prices, and poor quality. Many customers also complained about dry and flavorless food. These issues were repeated multiple times across different channels.
+
+
+message:Provide a statistical analysis for the feedback data,
+    for bad feedback, provide a list of reasons why the feedback is bad, and also check how many times same reason is repeated. the response should be of 30 words or less. make it like i am asking you to provide a report on the feedback data and im restaurant owner.
+
+ ai:The feedback data shows several recurring issues such as undercooked food, missing ingredients, flavorless food, and poor portion sizes. These issues led to low ratings and negative feedback from customers. It is recommended to address these issues and improve the overall quality of food and service.
+
+
+message:Provide a statistical analysis for the feedback data,
+    for bad feedback, provide a list of reasons why the feedback is bad, and also check how many times same reason is repeated. the response should be of 30 words or less. make it like i am asking you to provide a report on the feedback data and im restaurant owner.
+
+ ai:Out of 56 feedback responses, common bad reasons include undercooked/overcooked food, missing ingredients, small portions for high prices, bad taste/flavor, and incorrect orders. Overall, there were issues with food quality, accuracy, and value.
+
+
+message:Provide a statistical analysis for the feedback data,
+    for bad feedback, provide a list of reasons why the feedback is bad, and also check how many times same reason is repeated. the response should be of 30 words or less. make it like i am asking you to provide a report on the feedback data and im restaurant owner.
+
+ ai:The feedback data shows that 14 out of the 22 reviews are negative. The most common reasons for bad feedback include missing items, incorrect orders, small portions, overpriced food, and undercooked pasta. The restaurant should focus on improving the accuracy and quality of their orders.
+
+

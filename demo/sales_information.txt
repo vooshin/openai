@@ -1,0 +1,112 @@
+message:Consider you are expert in sales analytics and statistics for restaurants. You have to provide insights to the restaurant owner about the sales of the restaurant. You have the following data available with you. 
+
+ ai:After analyzing the provided data, the following insights can be provided to the restaurant owner:
+
+1. Average rating of the restaurant has improved slightly from the previous period with a current average rating of 3.85 compared to the previous rating of 3.82.
+
+2. The restaurant's online ratings have decreased by 1.57% as compared to the previous period with the average rate of 94.27%.
+
+3. There has been a decrease in net payout by 6.82% in the current period as compared to the previous period.
+
+4. The total number of orders has decreased by 25.26%, which is a significant decrease as compared to the previous period, resulting in a decreasing revenue of 27.72%.
+
+5. The city-wise data shows that the maximum orders and revenue of the restaurant are coming from the Detroit area.
+
+Based on the above insights, the restaurant owner should focus on improving their overall sales strategy to increase the number of orders and revenue. They should try to provide better customer experience and focus on improving their online ratings to attract more customers. Additionally, they could consider running promotions or discount offers to attract more customers to their restaurant. Finally, they can analyze their sales data to identify the most successful items on the menu and provide deals on those items.
+
+
+message:Consider you are expert in sales analytics and statistics for restaurants. You have to provide insights to the restaurant owner about the sales of the restaurant. You have the following data available with you. 
+
+ ai:Based on the data provided, here are a few insights that can be shared with the restaurant owner:
+
+1. Sales in the current period (from March 18, 2023 to April 17, 2023) have decreased by 25.26% in terms of order count and 27.72% in terms of total amount as compared to the previous period (from February 15, 2023 to March 18, 2023). The restaurant may need to explore reasons for this decline and take corrective measures.
+
+2. The average rating of the restaurant has increased slightly from 3.82 in the previous period to 3.85 in the current period. However, the percentage difference is only 0.8%, which indicates a marginal improvement. The restaurant may need to focus on improving its service quality and customer experience to enhance customer satisfaction and ratings.
+
+3. The percentage of online orders has decreased by 1.57% in the current period as compared to the last period. This may be due to factors like competition from other restaurants, lower marketing efforts, or issues with the restaurant's online ordering system. The restaurant may need to assess the reasons for the decline and take appropriate steps to increase online orders.
+
+4. Net payout has decreased by 6.82% in the current period as compared to the last period. This may be due to a decrease in order count and total amount as discussed earlier. The restaurant may need to evaluate its financials and identify areas for cost optimization to improve its net payout.
+
+5. City wise data shows that Detroit has the highest order count and total amount among all cities, followed by Ann Arbor, Toledo, and Rossford. Ann Arbor and Toledo have seen a decrease in order count and total amount in the current period as compared to the previous period, whereas Detroit has seen an increase in order count but a decrease in total amount. The restaurant may need to analyze the reasons for these trends and take steps to improve sales in these cities.
+
+
+message:Consider you are expert in sales analytics and statistics for restaurants. You have to provide insights to the restaurant owner about the sales of the restaurant,  the response should be of 30 words or less. You have the following data available with you. 
+
+ ai:Total orders and revenue have decreased by 25.26% and 27.72% respectively compared to the previous period, with a lower online rating playing a role. City-wise, Toledo has the most significant increase in orders and revenue.
+
+
+message:Consider you are expert in sales analytics and statistics for restaurants. You have to provide insights to the restaurant owner about the sales of the restaurant,  the response should be of 40 words or less. You have the following data available with you. 
+
+ ai:Total orders and sales have decreased by 25.26% and 27.72% respectively in the current period as compared to the previous period. Ann Arbor and Toledo have experienced a decline in both order count and amount while Detroit shows a considerable drop in order count. Action should be taken to improve sales.
+
+
+message:Consider you are expert in sales analytics and statistics for restaurants. You have to provide insights to the restaurant owner about the sales of the restaurant,  the response should be of 40 words or less. You have the following data available with you. 
+
+ ai:The restaurant's total orders and amount have decreased by 25.26% and 27.72% respectively compared to the previous period. The average rating has improved by 0.8% and the total online rate has decreased by 1.57%. Proper focus on the Ann Arbor region can help increase sales.
+
+
+message:Consider you are expert in sales analytics and statistics for restaurants. You have to provide insights to the restaurant owner about the sales of the restaurant,  the response should be of 50 words or less. You have the following data available with you. 
+
+ ai:The restaurant's total orders and total amount have decreased by 25.26% and 27.72% respectively compared to the previous period. Average rating has slightly increased with a percentage difference of 0.8%. Moreover, the net payout has decreased by 6.82%. Among the cities, Detroit has the highest order count and amount. The restaurant owner should focus on improving sales to increase net payout and consider strategies to improve customer ratings.
+
+
+message:Consider you are expert in sales analytics and statistics. You have to provide insights to the restaurant owner about the sales of the restaurant,  the response should be of 50 words or less. You have the following data available with you. 
+
+ ai:The restaurant had a 25.26% decrease in total orders and a 27.72% decline in total amount in the current period compared to the previous one. However, the average rating increased by 0.8% and the online rate decreased by 1.57%. The city-wise data shows that Detroit had the highest order count and amount, followed by Ann Arbor and Toledo. Rossford had no orders in the previous period. The current net payout decreased by 6.82% compared to the previous period.
+
+
+message:Consider you are expert in sales analytics and statistics. You have to provide insights to the restaurant owner about the sales for all the restaurant,  the response should be of 50 words or less. You have the following data available with you. 
+
+ ai:Total orders and amount have decreased significantly by 25.26% and 27.72%, respectively, compared to the previous period. The average online rating has decreased only slightly by 0.8%. Ann Arbor and Toledo locations have seen a decrease in both order count and amount, while Detroit has seen a significant decrease in order count but lesser decrease in amount. Rossford had no sales in the previous period.
+
+
+message:Consider you are expert in sales analytics and statistics. You have to provide insights to the restaurant owner about the sales for all the restaurant,  the response should be of 30 words or less. You have the following data available with you. 
+
+ ai:Sales have decreased by 25% and total amount by 27.72% compared to the previous period, and Ann Arbor has experienced the biggest decline in orders and revenue. However, the average rating and online rate have improved slightly.
+
+
+message:Consider you are expert in sales analytics and statistics. You have to provide insights to the restaurant owner about the sales for all the restaurant,  the response should be of 30 words or less. You have the following data available with you. 
+
+ ai:Sales have decreased by 25.26% with a decrease in average online rating of 1.57%. Ann Arbor and Detroit have seen the most significant changes in sales.
+
+
+message:Consider you are expert in sales analytics and statistics. You have to provide insights to the restaurant owner about the sales for all the restaurant,  the response should be of 30 words or less. You have the following data available with you. 
+
+ ai:Total orders and revenue have decreased by 25.26% and 27.72% respectively compared to the previous period. Ann Arbor and Toledo have seen a decreased order count while Detroit's order count remains high.
+
+
+message:Consider you are expert in sales analytics and statistics. You have to provide insights to the restaurant owner about the sales for all the restaurant,  the response should be of 30 words or less. You have the following data available with you. 
+
+ ai:Total orders have decreased by 25% and total amounts by 27%. Ann Arbor and Toledo saw fewer orders and amount, while Detroit saw more orders but less amounts in the current period.
+
+
+message:Consider you are expert in sales analytics and statistics. You have to provide insights to the restaurant owner about the sales for all the restaurant,  the response should be of 30 words or less. You have the following data available with you. 
+
+ ai:Total orders and amount have decreased by 25.26% and 27.72% respectively from the previous period. Ann Arbor and Toledo had lower orders and revenue compared to the previous period.
+
+
+message:Consider you are expert in sales analytics and statistics. You have to provide insights to the restaurant owner about the sales for all the restaurant,  the response should be of 30 words or less. You have the following data available with you. 
+
+ ai:Total orders have decreased by 25.26% and total amount by 27.72%. Ann Arbor and Toledo had fewer orders, while Detroit had the largest decrease. The overall net payout decreased by 6.82%.
+
+
+message:Consider you are expert in sales analytics and statistics. You have to provide insights to the restaurant owner about the sales for all the restaurant,  the response should be of 30 words or less. You have the following data available with you. 
+
+ ai:Sales for the current period decreased by 25.26% with a 27.72% decrease in total amount compared to the previous period. The average rating increased by 0.03 points with a 0.8% difference, and online ratings decreased 1.57%. The net payout decreased by 6.82%. City-wise data shows the highest sales in Detroit.
+
+
+message:Consider you are expert in sales analytics and statistics. You have to provide insights to the restaurant owner about the sales for all the restaurant,  the response should be of 30 words or less. You have the following data available with you. 
+
+ ai:Total orders and amount decreased by 25.26% and 27.72% respectively compared to the previous period. Majority of sales came from Detroit with 1081 orders and $16838.63 revenue.
+
+
+message:Consider you are expert in sales analytics and statistics. You have to provide insights to the restaurant owner about the sales for all the restaurant,  the response should be of 30 words or less. You have the following data available with you. 
+
+ ai:The restaurant's total online rating decreased by 1.57% and total orders decreased by 25.26%, resulting in a 27.72% decrease in total sales amount in the current period compared to the previous period.
+
+
+message:Consider you are expert in sales analytics and statistics. You have to provide insights to the restaurant owner about the sales for all the restaurant,  the response should be of 30 words or less. You have the following data available with you. 
+
+ ai:Total orders and revenue have decreased remarkably by 25.26% and 27.72%, respectively, compared to the previous period. Detroit has remained the top city, contributing significantly to total orders and revenue.
+
+

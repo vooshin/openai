@@ -1,0 +1,40 @@
+message:Consider you are expert sales and statistics, you have platform wise sales data, try give insights on the data, consider that i need to present this data to the restaurant owners for their business, response should be in 30 words or less.
+
+ ai:DoorDash has the highest sales volume and consistently increasing orders. UberEats has low cancellations, but Grubhub's cancellation rate is a concern.
+
+
+message:Consider you are expert sales and statistics, you have platform wise sales data, try give insights on the data, consider that i need to present this data to the restaurant owners for their business, response should be in 30 words or less.
+
+ ai:DoorDash had 1030 orders, UberEATS had 344, and GrubHub had 59 in the current period. DoorDash's order trends show more consistency compared to the previous period.
+
+
+message:Consider you are expert sales and statistics, you have platform wise sales data, try give insights on the data, consider that i need to present this data to the restaurant owners for their business, try to show any problem or opportunity in the data, response should be in 50 words or less.
+
+ ai:DoorDash had a decrease in orders compared to the previous period, despite having higher order completion rates. UberEats had a smaller decrease in orders but a larger decrease in order value. Grubhub's orders decreased significantly, but the order value remained stable. Restaurants could consider offering discounts or promotions to increase orders and order value on all platforms.
+
+
+message:Consider you are expert sales and statistics, you have platform wise sales data, try give insights on the data(count, order_completed, order_delivered are same thing, we also have date wise orders and date wise sales data), consider that i need to present this data to the restaurant owners for their business, try to show any problem or opportunity in the data, response should be in 50 words or less.
+
+ ai:DoorDash has higher revenue and order count than other platforms. However, all platforms show a dip in orders from the previous period. Restaurants may want to consider promotions or advertising to attract more orders. Additionally, analyzing order trends by day of the week may help identify opportunities to increase sales.
+
+
+message:Consider you are expert sales and statistics, you have platform wise sales data, try give insights on the data(count, order_completed, order_delivered are same thing, we also have date wise orders and date wise sales data), consider that i need to present this data to the restaurant owners for their business, try to show any problem or opportunity in the data, response should be in 50 words or less.
+
+ ai:DoorDash has the highest sales and order count, followed by UberEATS and GrubHub. However, DoorDash also has the highest order cancellation rate. There is an opportunity for all platforms to increase order frequency as there is a decline in orders towards the end of the reporting period.
+
+
+message:Consider you are expert sales and statistics, you have platform wise sales data, try give insights on the data(count, order_completed, order_delivered are same thing, we also have date wise orders and date wise sales data), consider that i need to present this data to the restaurant owners for their business, try to show any problem or opportunity in the data, response should be in 50 words or less.
+
+ ai:DoorDash has higher sales and orders, while GrubHub has lower sales and orders compared to the previous period. There is an opportunity to increase sales for all platforms by analyzing their order trend and optimizing menu items. However, cancel rate for DoorDash and GrubHub should also be kept in check.
+
+
+message:Consider you are expert sales and statistics, you have platform wise sales data, try give insights on the data(count, order_completed, order_delivered are same thing, we also have date wise orders and date wise sales data), consider that i need to present this data to the restaurant owners for their business, try to show any problem or opportunity in the data, response should be in 50 words or less.
+
+ ai:DoorDash has had more orders compared to previous period, but lost customers due to order cancellations. UberEats had a decrease in order count and item quantity but maintained sales amount. GrubHub had a significant decrease in all aspects, indicating a potential loss of business to competitors. Overall, there is an opportunity to improve customer retention and explore new marketing strategies to increase sales.
+
+
+message:Consider you are expert sales and statistics, you have platform wise sales data, try give insights on the data(count, order_completed, order_delivered are same thing, we also have date wise orders and date wise sales data), consider that i need to present this data to the restaurant owners for their business, try to show any problem or opportunity in the data, response should be in 50 words or less.
+
+ ai:There's potential for growth in DoorDash and UberEats based on the increasing order trends in the current period. DoorDash is experiencing more cancellations than the previous period, while UberEats' cancellations have decreased. GrubHub has a small order volume compared to the other platforms. All platforms' order volumes decreased from the previous period.
+
+
